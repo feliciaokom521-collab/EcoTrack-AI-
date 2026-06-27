@@ -1,0 +1,1001 @@
+Community_ID,Community_Name,State,Country,Population,Population_Density,Average_Monthly_Waste_Generated_Tons,Waste_Collection_Frequency_Per_Week,Illegal_Dumping_Reports,Blocked_Drainage_Incidents,Flood_Incidents_Last_Year,Distance_To_Waste_Disposal_Site_KM,Environmental_Complaints,Sanitation_Awareness_Score,Waste_Recycling_Rate,Economic_Status_Index,Infrastructure_Quality_Score,Year_Data_Collected,Risk_Level,Hotspot_Status,Risk_Score _Original,EcoTrack_Risk_Category_Original,Risk_Score_Corrected,EcoTrack_Risk_Category_Corrected,Date,Early_Warning_Flag,Collection_Gap_Flag,Disposal_Acess_Flag
+1,New Market 51,Kaduna,Nigeria,27441,243,7.59,1,15,6,3,61.9,36,29,12,2,45,2024,High,Yes,12.9,Medium Risk,0.534690295,Medium,13/11/2024,Stable,Adequate,Standard
+2,East Estate 4,Borno,Nigeria,33979,134,10.63,1,20,8,7,22.9,61,12,11,3,35,2024,High,Yes,19.9,High Risk,0.847021271,Critical,4/3/2024,Stable,Adequate,Standard
+3,New Village 81,Enugu,Nigeria,21576,276,5.24,1,19,8,4,32.9,43,20,21,3,55,2023,High,Yes,16.1,High Risk,0.690685459,High,11/6/2023,Stable,Adequate,Standard
+4,East Gate 15,Akwa Ibom,Nigeria,55212,277,13.37,2,10,4,3,72.7,27,51,19,5,52,2024,Medium,No,9.3,Medium Risk,0.389464583,Low,3/2/2024,Stable,Adequate,Standard
+5,North Village 128,Imo,Nigeria,52736,83,18.46,1,17,7,5,20,49,17,30,4,50,2024,High,Yes,16.3,High Risk,0.684562877,High,9/5/2024,Stable,Underserved,Standard
+6,Old Park 130,Imo,Nigeria,30631,112,7.55,1,13,9,4,30.9,36,43,13,1,50,2022,High,Yes,13.2,Medium Risk,0.603687331,Medium,26/03/2022,Stable,Adequate,Standard
+7,West Market 139,Kano,Nigeria,65319,189,27.21,1,15,7,3,79.1,30,41,10,5,50,2024,High,Yes,12.25,Medium Risk,0.541628094,Medium,13/05/2024,Stable,Underserved,Standard
+8,New Area 60,Lagos,Nigeria,60692,325,15.86,1,10,5,3,25.9,44,10,42,6,80,2024,High,Yes,12.1,Medium Risk,0.456928698,Low,4/8/2024,Stable,Underserved,Standard
+9,Old Gate 68,Lagos,Nigeria,34037,585,12.58,2,7,3,2,21.1,26,51,34,3,80,2024,Medium,No,7.6,Medium Risk,0.287203557,Low,10/4/2024,Stable,Adequate,Standard
+10,North Quarter 61,Lagos,Nigeria,35464,519,10.15,2,13,5,3,29.5,39,25,31,1,80,2024,High,Yes,12.4,Medium Risk,0.489422977,Low,5/6/2024,Stable,Adequate,Standard
+11,North Village 104,Kano,Nigeria,23721,182,7.68,1,17,8,2,52.2,34,15,18,1,50,2023,High,Yes,13.55,Medium Risk,0.574066466,Medium,13/09/2023,Stable,Adequate,Standard
+12,New Village 143,Akwa Ibom,Nigeria,48909,99,12.61,1,17,7,2,42.3,30,38,3,1,52,2022,High,Yes,12.7,Medium Risk,0.540812877,Medium,12/10/2022,Stable,Adequate,Standard
+13,New Estate 124,Borno,Nigeria,45760,489,13.31,1,19,7,5,68.8,43,39,9,1,35,2024,High,Yes,16.1,High Risk,0.699208186,High,19/04/2024,At Risk,Adequate,Structural Hotspot
+14,Central Gate 29,Imo,Nigeria,59252,128,15.97,2,12,5,5,57.9,45,36,39,1,50,2023,High,Yes,13.45,Medium Risk,0.552495059,Medium,28/12/2023,Stable,Adequate,Standard
+15,West Quarter 16,Borno,Nigeria,84056,160,32.62,1,16,6,3,55,41,14,31,1,35,2024,High,No,14,Medium Risk,0.563065581,Medium,12/6/2024,At Risk,Underserved,Standard
+16,West District 154,Akwa Ibom,Nigeria,42563,303,11.39,1,17,8,5,28.4,39,47,12,2,52,2024,High,Yes,15.05,High Risk,0.68097436,High,10/9/2024,Stable,Adequate,Standard
+17,South District 12,Imo,Nigeria,34081,131,11.79,1,19,9,5,33.3,42,38,0,1,50,2024,High,Yes,16.45,High Risk,0.742031152,Critical,16/05/2024,Stable,Adequate,Standard
+18,West Quarter 123,Lagos,Nigeria,95089,753,28.64,4,1,1,0,28.9,11,62,56,3,80,2022,Low,No,2.25,Low Risk,0.04847098,Low,25/12/2022,Stable,Adequate,Standard
+19,New District 166,FCT,Nigeria,59651,683,20.95,2,8,4,1,13.8,20,60,28,6,85,2024,Medium,No,7.05,Medium Risk,0.278108748,Low,6/7/2024,Stable,Adequate,Standard
+20,Central Park 105,Kano,Nigeria,59596,209,18.8,1,16,9,6,31.2,54,16,0,2,50,2024,High,Yes,17.45,High Risk,0.759207926,Critical,1/5/2024,Stable,Underserved,Standard
+21,East District 54,Kaduna,Nigeria,17547,240,5.81,1,16,7,5,79.5,45,28,18,4,45,2024,High,Yes,15.35,High Risk,0.65881917,High,24/09/2024,Stable,Adequate,Structural Hotspot
+22,East District 157,Enugu,Nigeria,70530,123,20.95,1,13,6,2,29.9,22,56,5,3,55,2022,High,Yes,9.85,Medium Risk,0.436163408,Low,3/5/2022,Stable,Underserved,Standard
+23,North Gate 197,Kano,Nigeria,16318,88,6.42,1,15,5,4,78,40,34,0,1,50,2023,High,Yes,13.5,Medium Risk,0.553739338,Medium,22/12/2023,Stable,Adequate,Standard
+24,North Market 133,FCT,Nigeria,60128,535,17.89,2,5,3,2,14,18,74,25,9,85,2024,Low,No,5.7,Low Risk,0.235716143,Low,1/3/2024,Stable,Adequate,Standard
+25,West Village 81,Bauchi,Nigeria,38097,261,14.3,1,17,9,3,40.5,33,37,18,1,40,2024,High,Yes,13.9,Medium Risk,0.625412159,Medium,24/10/2024,Stable,Adequate,Standard
+26,North Village 93,FCT,Nigeria,55418,950,14.73,3,1,2,0,19.6,9,81,24,7,85,2023,Low,No,2.2,Low Risk,0.065935095,Low,27/03/2023,Stable,Adequate,Standard
+27,East Village 63,Oyo,Nigeria,22987,257,6.86,1,14,4,3,73.1,34,30,16,3,60,2023,High,Yes,11.75,Medium Risk,0.468755201,Low,24/03/2023,Stable,Adequate,Standard
+28,East Village 115,Lagos,Nigeria,84687,406,24.13,1,8,5,4,5.9,38,44,20,5,80,2024,High,Yes,10.75,Medium Risk,0.441954441,Low,13/11/2024,Stable,Underserved,Standard
+29,West Estate 169,Plateau,Nigeria,57136,212,14.25,1,15,7,2,38.1,37,24,37,4,48,2024,High,Yes,13.05,Medium Risk,0.528799147,Medium,11/5/2024,Stable,Adequate,Standard
+30,Old Area 179,FCT,Nigeria,104853,313,32.21,2,6,2,0,9.3,14,38,42,6,85,2024,Medium,No,4.7,Low Risk,0.155179946,Low,10/6/2024,Stable,Adequate,Standard
+31,East District 151,Plateau,Nigeria,34528,72,14.57,1,18,10,5,64.9,45,28,16,4,48,2024,High,Yes,16.8,High Risk,0.757435771,Critical,25/12/2024,Stable,Adequate,Structural Hotspot
+32,New District 165,Imo,Nigeria,26750,278,7.71,2,14,6,4,76,45,20,38,3,50,2024,High,Yes,14.15,High Risk,0.574407115,Medium,13/09/2024,Stable,Adequate,Standard
+33,East District 104,FCT,Nigeria,62850,718,20.98,3,6,3,1,20.6,33,16,11,7,85,2023,Low,No,8.05,Medium Risk,0.259157219,Low,13/03/2023,Stable,Adequate,Standard
+34,North Park 47,Akwa Ibom,Nigeria,23293,215,6.5,1,17,9,5,24.9,42,34,10,6,52,2024,High,Yes,15.75,High Risk,0.71159637,Critical,28/06/2024,Stable,Adequate,Standard
+35,West Estate 141,Rivers,Nigeria,43767,189,18.44,1,13,6,3,51.8,33,49,11,3,65,2023,High,Yes,11.75,Medium Risk,0.496360776,Low,12/10/2023,Stable,Underserved,Standard
+36,New Gate 1,Akwa Ibom,Nigeria,107544,197,33.19,1,16,8,4,54.4,49,14,14,1,52,2024,High,Yes,15.95,High Risk,0.660822758,High,19/10/2024,Stable,Underserved,Standard
+37,East Village 182,Enugu,Nigeria,33840,73,12.63,2,11,4,1,49.9,27,29,37,2,55,2023,Medium,Yes,9.15,Medium Risk,0.342181974,Low,22/04/2023,Stable,Adequate,Standard
+38,East Area 62,Akwa Ibom,Nigeria,20095,214,5.81,2,13,4,3,51.2,34,37,34,2,52,2023,High,Yes,11.4,Medium Risk,0.453537809,Low,5/9/2023,Stable,Adequate,Standard
+39,New Quarter 32,Lagos,Nigeria,41584,1486,13.38,2,12,2,0,19,16,42,15,4,80,2024,Medium,No,7.1,Medium Risk,0.251747452,Low,17/09/2024,Stable,Adequate,Standard
+40,West Gate 151,Oyo,Nigeria,31722,319,10.19,1,16,5,3,61.9,32,50,29,3,60,2023,High,Yes,12.4,Medium Risk,0.516654098,Medium,3/11/2023,Stable,Adequate,Structural Hotspot
+41,New Estate 158,FCT,Nigeria,39285,602,10.78,1,9,2,1,20.6,10,69,12,4,85,2024,Medium,No,5.4,Low Risk,0.221555804,Low,14/11/2024,Stable,Adequate,Standard
+42,East Estate 17,Akwa Ibom,Nigeria,35650,220,13.86,1,13,6,2,23.6,23,59,28,5,52,2024,High,Yes,10,Medium Risk,0.438794986,Low,3/11/2024,Stable,Adequate,Standard
+43,New Quarter 115,FCT,Nigeria,74725,432,25.05,2,10,3,2,27.9,31,23,26,6,85,2022,Medium,No,9.4,Medium Risk,0.346013626,Low,19/02/2022,Stable,Adequate,Standard
+44,East District 171,Imo,Nigeria,53449,170,16.07,1,16,6,4,25.5,47,10,22,2,50,2023,High,Yes,15.15,High Risk,0.610105055,Medium,2/6/2023,Stable,Underserved,Standard
+45,West Market 198,Akwa Ibom,Nigeria,101397,270,28.39,1,18,7,3,74.6,41,11,33,3,52,2024,High,Yes,14.95,High Risk,0.616227637,Medium,28/04/2024,Stable,Underserved,Structural Hotspot
+46,West Village 108,Akwa Ibom,Nigeria,34780,232,11.22,1,16,6,4,75.1,35,48,15,5,52,2024,High,Yes,13.35,Medium Risk,0.578526108,Medium,8/11/2024,Stable,Adequate,Structural Hotspot
+47,Old Area 123,Borno,Nigeria,58469,178,21.7,1,22,10,6,42.7,46,46,25,2,35,2022,High,Yes,18.6,High Risk,0.852186915,Critical,23/10/2022,Stable,Underserved,Standard
+48,Old District 73,Kaduna,Nigeria,35650,180,10.16,1,14,7,2,62.6,32,26,27,2,45,2024,High,Yes,11.95,Medium Risk,0.500423861,Low,25/01/2024,Stable,Adequate,Standard
+49,North District 5,Lagos,Nigeria,40895,467,14.24,1,12,5,2,15,24,48,39,5,80,2022,High,No,9.55,Medium Risk,0.403481901,Low,6/10/2022,Stable,Adequate,Standard
+50,South Quarter 170,Enugu,Nigeria,28114,390,8.49,1,14,6,2,53.5,34,20,17,5,55,2022,High,No,12,Medium Risk,0.482959746,Low,19/05/2022,Stable,Adequate,Standard
+51,New District 107,Plateau,Nigeria,46017,163,13.64,1,18,8,6,50.3,48,41,26,5,48,2023,High,Yes,17,High Risk,0.751125962,Critical,21/07/2023,Stable,Adequate,Standard
+52,New District 163,Plateau,Nigeria,37139,218,10.53,1,16,7,4,74.1,47,16,27,1,48,2022,High,Yes,15.4,High Risk,0.632832328,High,20/11/2022,Stable,Adequate,Structural Hotspot
+53,Old Area 179,Enugu,Nigeria,63090,160,21.43,1,16,6,3,18.8,31,60,13,1,55,2022,High,Yes,12.5,Medium Risk,0.536749792,Medium,19/11/2022,Stable,Underserved,Standard
+54,Old Village 1,Bauchi,Nigeria,68875,145,17.14,1,15,8,5,57.5,50,15,2,2,40,2024,High,Yes,16,High Risk,0.679486946,High,20/03/2024,At Risk,Underserved,Standard
+55,New District 24,Imo,Nigeria,48866,122,13.43,1,19,8,4,27.1,40,35,26,4,50,2024,High,Yes,15.65,High Risk,0.682790722,High,9/6/2024,Stable,Adequate,Standard
+56,Central Quarter 102,Borno,Nigeria,76995,406,21.92,1,20,7,5,24.7,53,20,9,3,35,2024,High,Yes,17.95,High Risk,0.740741367,Critical,12/6/2024,Stable,Underserved,Standard
+57,New Park 90,Plateau,Nigeria,34744,106,10.56,2,13,6,3,36.2,40,15,15,3,48,2022,High,Yes,12.8,Medium Risk,0.514781829,Medium,11/4/2022,Stable,Adequate,Standard
+58,East Estate 14,Imo,Nigeria,27159,251,10.36,1,20,9,5,67.1,45,40,13,6,50,2023,High,Yes,17.25,High Risk,0.765143281,Critical,16/01/2023,Stable,Adequate,Structural Hotspot
+59,East Park 97,Bauchi,Nigeria,39648,454,14.72,1,20,9,5,43.2,41,31,5,2,40,2023,High,Yes,16.65,High Risk,0.754616965,Critical,1/11/2023,Stable,Adequate,Standard
+60,West Park 99,Kaduna,Nigeria,60425,172,13.4,1,17,9,6,46.6,51,20,11,4,45,2023,High,Yes,17.35,High Risk,0.76653058,Critical,14/12/2023,Stable,Adequate,Standard
+61,South Park 31,Imo,Nigeria,39296,219,11.71,1,15,4,3,53.5,35,24,4,5,50,2024,High,Yes,12.25,Medium Risk,0.486604171,Low,13/07/2024,Stable,Adequate,Standard
+62,North Market 108,Bauchi,Nigeria,33432,314,9.32,1,19,9,4,39.7,43,10,30,5,40,2024,High,Yes,16.35,High Risk,0.713412731,Critical,6/11/2024,Stable,Adequate,Standard
+63,West Quarter 151,Bauchi,Nigeria,39267,176,12.07,1,15,7,2,17.7,33,26,14,4,40,2024,High,Yes,12.45,Medium Risk,0.518272831,Medium,26/03/2024,Stable,Adequate,Standard
+64,South Market 196,Rivers,Nigeria,22696,261,7.61,1,13,6,4,76.4,36,46,50,6,65,2024,High,Yes,12.45,Medium Risk,0.535505513,Medium,4/7/2024,Stable,Adequate,Standard
+65,North Gate 88,Lagos,Nigeria,68018,747,27.46,2,6,3,2,12.2,23,52,42,5,80,2024,Medium,No,6.8,Low Risk,0.264091429,Low,5/5/2024,Stable,Adequate,Standard
+66,North Quarter 117,Enugu,Nigeria,18782,343,5,2,14,8,4,53.2,41,32,9,3,55,2024,High,No,14.05,High Risk,0.609335344,Medium,25/10/2024,Stable,Adequate,Standard
+67,East Village 34,Imo,Nigeria,76410,192,19.24,1,15,8,5,48.9,50,25,21,4,50,2023,High,Yes,16,High Risk,0.679486946,High,24/06/2023,Stable,Underserved,Standard
+68,Old Quarter 84,Rivers,Nigeria,23454,105,5.23,1,12,6,2,26.8,27,35,32,8,65,2022,High,Yes,10.25,Medium Risk,0.434103911,Low,6/3/2022,Stable,Adequate,Standard
+69,Central Quarter 60,Rivers,Nigeria,40127,141,14.4,2,15,7,5,26.4,39,50,29,7,65,2023,High,Yes,14.1,High Risk,0.627812305,Medium,14/03/2023,Stable,Adequate,Standard
+70,West Village 42,Kaduna,Nigeria,25825,214,6.8,1,16,8,6,50.5,43,51,1,2,45,2024,High,Yes,15.55,High Risk,0.707533285,High,17/12/2024,Stable,Adequate,Standard
+71,West Quarter 27,Enugu,Nigeria,113369,322,32,1,15,8,3,53.7,40,10,35,1,55,2023,High,Yes,14,Medium Risk,0.590671157,Medium,12/2/2023,Stable,Underserved,Standard
+72,New Estate 190,FCT,Nigeria,77541,288,19.1,2,5,1,0,13.3,13,52,35,6,85,2024,Low,No,3.95,Low Risk,0.114603703,Low,14/08/2024,Stable,Adequate,Standard
+73,Old District 66,Plateau,Nigeria,43263,181,14.09,1,18,8,4,66.2,42,33,4,3,48,2022,High,Yes,15.6,High Risk,0.672836488,High,17/08/2022,Stable,Adequate,Structural Hotspot
+74,Central Quarter 14,Plateau,Nigeria,15183,242,5.3,1,17,7,3,75.5,34,35,18,5,48,2024,High,Yes,13.55,Medium Risk,0.582589193,Medium,11/12/2024,Stable,Adequate,Structural Hotspot
+75,New Quarter 32,Plateau,Nigeria,31202,271,10.07,1,16,7,5,76.9,46,36,18,1,48,2024,High,Yes,15.5,High Risk,0.661450749,High,8/4/2024,Stable,Adequate,Structural Hotspot
+76,East Park 40,Borno,Nigeria,37155,65,9.25,1,16,8,4,79.7,44,20,9,1,35,2024,High,Yes,15.2,High Risk,0.647664864,High,14/05/2024,At Risk,Adequate,Structural Hotspot
+77,New District 79,Lagos,Nigeria,53039,410,15.52,2,10,6,1,13.9,35,18,27,3,80,2024,Medium,Yes,10.5,Medium Risk,0.39347176,Low,3/2/2024,Stable,Adequate,Standard
+78,Central District 113,FCT,Nigeria,48056,619,15.62,2,4,4,0,13.1,14,50,54,3,85,2023,Low,No,4.5,Low Risk,0.170199709,Low,11/11/2023,Stable,Adequate,Standard
+79,North District 160,Plateau,Nigeria,16644,237,5.59,1,16,8,4,68.6,46,10,1,2,48,2024,High,Yes,15.5,High Risk,0.652928022,High,18/03/2024,Stable,Adequate,Structural Hotspot
+80,New Quarter 81,Borno,Nigeria,90242,197,25.98,1,17,10,4,65.4,45,10,20,4,35,2023,High,Yes,16.2,High Risk,0.710968379,Critical,23/02/2023,At Risk,Underserved,Structural Hotspot
+81,Old Area 146,Akwa Ibom,Nigeria,50879,83,18.87,1,14,7,6,17.7,48,53,29,4,52,2024,High,Yes,15.35,High Risk,0.667529124,High,22/11/2024,Stable,Underserved,Standard
+82,West Park 86,Kaduna,Nigeria,32010,117,9.1,1,17,10,4,72.2,37,44,0,1,45,2024,High,Yes,15,High Risk,0.689915748,High,12/2/2024,Stable,Adequate,Structural Hotspot
+83,West Area 111,Enugu,Nigeria,48229,173,14.63,1,16,7,4,50.2,44,36,28,1,55,2024,High,No,14.95,High Risk,0.624937591,Medium,26/08/2024,Stable,Adequate,Standard
+84,North District 186,Akwa Ibom,Nigeria,31822,181,11.75,1,19,8,3,38.1,34,37,38,1,52,2022,High,Yes,14.5,High Risk,0.635751248,High,5/8/2022,Stable,Adequate,Standard
+85,Central Area 24,Rivers,Nigeria,20945,351,7.57,2,9,4,2,40.2,23,53,47,4,65,2022,Medium,Yes,8.1,Medium Risk,0.332470876,Low,10/5/2022,Stable,Adequate,Standard
+86,Central Market 45,Oyo,Nigeria,75939,418,20.23,1,16,6,1,23,21,41,33,3,60,2024,High,Yes,10.5,Medium Risk,0.447934002,Low,25/09/2024,Stable,Underserved,Standard
+87,South Estate 35,Lagos,Nigeria,55950,876,20,2,8,5,4,9.6,40,26,25,7,80,2024,Medium,No,11.05,Medium Risk,0.447217599,Low,12/4/2024,Stable,Adequate,Standard
+88,South Area 138,Imo,Nigeria,46168,135,14.06,2,15,8,5,23.8,52,13,34,3,50,2023,High,Yes,16.3,High Risk,0.684750104,High,19/09/2023,Stable,Adequate,Standard
+89,North Area 128,Enugu,Nigeria,32565,139,11.09,2,16,8,3,20.6,30,44,9,4,55,2024,High,Yes,12.85,Medium Risk,0.579572758,Medium,11/8/2024,Stable,Adequate,Standard
+90,North Estate 85,Plateau,Nigeria,43900,182,12.43,1,15,8,5,50.4,51,19,0,3,48,2024,High,Yes,16.15,High Risk,0.682118525,High,11/4/2024,Stable,Adequate,Standard
+91,New Park 68,FCT,Nigeria,106219,631,37.45,3,3,2,0,25.2,18,41,26,7,85,2023,Low,No,4.25,Low Risk,0.120054088,Low,4/6/2023,Stable,Adequate,Standard
+92,East Area 41,Rivers,Nigeria,17908,193,5.47,2,13,5,2,21.9,16,86,32,7,65,2024,Medium,Yes,8.7,Medium Risk,0.397646661,Low,21/08/2024,Stable,Adequate,Standard
+93,Old Area 124,Rivers,Nigeria,27200,323,7.12,1,16,5,3,54.9,29,50,26,1,65,2024,High,Yes,11.95,Medium Risk,0.508759361,Medium,23/12/2024,Stable,Adequate,Standard
+94,Old Market 133,Bauchi,Nigeria,58058,128,18.56,1,17,8,5,36,49,14,20,1,40,2022,High,Yes,16.55,High Risk,0.70729015,High,27/08/2022,Stable,Underserved,Standard
+95,New District 163,Kano,Nigeria,41207,213,13.35,1,18,8,6,38.3,45,49,8,2,50,2024,High,Yes,16.55,High Risk,0.743231225,Critical,17/01/2024,Stable,Adequate,Standard
+96,Old District 57,Rivers,Nigeria,40654,231,16.21,1,15,6,2,35.5,28,43,13,4,65,2024,High,Yes,11.45,Medium Risk,0.482387664,Low,21/08/2024,Stable,Underserved,Standard
+97,East Market 154,FCT,Nigeria,47139,606,15.82,1,12,3,0,10.7,18,36,49,5,85,2023,High,Yes,7.65,Medium Risk,0.279737882,Low,26/05/2023,Stable,Underserved,Standard
+98,Old Village 53,Enugu,Nigeria,50652,143,17.17,1,17,7,4,22.3,42,27,44,3,55,2022,High,Yes,15,High Risk,0.634891824,High,26/03/2022,Stable,Underserved,Standard
+99,Old District 195,Kano,Nigeria,30305,263,11.7,1,13,7,6,69.5,50,21,30,2,50,2024,High,Yes,15.3,High Risk,0.657574891,High,25/06/2024,Stable,Adequate,Standard
+100,East Quarter 4,Borno,Nigeria,40970,261,14.02,2,14,5,4,73,42,41,0,4,35,2024,High,Yes,13.45,Medium Risk,0.543785105,Medium,9/11/2024,Stable,Adequate,Standard
+101,East Gate 141,Enugu,Nigeria,80764,163,18.2,1,12,7,4,30.5,44,10,49,2,55,2023,High,Yes,13.55,Medium Risk,0.564068026,Medium,22/08/2023,Stable,Underserved,Standard
+102,New Area 108,Enugu,Nigeria,41625,215,10.2,1,14,7,4,72.2,33,52,22,3,55,2023,High,No,12.6,Medium Risk,0.56555544,Medium,9/11/2023,Stable,Adequate,Standard
+103,Old Village 156,Kano,Nigeria,38049,212,12.71,1,15,6,4,31.7,39,32,11,4,50,2023,High,Yes,13.6,Medium Risk,0.573835032,Medium,4/7/2023,Stable,Adequate,Standard
+104,Old Gate 55,Akwa Ibom,Nigeria,33749,191,10.76,1,18,6,4,71.8,36,42,25,1,52,2022,High,Yes,14.2,High Risk,0.611592469,Medium,16/05/2022,Stable,Adequate,Structural Hotspot
+105,New Village 48,Imo,Nigeria,37965,132,12.71,2,12,6,3,71,43,10,8,1,50,2024,High,Yes,12.9,Medium Risk,0.507459174,Medium,3/11/2024,Stable,Adequate,Standard
+106,North Area 65,Imo,Nigeria,31478,175,8,1,16,7,1,15.4,27,35,14,1,50,2024,High,Yes,11.65,Medium Risk,0.486450749,Low,17/08/2024,Stable,Adequate,Standard
+107,East Market 196,Rivers,Nigeria,39856,186,13.08,1,13,4,1,35.4,21,38,26,4,65,2023,High,Yes,8.95,Medium Risk,0.356827283,Low,23/06/2023,Stable,Adequate,Standard
+108,New Village 141,Oyo,Nigeria,17184,81,5.46,1,16,7,2,31.9,29,27,13,4,60,2023,High,Yes,12.2,Medium Risk,0.522963907,Medium,8/11/2023,Stable,Adequate,Standard
+109,New Gate 184,Oyo,Nigeria,45737,215,16,1,15,6,3,50.3,34,39,37,4,60,2022,High,Yes,12.6,Medium Risk,0.529427138,Medium,3/8/2022,Stable,Underserved,Standard
+110,East Quarter 179,Rivers,Nigeria,27805,179,7.56,1,10,4,5,51.6,53,20,12,4,65,2024,High,No,13.7,Medium Risk,0.520385636,Medium,19/02/2024,Stable,Adequate,Standard
+111,East Market 47,Rivers,Nigeria,49824,200,15.33,1,12,6,4,75.4,29,72,39,5,65,2023,High,Yes,11.05,Medium Risk,0.501867069,Low,6/9/2023,Stable,Underserved,Standard
+112,New Village 72,Kano,Nigeria,27640,292,9.52,1,18,8,5,70,41,40,22,1,50,2023,High,Yes,15.7,High Risk,0.70145491,High,11/6/2023,Stable,Adequate,Structural Hotspot
+113,New Park 27,Kano,Nigeria,35577,452,12.65,1,17,7,2,24.4,29,44,25,2,50,2023,High,Yes,12.55,Medium Risk,0.538181298,Medium,22/11/2023,Stable,Adequate,Standard
+114,North Area 79,Enugu,Nigeria,31602,64,9.69,1,14,6,3,44.2,34,48,36,4,55,2023,High,Yes,12.25,Medium Risk,0.514209746,Medium,10/8/2023,Stable,Adequate,Standard
+115,South Gate 65,Enugu,Nigeria,28246,123,10.7,1,17,8,5,53.6,46,35,0,2,55,2024,High,Yes,16.1,High Risk,0.699395413,High,24/04/2024,Stable,Adequate,Standard
+116,Central Gate 196,Bauchi,Nigeria,51111,139,15.24,1,18,8,5,47.1,53,15,0,3,40,2024,High,No,17.5,High Risk,0.733033857,Critical,7/11/2024,Stable,Underserved,Standard
+117,North Park 130,Plateau,Nigeria,24081,205,7.33,1,15,4,3,44.8,36,20,13,3,48,2024,High,Yes,12.4,Medium Risk,0.48923575,Low,25/12/2024,Stable,Adequate,Standard
+118,New Market 54,Plateau,Nigeria,29988,540,11.39,2,14,6,3,56.9,34,45,10,3,48,2023,High,Yes,12.25,Medium Risk,0.514209746,Medium,20/10/2023,Stable,Adequate,Standard
+119,Old Quarter 186,Imo,Nigeria,33468,216,9.52,1,16,6,5,73.9,40,43,36,2,50,2023,High,Yes,14.35,High Risk,0.622934002,Medium,2/12/2023,Stable,Adequate,Structural Hotspot
+120,New Estate 104,Borno,Nigeria,49788,254,15.67,1,20,8,5,44.8,42,31,4,2,35,2024,High,Yes,16.55,High Risk,0.734521271,Critical,28/01/2024,Stable,Underserved,Standard
+121,North Park 52,Plateau,Nigeria,16436,545,6.34,2,14,7,5,73.2,50,21,30,3,48,2022,High,Yes,15.4,High Risk,0.641542282,High,26/02/2022,Stable,Adequate,Standard
+122,New District 8,Enugu,Nigeria,31626,69,8.08,1,12,6,5,20,46,33,14,8,55,2023,High,Yes,13.85,Medium Risk,0.577853911,Medium,17/09/2023,Stable,Adequate,Standard
+123,New Market 118,Borno,Nigeria,14840,114,5,1,19,9,4,47.4,41,29,0,2,35,2023,High,No,16.05,High Risk,0.708149574,Critical,10/11/2023,Stable,Adequate,Standard
+124,Central Village 22,Oyo,Nigeria,44271,185,17.25,1,17,8,4,65.2,44,17,23,1,60,2023,High,Yes,15.55,High Risk,0.662882255,High,12/2/2023,Stable,Underserved,Structural Hotspot
+125,Old District 91,FCT,Nigeria,76709,761,23.78,4,0,0,0,5.8,14,49,43,3,85,2024,Low,No,2.1,Low Risk,0.018421053,Low,3/9/2024,Stable,Adequate,Standard
+126,North District 132,Oyo,Nigeria,19937,273,6.54,1,15,6,2,52.7,23,65,25,2,60,2024,High,No,10.7,Medium Risk,0.469229769,Low,25/06/2024,Stable,Adequate,Standard
+127,North Park 181,Kaduna,Nigeria,18870,82,5.81,1,15,4,3,67.7,41,19,30,4,45,2024,High,Yes,13.15,Medium Risk,0.502393645,Low,27/02/2024,Stable,Adequate,Standard
+128,Central Estate 50,Akwa Ibom,Nigeria,43066,165,17.94,1,18,7,3,15.7,40,22,18,5,52,2024,High,Yes,14.8,High Risk,0.613596058,Medium,20/05/2024,Stable,Underserved,Standard
+129,Old Quarter 48,FCT,Nigeria,41638,432,14.22,2,4,2,0,22.7,11,58,40,6,85,2022,Low,No,3.55,Low Risk,0.116850426,Low,6/4/2022,Stable,Adequate,Standard
+130,New Gate 76,Rivers,Nigeria,22850,220,6.42,1,11,4,2,23.1,26,42,37,3,65,2024,High,Yes,9.25,Medium Risk,0.370800395,Low,19/06/2024,Stable,Adequate,Standard
+131,East Area 83,Kaduna,Nigeria,28695,165,6.4,1,16,7,4,66.8,37,43,19,1,45,2024,High,Yes,13.9,Medium Risk,0.606516538,Medium,26/01/2024,Stable,Adequate,Structural Hotspot
+132,South Estate 72,FCT,Nigeria,123157,533,39.36,3,4,1,1,21.8,20,45,43,8,85,2024,Low,No,4.9,Low Risk,0.149057364,Low,14/11/2024,Stable,Adequate,Standard
+133,Old Gate 141,Borno,Nigeria,87332,177,25.61,1,18,9,6,31.1,57,10,28,1,35,2022,High,Yes,18.6,High Risk,0.797537445,Critical,8/3/2022,Stable,Underserved,Standard
+134,Old Village 131,Rivers,Nigeria,61152,395,18,2,10,3,0,78.1,17,40,14,6,65,2023,Medium,No,6.8,Low Risk,0.246671521,Low,6/2/2023,Stable,Adequate,Standard
+135,West Gate 96,Imo,Nigeria,58908,275,21.84,1,17,7,3,60.2,40,16,44,5,50,2024,High,Yes,14.45,High Risk,0.598378667,Medium,4/11/2024,Stable,Underserved,Structural Hotspot
+136,New Area 6,Enugu,Nigeria,20785,109,6.97,1,19,8,3,16,24,58,28,4,55,2023,High,Yes,13,Medium Risk,0.609435459,Medium,8/4/2023,Stable,Adequate,Standard
+137,New Gate 151,Enugu,Nigeria,34916,180,10.56,1,16,6,2,62,30,33,40,6,55,2023,High,Yes,12.1,Medium Risk,0.502868213,Low,17/02/2023,Stable,Adequate,Structural Hotspot
+138,New Estate 73,Rivers,Nigeria,25509,112,9.83,1,13,6,3,75.6,28,46,28,7,65,2024,High,Yes,11,Medium Risk,0.483202881,Low,10/11/2024,Stable,Adequate,Standard
+139,West District 4,Enugu,Nigeria,49987,292,14.71,1,18,8,4,47.5,46,15,17,6,55,2024,High,Yes,16.2,High Risk,0.683362804,High,8/8/2024,Stable,Adequate,Standard
+140,Old Quarter 140,Enugu,Nigeria,25612,183,8.34,1,13,7,3,19.6,37,28,9,4,55,2024,High,Yes,12.6,Medium Risk,0.529614364,Medium,18/01/2024,Stable,Adequate,Standard
+141,Old Gate 118,Borno,Nigeria,39023,76,12.48,1,19,9,6,39.3,55,10,21,1,35,2022,High,Yes,18.65,High Risk,0.807491679,Critical,26/03/2022,Stable,Adequate,Standard
+142,New Estate 122,FCT,Nigeria,87094,643,35.47,1,9,4,1,7.9,19,62,45,3,85,2022,Medium,Yes,7.25,Medium Risk,0.29069456,Low,23/01/2022,Stable,Underserved,Standard
+143,East Estate 193,Imo,Nigeria,36982,105,11.65,1,15,6,2,63.7,30,33,37,2,50,2024,High,Yes,11.75,Medium Risk,0.487650822,Low,9/2/2024,Stable,Adequate,Standard
+144,East District 117,Oyo,Nigeria,46534,66,14.37,1,14,7,4,22.4,39,41,37,5,60,2024,High,Yes,13.5,Medium Risk,0.581344914,Medium,28/03/2024,Stable,Adequate,Standard
+145,North Village 128,Bauchi,Nigeria,67408,214,25.98,1,18,10,5,44.3,46,29,14,4,40,2022,High,Yes,16.95,High Risk,0.76006735,Critical,12/1/2022,Stable,Underserved,Standard
+146,Central Village 158,Oyo,Nigeria,54050,59,14.86,1,14,7,2,37.8,31,25,21,2,60,2024,High,Yes,11.8,Medium Risk,0.497792282,Low,26/06/2024,Stable,Adequate,Standard
+147,Old Estate 145,Bauchi,Nigeria,13260,147,5,1,16,9,8,37.8,59,40,6,5,40,2024,High,Yes,18.7,High Risk,0.834865821,Critical,2/1/2024,Stable,Adequate,Standard
+148,West Estate 140,Kaduna,Nigeria,19475,512,8.26,1,20,8,6,27,59,10,21,3,45,2024,High,Yes,19.35,High Risk,0.810508113,Critical,24/04/2024,Stable,Adequate,Standard
+149,North Quarter 23,Kano,Nigeria,49384,333,16.81,1,18,6,5,32.5,42,38,25,1,50,2023,High,Yes,15.35,High Risk,0.658631943,High,25/10/2023,Stable,Underserved,Standard
+150,New Quarter 140,Kaduna,Nigeria,22577,393,7.22,1,17,7,5,72.7,49,22,14,2,45,2024,High,Yes,16.3,High Risk,0.684562877,High,23/05/2024,Stable,Adequate,Structural Hotspot
+151,New Village 197,Bauchi,Nigeria,49129,255,17.55,2,12,7,4,73,46,19,3,5,40,2022,High,Yes,13.85,Medium Risk,0.569331184,Medium,6/10/2022,Stable,Adequate,Standard
+152,North Estate 166,FCT,Nigeria,31642,295,11.34,3,8,5,2,14.3,23,65,50,1,85,2023,Low,No,8,Medium Risk,0.339980757,Low,11/3/2023,Stable,Adequate,Standard
+153,West Gate 93,Plateau,Nigeria,18635,305,5.9,1,18,8,4,19.5,35,52,14,5,48,2023,High,Yes,14.55,High Risk,0.654415436,High,16/11/2023,Stable,Adequate,Standard
+154,New Area 84,Oyo,Nigeria,74247,292,23,2,9,4,1,74.9,25,44,42,3,60,2022,Medium,No,8.15,Medium Risk,0.306484034,Low,28/10/2022,Stable,Adequate,Standard
+155,Old District 119,Rivers,Nigeria,33425,289,13.08,1,13,5,2,29.1,28,51,32,4,65,2024,High,Yes,10.5,Medium Risk,0.429225608,Low,13/12/2024,Stable,Adequate,Standard
+156,New Park 28,Borno,Nigeria,42542,217,11.92,1,18,7,4,25.9,42,16,8,1,35,2023,High,Yes,15.35,High Risk,0.650109216,High,10/11/2023,Stable,Adequate,Standard
+157,New Gate 176,Lagos,Nigeria,91694,751,35.2,3,5,3,1,16,21,47,20,7,80,2023,Low,No,5.9,Low Risk,0.21236088,Low,13/02/2023,Stable,Adequate,Standard
+158,Old Quarter 187,Oyo,Nigeria,61488,266,22.36,1,14,7,3,63.2,34,14,6,3,60,2024,High,Yes,12.5,Medium Risk,0.536937019,Medium,17/05/2024,Stable,Underserved,Standard
+159,West Market 72,Plateau,Nigeria,58923,187,21.62,1,16,6,4,23.6,43,25,18,5,48,2023,High,No,14.55,High Risk,0.599578739,Medium,16/03/2023,Stable,Underserved,Standard
+160,New Area 58,Plateau,Nigeria,25579,284,9.67,1,21,11,7,55.5,53,36,20,1,48,2023,High,Yes,19.8,High Risk,0.909367849,Critical,9/12/2023,Stable,Adequate,Standard
+161,Old Area 116,Akwa Ibom,Nigeria,26672,126,7.37,1,11,5,2,42.9,36,23,16,4,52,2022,High,Yes,11,Medium Risk,0.419843457,Low,5/2/2022,Stable,Adequate,Standard
+162,West Gate 160,Plateau,Nigeria,73610,165,24.81,1,15,8,4,65.3,47,10,25,1,48,2022,High,Yes,15.3,High Risk,0.640342209,High,24/09/2022,Stable,Underserved,Standard
+163,Old Estate 38,Imo,Nigeria,45058,275,14.3,1,19,7,3,17,36,31,18,3,50,2024,High,Yes,14.55,High Risk,0.618287133,Medium,12/10/2024,Stable,Adequate,Standard
+164,New Village 137,Kaduna,Nigeria,38948,133,8.41,1,18,7,5,24.2,42,39,21,3,45,2024,High,Yes,15.6,High Risk,0.681359216,High,13/09/2024,Stable,Adequate,Standard
+165,North Quarter 140,Akwa Ibom,Nigeria,21054,216,5.19,1,18,8,5,73.8,40,54,29,4,52,2023,High,Yes,15.55,High Risk,0.698823331,High,5/3/2023,Stable,Adequate,Structural Hotspot
+166,West Area 121,Kaduna,Nigeria,20835,128,6.2,1,17,8,5,26.3,51,11,21,3,45,2022,High,Yes,16.85,High Risk,0.712553308,Critical,1/7/2022,Stable,Adequate,Standard
+167,Old Gate 59,Imo,Nigeria,55648,194,18.44,1,20,9,4,36.2,37,42,21,1,50,2022,High,No,15.8,High Risk,0.712840649,Critical,17/12/2022,Stable,Underserved,Standard
+168,West Market 170,Oyo,Nigeria,106098,190,31.2,1,16,5,2,18.3,28,37,5,3,60,2024,High,Yes,11.55,Medium Risk,0.474877782,Low,24/04/2024,Stable,Underserved,Standard
+169,West Estate 49,FCT,Nigeria,54110,558,14.47,2,9,3,0,8.5,16,55,39,4,85,2023,Medium,Yes,6.3,Low Risk,0.22882255,Low,22/08/2023,Stable,Adequate,Standard
+170,Old Quarter 163,Kaduna,Nigeria,55279,180,15.67,1,15,9,5,19.4,51,12,25,3,45,2024,High,Yes,16.4,High Risk,0.704845798,High,11/1/2024,Stable,Underserved,Standard
+171,Old Area 15,Imo,Nigeria,43794,232,12.69,1,19,7,3,40.7,34,33,15,1,50,2024,High,Yes,14.25,High Risk,0.613023975,Medium,3/3/2024,Stable,Adequate,Standard
+172,Old Quarter 4,Bauchi,Nigeria,31171,298,9.25,1,16,7,4,35.5,42,10,19,4,40,2022,High,No,14.65,High Risk,0.619674433,Medium,14/07/2022,Stable,Adequate,Standard
+173,New Market 112,Kaduna,Nigeria,11173,185,5,1,17,8,5,60.3,41,39,9,4,45,2024,High,Yes,15.35,High Risk,0.686237518,High,23/02/2024,Stable,Adequate,Structural Hotspot
+174,Old Park 127,Kaduna,Nigeria,30063,436,11.34,1,14,7,2,42.1,32,22,35,2,45,2024,High,Yes,11.95,Medium Risk,0.500423861,Low,9/10/2024,Stable,Adequate,Standard
+175,West Market 130,Plateau,Nigeria,27052,161,8.29,1,14,6,3,15.6,43,10,27,1,48,2024,High,Yes,13.6,Medium Risk,0.537893957,Medium,10/6/2024,Stable,Adequate,Standard
+176,New Area 14,Imo,Nigeria,24131,103,8.46,1,12,7,4,67.4,43,19,18,1,50,2023,High,No,13.4,Medium Risk,0.561436447,Medium,24/05/2023,Stable,Adequate,Standard
+177,West Village 34,Imo,Nigeria,53876,225,21.31,1,15,6,4,50.6,40,26,35,1,50,2022,High,Yes,13.75,Medium Risk,0.576466611,Medium,5/11/2022,Stable,Underserved,Standard
+178,West District 44,Bauchi,Nigeria,31925,245,9.6,1,16,8,3,68.7,34,38,2,2,40,2024,High,Yes,13.45,Medium Risk,0.590099074,Medium,24/03/2024,At Risk,Adequate,Structural Hotspot
+179,New District 4,Oyo,Nigeria,35040,140,10.06,1,19,8,2,55.2,37,10,49,3,60,2023,High,Yes,14.7,High Risk,0.612395985,Medium,8/12/2023,Stable,Adequate,Standard
+180,Old Gate 96,Kaduna,Nigeria,36655,107,10.09,1,16,8,5,36.1,46,40,37,4,45,2024,High,Yes,15.75,High Risk,0.684178022,High,15/03/2024,Stable,Adequate,Standard
+181,South District 15,Imo,Nigeria,21512,277,7.28,1,15,5,3,45.2,31,38,42,1,50,2023,High,Yes,11.9,Medium Risk,0.498805128,Low,5/12/2023,Stable,Adequate,Standard
+182,Old District 123,Borno,Nigeria,39492,271,8.65,1,18,8,5,79.4,46,34,24,1,35,2024,High,Yes,16.45,High Risk,0.714612804,Critical,9/7/2024,At Risk,Adequate,Structural Hotspot
+183,New Village 17,Bauchi,Nigeria,32254,247,10.3,1,18,8,4,47.4,41,35,12,1,40,2023,High,No,15.45,High Risk,0.67020491,High,13/12/2023,Stable,Adequate,Standard
+184,New Park 54,Borno,Nigeria,55937,185,16.39,1,19,9,4,39.7,50,10,10,2,35,2023,High,Yes,17.4,High Risk,0.731833784,Critical,27/07/2023,Stable,Underserved,Standard
+185,North Village 19,Akwa Ibom,Nigeria,24325,165,5.48,1,15,5,3,60.2,33,47,11,2,52,2024,High,Yes,12.2,Medium Risk,0.504068286,Low,28/11/2024,Stable,Adequate,Standard
+186,North Village 12,Enugu,Nigeria,42595,266,15.41,1,11,5,2,50.8,37,10,9,1,55,2024,High,Yes,11.15,Medium Risk,0.422475036,Low,17/07/2024,Stable,Underserved,Standard
+187,South Market 53,Kaduna,Nigeria,49425,90,19.39,1,19,7,6,38.7,48,35,43,4,45,2024,High,Yes,17.1,High Risk,0.743616081,Critical,1/7/2024,Stable,Underserved,Standard
+188,East Village 158,Akwa Ibom,Nigeria,22897,259,7.58,1,13,5,4,52.7,35,47,11,3,52,2022,High,Yes,12.05,Medium Risk,0.510146661,Medium,11/11/2022,Stable,Adequate,Standard
+189,Old Estate 4,Rivers,Nigeria,22814,160,8.79,1,13,6,3,24.8,38,40,19,1,65,2023,High,Yes,12.5,Medium Risk,0.509518671,Medium,26/07/2023,Stable,Adequate,Standard
+190,North Park 4,Lagos,Nigeria,108739,351,36.7,2,8,3,0,18.2,15,61,28,5,80,2024,Medium,No,5.8,Low Risk,0.21097358,Low,28/01/2024,Stable,Adequate,Standard
+191,North Market 94,FCT,Nigeria,73706,977,31.6,1,9,4,2,6,30,38,3,7,85,2024,High,Yes,9.15,Medium Risk,0.350891928,Low,14/08/2024,Stable,Underserved,Standard
+192,Old Estate 93,Bauchi,Nigeria,38293,224,9.4,1,18,8,4,44.9,41,29,10,3,40,2023,High,Yes,15.45,High Risk,0.67020491,High,27/11/2023,Stable,Adequate,Standard
+193,East Park 131,Akwa Ibom,Nigeria,65478,206,15.57,1,20,9,5,52.2,54,12,27,1,52,2024,High,Yes,18.6,High Risk,0.788827491,Critical,6/11/2024,Stable,Underserved,Standard
+194,North Market 152,Kano,Nigeria,38407,249,9.52,1,17,7,4,16.7,42,45,13,2,50,2024,High,Yes,15,High Risk,0.634891824,High,12/10/2024,Stable,Adequate,Standard
+195,East Quarter 68,Lagos,Nigeria,50736,555,15.29,2,5,2,1,8.6,22,49,6,7,80,2023,Medium,No,5.8,Low Risk,0.192265186,Low,6/2/2023,Stable,Adequate,Standard
+196,South District 26,Plateau,Nigeria,68980,195,22.66,1,13,7,5,50.6,43,41,17,2,48,2023,High,Yes,14,Medium Risk,0.607903838,Medium,6/3/2023,Stable,Underserved,Standard
+197,West Village 188,Enugu,Nigeria,34657,459,11.05,1,14,7,3,48.9,28,53,46,5,55,2024,High,Yes,11.6,Medium Risk,0.521147545,Medium,28/06/2024,Stable,Adequate,Standard
+198,Old Estate 176,Akwa Ibom,Nigeria,73645,131,18.47,1,15,8,6,25.5,36,69,4,4,52,2024,High,Yes,14.15,High Risk,0.673894841,High,2/10/2024,Stable,Underserved,Standard
+199,New District 99,Rivers,Nigeria,21591,354,7.24,1,10,4,1,35.7,22,47,23,3,65,2023,High,Yes,8.05,Medium Risk,0.313806688,Low,10/2/2023,Stable,Adequate,Standard
+200,Old Quarter 104,Lagos,Nigeria,55338,751,23.38,2,9,5,2,19.9,30,43,35,5,80,2024,Medium,Yes,9.4,Medium Risk,0.373619201,Low,20/10/2024,Stable,Adequate,Standard
+201,West Park 146,Kaduna,Nigeria,20800,64,6.89,1,18,9,3,71.1,28,49,5,1,45,2024,High,Yes,13.5,Medium Risk,0.627471656,Medium,16/10/2024,Stable,Adequate,Structural Hotspot
+202,New District 179,Oyo,Nigeria,19947,146,5.99,1,14,4,1,74.3,23,36,29,4,60,2024,High,Yes,9.6,Medium Risk,0.377307832,Low,2/7/2024,Stable,Adequate,Standard
+203,Central Area 105,FCT,Nigeria,81657,817,27.53,1,8,4,0,15.7,17,51,43,4,85,2023,Medium,Yes,6.35,Low Risk,0.238964011,Low,8/10/2023,Stable,Underserved,Standard
+204,Old Market 152,Rivers,Nigeria,18134,335,5.5,2,14,6,3,32.4,40,33,35,4,65,2024,High,Yes,13.15,Medium Risk,0.52999922,Medium,17/10/2024,Stable,Adequate,Standard
+205,Central Park 56,Oyo,Nigeria,38728,224,12.35,2,13,5,3,58.1,34,41,31,3,60,2024,High,Yes,11.65,Medium Risk,0.476265082,Low,25/08/2024,Stable,Adequate,Standard
+206,North Area 3,Enugu,Nigeria,42452,176,13.23,1,19,7,3,69.4,42,12,23,7,55,2024,High,Yes,15.45,High Risk,0.634076607,High,20/01/2024,Stable,Adequate,Structural Hotspot
+207,West Area 116,Rivers,Nigeria,33431,264,9.38,1,12,4,2,71.1,32,30,13,6,65,2022,High,No,10.5,Medium Risk,0.40180726,Low,17/10/2022,Stable,Adequate,Standard
+208,North District 16,Lagos,Nigeria,68973,315,21.66,2,8,3,1,14.9,29,10,33,7,80,2023,Medium,No,8.15,Medium Risk,0.279065685,Low,20/08/2023,Stable,Adequate,Standard
+209,New Estate 71,Oyo,Nigeria,22083,475,7.66,2,13,5,2,28.3,27,33,19,5,60,2022,Medium,Yes,10.35,Medium Risk,0.42659403,Low,15/07/2022,Stable,Adequate,Standard
+210,East Gate 171,Lagos,Nigeria,79062,345,28.35,1,11,5,1,27.9,21,44,21,7,80,2024,High,Yes,8.5,Medium Risk,0.349119773,Low,2/8/2024,Stable,Underserved,Standard
+211,Old Estate 179,Kaduna,Nigeria,39675,201,12.37,1,16,8,3,65.9,34,34,28,2,45,2024,High,No,13.45,Medium Risk,0.590099074,Medium,16/08/2024,Stable,Adequate,Structural Hotspot
+212,South Area 146,Akwa Ibom,Nigeria,49194,315,14.29,1,14,5,3,42.1,31,45,20,5,52,2023,High,Yes,11.55,Medium Risk,0.483587737,Low,15/06/2023,Stable,Adequate,Standard
+213,West Quarter 79,Kaduna,Nigeria,55587,236,14.74,1,17,6,3,43.6,32,33,16,2,45,2024,High,No,13,Medium Risk,0.554598762,Medium,14/10/2024,Stable,Adequate,Standard
+214,New Estate 135,Oyo,Nigeria,36030,304,7.8,1,16,8,4,63.1,44,21,13,4,60,2023,High,Yes,15.2,High Risk,0.647664864,High,15/02/2023,Stable,Adequate,Structural Hotspot
+215,South Gate 1,Borno,Nigeria,52771,235,19.37,1,17,11,7,55.9,58,19,39,5,35,2024,High,Yes,19.15,High Risk,0.861656178,Critical,28/04/2024,At Risk,Underserved,Standard
+216,East Estate 186,Rivers,Nigeria,39899,106,11.47,1,16,6,2,34.5,26,56,14,7,65,2024,High,Yes,11.5,Medium Risk,0.492341897,Low,25/04/2024,Stable,Adequate,Standard
+217,Old Area 137,Oyo,Nigeria,42336,58,11.44,1,15,7,3,28.1,32,32,26,1,60,2024,High,Yes,12.55,Medium Risk,0.546891252,Medium,1/10/2024,Stable,Adequate,Standard
+218,West Village 108,Rivers,Nigeria,40716,264,11.26,2,13,5,2,74.6,30,22,17,6,65,2024,Medium,No,10.8,Medium Risk,0.434488766,Low,28/02/2024,Stable,Adequate,Standard
+219,West Market 46,Plateau,Nigeria,35848,180,9.71,1,14,5,4,43,34,45,25,4,48,2024,High,Yes,12.25,Medium Risk,0.522732473,Medium,24/02/2024,Stable,Adequate,Standard
+220,South District 154,Rivers,Nigeria,44344,226,17.09,1,12,6,2,63.7,23,46,28,6,65,2023,High,Yes,9.65,Medium Risk,0.423577595,Low,23/10/2023,Stable,Underserved,Standard
+221,South Park 12,Bauchi,Nigeria,23748,129,8.38,1,19,9,7,42.9,59,10,3,2,40,2024,High,No,19.5,High Risk,0.849267995,Critical,5/9/2024,Stable,Adequate,Standard
+222,Central District 9,Akwa Ibom,Nigeria,15038,293,5.78,1,15,4,2,71.5,27,44,19,2,52,2023,High,Yes,10.8,Medium Risk,0.434301539,Low,18/09/2023,Stable,Adequate,Standard
+223,New Estate 85,Kano,Nigeria,42876,259,9.76,1,20,9,5,49.3,49,20,23,1,50,2024,High,Yes,17.85,High Risk,0.775669596,Critical,10/7/2024,Stable,Adequate,Standard
+224,East Area 182,Enugu,Nigeria,39398,297,10.93,1,14,6,3,33.2,43,10,14,2,55,2024,High,Yes,13.6,Medium Risk,0.537893957,Medium,18/04/2024,Stable,Adequate,Standard
+225,West Market 39,Oyo,Nigeria,51946,276,11.31,1,14,5,3,15.8,38,32,28,2,60,2024,High,Yes,12.6,Medium Risk,0.502008789,Low,27/12/2024,Stable,Adequate,Standard
+226,Old Park 161,Akwa Ibom,Nigeria,35452,269,12.44,1,15,7,4,66.5,43,10,38,2,52,2024,High,No,14.45,High Risk,0.607088621,Medium,27/04/2024,Stable,Adequate,Standard
+227,South District 136,FCT,Nigeria,58521,417,15.14,1,9,3,3,12.1,24,63,59,9,85,2023,High,Yes,8.25,Medium Risk,0.343625182,Low,23/07/2023,Stable,Underserved,Standard
+228,West Area 151,Oyo,Nigeria,34053,303,14.2,2,11,4,2,16,30,34,15,4,60,2024,Medium,No,9.85,Medium Risk,0.381326711,Low,24/08/2024,Stable,Adequate,Standard
+229,South Park 85,Akwa Ibom,Nigeria,52210,259,17.62,1,17,7,6,41.2,54,26,3,2,52,2023,High,Yes,17.3,High Risk,0.728970772,Critical,4/9/2023,Stable,Underserved,Standard
+230,South District 103,Lagos,Nigeria,39546,446,12.21,2,11,5,2,27.1,23,49,29,7,80,2024,Medium,Yes,9.05,Medium Risk,0.385632931,Low,23/05/2024,Stable,Adequate,Standard
+231,Central Market 63,Imo,Nigeria,68376,178,17.02,1,14,5,2,77,32,20,0,4,50,2024,High,No,11.45,Medium Risk,0.454969316,Low,14/01/2024,Stable,Underserved,Standard
+232,New Gate 190,Plateau,Nigeria,18967,131,7.16,2,13,6,3,45.8,36,21,11,3,48,2024,High,No,12.2,Medium Risk,0.504255513,Low,18/04/2024,Stable,Adequate,Standard
+233,East Village 113,Enugu,Nigeria,48933,76,15.47,1,14,7,5,45.3,46,33,0,2,55,2024,High,Yes,14.8,High Risk,0.631015966,High,28/09/2024,Stable,Underserved,Standard
+234,New District 68,Enugu,Nigeria,80157,258,25.93,1,17,9,4,57.3,46,15,43,4,55,2024,High,Yes,16.1,High Risk,0.690872686,High,3/1/2024,Stable,Underserved,Standard
+235,East Estate 95,Bauchi,Nigeria,33023,240,13.08,1,16,9,5,54.4,51,10,15,3,40,2023,High,Yes,16.75,High Risk,0.720063189,Critical,1/4/2023,At Risk,Adequate,Standard
+236,Old District 55,Enugu,Nigeria,40938,176,15.39,1,14,6,2,36.1,30,43,17,6,55,2023,High,Yes,11.4,Medium Risk,0.47243343,Low,2/11/2023,Stable,Underserved,Standard
+237,East Area 29,Rivers,Nigeria,27031,158,8.23,2,11,5,4,62.7,44,31,53,2,65,2024,High,No,12.7,Medium Risk,0.503396089,Low,10/2/2024,Stable,Adequate,Standard
+238,New Park 124,Plateau,Nigeria,30514,153,8.63,1,17,8,2,66.8,24,47,26,1,48,2023,High,Yes,12.05,Medium Risk,0.547750676,Medium,8/12/2023,Stable,Adequate,Structural Hotspot
+239,Old Village 150,Enugu,Nigeria,45716,177,14.5,1,19,8,3,44.8,38,29,18,5,55,2024,High,Yes,15.1,High Risk,0.646277564,High,26/12/2024,Stable,Adequate,Standard
+240,East Gate 119,Kaduna,Nigeria,31179,149,9.31,1,16,7,4,15.4,44,28,19,6,45,2024,High,Yes,14.95,High Risk,0.624937591,Medium,3/8/2024,Stable,Adequate,Standard
+241,Old Quarter 152,Oyo,Nigeria,38647,126,11.6,2,14,4,1,33.8,22,37,15,7,60,2023,Medium,No,9.45,Medium Risk,0.374676253,Low,20/05/2023,Stable,Adequate,Standard
+242,Old Quarter 171,Bauchi,Nigeria,25261,69,7.13,1,16,8,4,15.8,48,10,23,1,40,2024,High,Yes,15.8,High Risk,0.65819118,High,27/01/2024,Stable,Adequate,Standard
+243,East Area 31,Bauchi,Nigeria,24723,321,9.95,1,20,10,6,32.9,41,47,12,4,40,2024,High,Yes,17.15,High Risk,0.808594238,Critical,25/12/2024,Stable,Adequate,Standard
+244,East Gate 93,Bauchi,Nigeria,39539,229,11.98,1,18,6,4,44.6,43,16,0,4,40,2024,High,Yes,15.25,High Risk,0.630013522,High,5/3/2024,Stable,Adequate,Standard
+245,West District 45,Akwa Ibom,Nigeria,84599,312,26.37,1,12,5,2,60,29,33,26,3,52,2023,High,Yes,10.3,Medium Risk,0.416639796,Low,18/12/2023,Stable,Underserved,Standard
+246,West Village 21,Rivers,Nigeria,59412,145,16.46,1,15,5,3,62.8,27,51,15,2,65,2024,High,Yes,11.3,Medium Risk,0.488278812,Low,3/6/2024,Stable,Underserved,Standard
+247,South Gate 131,Kaduna,Nigeria,67289,371,19.29,1,18,9,4,42.7,44,26,17,1,45,2024,High,Yes,16.15,High Risk,0.700826919,High,7/9/2024,Stable,Underserved,Standard
+248,West Market 174,Imo,Nigeria,59060,251,20.16,1,16,6,4,15.8,38,36,33,3,50,2024,High,Yes,13.8,Medium Risk,0.586420845,Medium,28/04/2024,Stable,Underserved,Standard
+249,West Area 93,Plateau,Nigeria,30435,241,10.37,1,16,8,5,20.9,53,10,37,2,48,2022,High,Yes,16.8,High Risk,0.702599074,High,27/12/2022,Stable,Adequate,Standard
+250,North Gate 87,Enugu,Nigeria,28164,361,9.54,2,9,6,5,63.2,51,17,11,3,55,2022,Medium,No,13.55,Medium Risk,0.545359632,Medium,26/09/2022,Stable,Adequate,Standard
+251,New District 193,Imo,Nigeria,13540,202,5.13,1,18,8,4,76.8,31,60,19,4,50,2023,High,Yes,13.95,Medium Risk,0.64388912,High,24/09/2023,Stable,Adequate,Structural Hotspot
+252,Old Estate 178,Akwa Ibom,Nigeria,50197,183,19.09,1,14,7,3,53.6,41,19,0,1,52,2024,High,Yes,13.55,Medium Risk,0.555358072,Medium,18/03/2024,Stable,Underserved,Standard
+253,East District 116,Kaduna,Nigeria,33296,359,11.44,1,21,9,5,45.5,53,10,0,7,45,2022,High,Yes,18.8,High Risk,0.801413304,Critical,19/04/2022,Stable,Adequate,Standard
+254,New Quarter 176,FCT,Nigeria,167761,428,59.29,3,6,2,2,6,21,65,48,6,85,2024,Low,No,6.25,Low Risk,0.236100999,Low,16/06/2024,Stable,Adequate,Standard
+255,West Quarter 100,Bauchi,Nigeria,21370,272,6.09,1,17,9,3,20.1,36,23,17,4,40,2024,High,Yes,14.35,High Risk,0.633306896,High,1/1/2024,Stable,Adequate,Standard
+256,New Estate 186,Oyo,Nigeria,34624,208,11.93,2,10,6,2,24.5,33,27,11,7,60,2024,Medium,Yes,10.45,Medium Risk,0.419458602,Low,9/9/2024,Stable,Adequate,Standard
+257,South Park 137,Rivers,Nigeria,25663,113,7.93,1,13,5,3,39.6,35,30,18,4,65,2023,High,Yes,11.8,Medium Risk,0.478896661,Low,24/06/2023,Stable,Adequate,Standard
+258,North District 198,Oyo,Nigeria,37884,273,12.14,1,17,6,4,38.5,42,26,30,1,60,2024,High,Yes,14.75,High Risk,0.612164552,Medium,27/10/2024,Stable,Adequate,Standard
+259,Central Village 5,Bauchi,Nigeria,54800,159,17.59,1,17,8,3,44.2,32,36,10,4,40,2024,High,Yes,13.5,Medium Risk,0.600053308,Medium,16/12/2024,Stable,Underserved,Standard
+260,North Estate 133,Bauchi,Nigeria,41382,189,12.22,1,18,8,6,62.6,48,34,0,3,40,2023,High,Yes,17,High Risk,0.751125962,Critical,6/5/2023,At Risk,Adequate,Structural Hotspot
+261,South Market 22,Enugu,Nigeria,26083,189,8.51,1,13,6,4,73.8,43,26,39,5,55,2023,High,Yes,13.5,Medium Risk,0.553926565,Medium,14/12/2023,Stable,Adequate,Standard
+262,Old Gate 147,Kano,Nigeria,27874,116,8.28,2,12,5,2,75.2,37,20,9,3,50,2024,Medium,No,11.5,Medium Risk,0.437692428,Low,19/05/2024,Stable,Adequate,Standard
+263,Old Area 66,Kano,Nigeria,26229,165,6.02,1,14,5,3,49.7,36,35,17,4,50,2022,High,Yes,12.3,Medium Risk,0.496745631,Low,27/05/2022,Stable,Adequate,Standard
+264,Old Market 158,Enugu,Nigeria,31462,326,10.53,1,13,6,3,17.4,41,15,15,1,55,2023,High,Yes,12.95,Medium Risk,0.517413408,Medium,17/02/2023,Stable,Adequate,Standard
+265,West Village 5,FCT,Nigeria,100569,553,25.95,2,8,1,2,17.5,23,54,53,5,85,2023,Medium,Yes,7,Low Risk,0.249071666,Low,18/05/2023,Stable,Adequate,Standard
+266,North Park 89,Kano,Nigeria,21167,223,6.98,1,17,8,4,44.6,38,36,24,7,50,2022,High,Yes,14.65,High Risk,0.647092781,High,4/12/2022,Stable,Adequate,Standard
+267,Old Village 29,Akwa Ibom,Nigeria,90781,108,26.95,1,16,7,4,32.8,34,47,15,6,52,2023,High,Yes,13.45,Medium Risk,0.598621802,Medium,6/5/2023,Stable,Underserved,Standard
+268,South Market 120,Kaduna,Nigeria,40761,333,8.83,1,22,10,5,67.4,41,43,16,7,45,2024,High,Yes,17.6,High Risk,0.80777902,Critical,10/7/2024,Stable,Adequate,Structural Hotspot
+269,Old Area 41,FCT,Nigeria,101752,617,31.97,2,7,2,0,22.2,18,45,31,4,85,2024,Medium,No,5.65,Low Risk,0.180923653,Low,20/08/2024,Stable,Adequate,Standard
+270,South Estate 17,Enugu,Nigeria,75168,158,22.67,1,17,5,4,18.4,43,20,26,3,55,2024,High,Yes,14.65,High Risk,0.592068858,Medium,19/01/2024,Stable,Underserved,Standard
+271,West Village 101,Akwa Ibom,Nigeria,54522,420,18.57,1,17,6,3,22.2,30,47,24,5,52,2024,High,Yes,12.7,Medium Risk,0.549335604,Medium,9/7/2024,Stable,Underserved,Standard
+272,South Park 108,FCT,Nigeria,66381,1022,21.37,1,13,5,0,7.7,18,43,38,6,85,2023,High,Yes,8.5,Medium Risk,0.340409819,Low,10/4/2023,Stable,Underserved,Standard
+273,Old Gate 43,Borno,Nigeria,19325,187,7.73,1,17,8,7,75,61,10,37,4,35,2023,High,Yes,18.85,High Risk,0.801369097,Critical,4/5/2023,At Risk,Adequate,Structural Hotspot
+274,New Village 156,Oyo,Nigeria,39397,313,11.62,3,6,3,2,21,31,30,23,2,60,2024,Low,No,8,Medium Risk,0.285144061,Low,7/3/2024,Stable,Adequate,Standard
+275,Old Gate 37,Akwa Ibom,Nigeria,43084,276,13.14,1,13,6,3,23,40,10,28,4,52,2022,High,Yes,12.8,Medium Risk,0.514781829,Medium,2/7/2022,Stable,Adequate,Standard
+276,Central Gate 48,Oyo,Nigeria,20297,72,6.28,1,15,6,3,25.3,32,34,1,7,60,2023,High,Yes,12.3,Medium Risk,0.52416398,Medium,4/4/2023,Stable,Adequate,Standard
+277,South Village 176,Kano,Nigeria,21435,235,6.42,1,14,7,2,55.3,27,44,15,2,50,2024,High,Yes,11.2,Medium Risk,0.487265966,Low,1/8/2024,Stable,Adequate,Standard
+278,East Estate 98,Oyo,Nigeria,50941,155,14.28,2,14,8,4,67.3,32,53,24,2,60,2022,High,Yes,12.7,Medium Risk,0.585651134,Medium,21/01/2022,Stable,Adequate,Standard
+279,East Quarter 127,Plateau,Nigeria,13742,244,5,1,16,8,4,43.8,34,51,7,1,48,2023,High,Yes,13.7,Medium Risk,0.621349074,Medium,11/3/2023,Stable,Adequate,Standard
+280,North Gate 177,Lagos,Nigeria,58989,800,16.41,2,7,3,2,14,21,63,22,9,80,2023,Medium,No,6.85,Low Risk,0.274045663,Low,10/9/2023,Stable,Adequate,Standard
+281,South Gate 58,Plateau,Nigeria,26035,271,12,1,17,6,3,31.1,33,48,15,5,48,2022,High,Yes,13.15,Medium Risk,0.557230341,Medium,26/11/2022,Stable,Adequate,Standard
+282,East Park 85,Bauchi,Nigeria,44046,135,11.47,1,18,9,4,67.1,40,34,43,1,40,2024,High,Yes,15.55,High Risk,0.690300603,High,8/11/2024,At Risk,Adequate,Structural Hotspot
+283,Old Market 155,FCT,Nigeria,72248,579,25.76,3,3,1,1,19.1,19,48,43,8,85,2024,Low,No,4.4,Low Risk,0.131208394,Low,8/2/2024,Stable,Adequate,Standard
+284,Old Gate 103,Akwa Ibom,Nigeria,61276,164,19.65,1,15,8,4,76.1,47,10,15,3,52,2022,High,Yes,15.3,High Risk,0.640342209,High,16/04/2022,Stable,Underserved,Standard
+285,West Quarter 133,Oyo,Nigeria,59222,248,17.39,2,8,4,4,66,45,15,13,5,60,2023,Medium,Yes,11.55,Medium Risk,0.437648221,Low,6/4/2023,Stable,Adequate,Standard
+286,Old Quarter 128,Kaduna,Nigeria,15827,207,5.22,1,17,8,4,69.7,46,16,14,4,45,2023,High,Yes,15.85,High Risk,0.668145413,High,13/10/2023,Stable,Adequate,Structural Hotspot
+287,Central Village 82,Borno,Nigeria,19955,181,6.94,1,20,9,4,66.8,36,51,21,5,35,2024,High,Yes,15.65,High Risk,0.71020907,Critical,26/12/2024,At Risk,Adequate,Structural Hotspot
+288,Central Gate 141,FCT,Nigeria,59030,303,22.76,1,9,2,0,5.6,21,36,25,5,85,2022,High,Yes,6.8,Low Risk,0.219253172,Low,17/03/2022,Stable,Underserved,Standard
+289,Old Village 198,Kaduna,Nigeria,35748,376,12.62,1,17,8,4,59,42,30,13,3,45,2023,High,No,15.25,High Risk,0.657619097,High,11/3/2023,Stable,Adequate,Standard
+290,Central Market 31,Imo,Nigeria,33865,162,13.95,1,16,5,3,47.7,39,17,6,4,50,2024,High,Yes,13.45,Medium Risk,0.535075151,Medium,6/12/2024,Stable,Adequate,Standard
+291,South Market 16,Bauchi,Nigeria,13874,209,5.18,2,13,6,4,57.6,35,42,0,6,40,2022,High,Yes,12.3,Medium Risk,0.532873934,Medium,26/07/2022,Stable,Adequate,Standard
+292,Old District 171,Akwa Ibom,Nigeria,24423,84,7.77,1,14,6,4,44.5,41,22,2,4,52,2023,High,Yes,13.55,Medium Risk,0.563880799,Medium,21/05/2023,Stable,Adequate,Standard
+293,East Area 51,Lagos,Nigeria,77192,694,24.81,1,16,5,3,7.2,34,39,36,9,80,2024,High,Yes,12.7,Medium Risk,0.521917256,Medium,2/3/2024,Stable,Underserved,Standard
+294,New Quarter 130,Akwa Ibom,Nigeria,32227,108,9.26,1,17,9,4,24,34,56,45,1,52,2024,High,Yes,14.3,High Risk,0.659293738,High,24/03/2024,Stable,Adequate,Standard
+295,Central Gate 34,Enugu,Nigeria,63551,426,22.28,1,15,5,3,43.5,38,10,29,8,55,2022,High,Yes,12.95,Medium Risk,0.517226181,Medium,27/05/2022,Stable,Underserved,Standard
+296,New Park 42,Akwa Ibom,Nigeria,14392,119,5,1,18,7,2,51.1,31,42,25,4,52,2023,High,Yes,13.2,Medium Risk,0.558661847,Medium,9/7/2023,Stable,Adequate,Standard
+297,Old Quarter 168,Borno,Nigeria,29895,256,8.68,1,17,10,5,38.3,55,10,27,1,35,2024,High,Yes,17.95,High Risk,0.768534169,Critical,16/05/2024,Stable,Adequate,Standard
+298,New Village 152,Rivers,Nigeria,11061,174,5,2,13,5,3,17.3,34,46,30,4,65,2024,High,Yes,11.65,Medium Risk,0.476265082,Low,21/12/2024,Stable,Adequate,Standard
+299,Old Village 188,Akwa Ibom,Nigeria,30382,262,9.77,2,13,4,2,51.3,32,23,23,6,52,2024,Medium,No,10.85,Medium Risk,0.417024652,Low,17/02/2024,Stable,Adequate,Standard
+300,South Market 176,Enugu,Nigeria,98391,434,26.39,1,18,8,5,24,55,10,0,1,55,2023,High,Yes,17.8,High Risk,0.738297015,Critical,18/05/2023,Stable,Underserved,Standard
+301,Central Park 10,Lagos,Nigeria,78936,419,27.7,2,5,3,1,7.5,24,37,29,4,80,2023,Medium,No,6.35,Low Risk,0.220255617,Low,18/12/2023,Stable,Adequate,Standard
+302,South District 15,Akwa Ibom,Nigeria,19651,97,5.12,1,15,8,5,77.8,47,31,14,2,52,2024,High,Yes,15.55,High Risk,0.671592209,High,19/05/2024,Stable,Adequate,Standard
+303,East Quarter 90,FCT,Nigeria,46658,486,16.18,2,6,4,3,23,33,52,45,4,85,2023,Medium,No,8.8,Medium Risk,0.344384491,Low,9/3/2023,Stable,Adequate,Standard
+304,West Market 59,Kaduna,Nigeria,37859,199,9.35,1,15,7,4,34.7,43,14,13,4,45,2024,High,Yes,14.45,High Risk,0.607088621,Medium,6/2/2024,Stable,Adequate,Standard
+305,North Estate 158,Plateau,Nigeria,37642,177,9.38,1,15,9,4,48.2,35,47,17,6,48,2022,High,Yes,13.75,Medium Risk,0.631490535,High,22/01/2022,Stable,Adequate,Standard
+306,Old Quarter 68,Plateau,Nigeria,25667,129,8.75,1,11,5,2,26.2,37,14,16,1,48,2024,High,Yes,11.15,Medium Risk,0.422475036,Low,2/6/2024,Stable,Adequate,Standard
+307,North District 112,Bauchi,Nigeria,81406,448,21.26,1,20,8,4,76.6,46,10,15,5,40,2023,High,Yes,16.9,High Risk,0.713797587,Critical,17/11/2023,At Risk,Underserved,Structural Hotspot
+308,North Quarter 23,Rivers,Nigeria,32716,146,9.12,1,14,5,3,41.9,28,51,8,1,65,2024,High,No,11.1,Medium Risk,0.475693,Low,13/11/2024,Stable,Adequate,Standard
+309,Old Gate 87,Lagos,Nigeria,62485,358,18.88,2,11,3,1,14.5,24,34,33,9,80,2024,Medium,No,8.45,Medium Risk,0.311559965,Low,21/11/2024,Stable,Adequate,Standard
+310,Old Quarter 165,FCT,Nigeria,39380,225,11.86,1,14,6,2,20.5,22,61,41,3,85,2024,High,Yes,10.2,Medium Risk,0.451380799,Low,6/2/2024,Stable,Adequate,Standard
+311,North Quarter 148,Kano,Nigeria,17463,224,5,1,17,8,4,60.5,44,19,28,6,50,2022,High,Yes,15.55,High Risk,0.662882255,High,6/10/2022,Stable,Adequate,Structural Hotspot
+312,North Estate 14,Plateau,Nigeria,60861,169,20.24,1,17,7,4,23.8,41,38,16,2,48,2023,High,Yes,14.85,High Risk,0.632260245,High,26/12/2023,Stable,Underserved,Standard
+313,East District 194,Lagos,Nigeria,29271,457,9.66,3,4,1,0,11.1,17,48,29,5,80,2023,Low,No,4.2,Low Risk,0.109912627,Low,20/10/2023,Stable,Adequate,Standard
+314,Old Village 43,Borno,Nigeria,37523,142,14.29,1,18,8,6,57.5,56,13,0,3,35,2024,High,Yes,18.2,High Risk,0.772178594,Critical,27/09/2024,At Risk,Adequate,Standard
+315,New Area 86,FCT,Nigeria,135016,567,39.12,3,5,2,1,12,18,56,30,2,85,2024,Low,No,5.2,Low Risk,0.18173887,Low,27/02/2024,Stable,Adequate,Standard
+316,Central Gate 101,Imo,Nigeria,49753,345,15.91,1,16,8,4,57.6,42,22,8,4,50,2024,High,Yes,14.9,High Risk,0.642401706,High,21/10/2024,Stable,Underserved,Standard
+317,South Area 82,Rivers,Nigeria,64643,462,16.76,1,14,4,2,30.7,24,54,42,3,65,2022,High,Yes,10,Medium Risk,0.411189411,Low,12/6/2022,Stable,Underserved,Standard
+318,East Market 114,Borno,Nigeria,22497,167,5.07,1,18,9,5,22.3,47,32,15,2,35,2023,High,Yes,16.85,High Risk,0.739971656,Critical,9/3/2023,Stable,Adequate,Standard
+319,South Market 13,Kano,Nigeria,22557,151,6.5,1,16,8,4,48.1,45,18,7,6,50,2024,High,No,15.35,High Risk,0.650296443,High,8/1/2024,Stable,Adequate,Standard
+320,Central Area 199,Bauchi,Nigeria,46396,199,16.68,1,14,6,5,72.7,51,10,5,3,40,2024,High,No,15.3,High Risk,0.621446588,Medium,9/2/2024,At Risk,Underserved,Standard
+321,New Park 91,Rivers,Nigeria,15384,212,5,1,15,6,4,18.3,43,10,21,5,65,2022,High,Yes,14.2,High Risk,0.584361348,Medium,14/04/2022,Stable,Adequate,Standard
+322,West Estate 131,Oyo,Nigeria,21681,305,6.99,1,18,7,5,68.6,45,37,27,4,60,2024,High,Yes,16.05,High Risk,0.689253953,High,4/5/2024,Stable,Adequate,Structural Hotspot
+323,West Area 118,Lagos,Nigeria,35999,907,10.3,2,7,3,2,17,28,33,28,8,80,2023,Medium,Yes,7.9,Medium Risk,0.292466715,Low,21/01/2023,Stable,Adequate,Standard
+324,West Park 112,Oyo,Nigeria,30702,78,13.28,2,10,3,2,71,30,36,9,2,60,2022,Medium,No,9.25,Medium Risk,0.343382047,Low,11/9/2022,Stable,Adequate,Standard
+325,North Gate 168,Rivers,Nigeria,75686,113,21.81,1,14,6,3,47.3,31,37,28,5,65,2023,High,Yes,11.8,Medium Risk,0.506315009,Medium,8/7/2023,Stable,Underserved,Standard
+326,Central District 87,Enugu,Nigeria,50318,188,18.11,1,19,6,3,32.1,35,26,31,1,55,2024,High,Yes,14.15,High Risk,0.592928282,Medium,27/04/2024,Stable,Underserved,Standard
+327,West Estate 183,Oyo,Nigeria,20861,349,6.4,1,11,5,3,31.2,31,45,18,1,60,2023,High,Yes,10.5,Medium Risk,0.437935563,Low,21/03/2023,Stable,Adequate,Standard
+328,Old Gate 108,Plateau,Nigeria,70768,80,14.63,1,19,7,3,20.6,42,15,8,6,48,2023,High,Yes,15.45,High Risk,0.634076607,High,9/5/2023,Stable,Adequate,Standard
+329,East District 60,Kano,Nigeria,22294,269,7.61,1,15,8,5,64.4,45,36,15,3,50,2023,High,Yes,15.25,High Risk,0.666329051,High,26/05/2023,Stable,Adequate,Standard
+330,East Market 97,Kano,Nigeria,34380,120,9.26,1,16,6,2,69.4,29,47,32,2,50,2022,High,No,11.95,Medium Risk,0.500236634,Low,24/03/2022,Stable,Adequate,Structural Hotspot
+331,New District 113,Rivers,Nigeria,33407,325,10.41,1,12,7,3,67.5,30,46,15,6,65,2024,High,Yes,11.2,Medium Risk,0.495975921,Low,2/6/2024,Stable,Adequate,Standard
+332,Central Gate 131,Borno,Nigeria,39147,55,10.72,1,19,8,3,29.6,39,24,13,2,35,2023,High,Yes,15.25,High Risk,0.648909143,High,23/11/2023,Stable,Adequate,Standard
+333,East Gate 25,Borno,Nigeria,74726,760,24.87,1,15,10,6,31.9,51,21,19,4,35,2024,High,Yes,16.9,High Risk,0.758823071,Critical,11/1/2024,Stable,Underserved,Standard
+334,West Area 110,Plateau,Nigeria,42178,235,13.03,1,17,8,4,47.5,46,14,33,5,48,2024,High,Yes,15.85,High Risk,0.668145413,High,4/4/2024,Stable,Adequate,Standard
+335,East Village 180,Kano,Nigeria,20454,88,5.43,2,12,5,3,76.8,31,52,11,1,50,2023,High,No,10.85,Medium Risk,0.453152954,Low,24/08/2023,Stable,Adequate,Standard
+336,New Area 38,Lagos,Nigeria,40189,1031,17.72,2,9,5,3,27.4,25,59,38,7,80,2023,Medium,No,8.9,Medium Risk,0.391711306,Low,25/11/2023,Stable,Adequate,Standard
+337,West Quarter 137,Plateau,Nigeria,39147,107,10.99,1,15,8,3,78.1,31,45,5,3,48,2024,High,Yes,12.65,Medium Risk,0.566986946,Medium,25/09/2024,Stable,Adequate,Standard
+338,North Village 77,Plateau,Nigeria,22837,161,8.21,1,18,8,3,64.1,37,19,23,7,48,2024,High,Yes,14.6,High Risk,0.628428594,High,12/2/2024,Stable,Adequate,Structural Hotspot
+339,Central District 47,Akwa Ibom,Nigeria,33014,288,11.92,2,12,7,4,47.5,45,11,37,5,52,2024,High,Yes,13.7,Medium Risk,0.566699605,Medium,11/11/2024,Stable,Adequate,Standard
+340,West Quarter 84,Akwa Ibom,Nigeria,81333,727,34.35,1,16,7,3,34.9,30,47,27,4,52,2024,High,Yes,12.6,Medium Risk,0.556845486,Medium,27/03/2024,Stable,Underserved,Standard
+341,West Estate 109,Lagos,Nigeria,63562,539,18.74,2,11,4,2,7.3,25,37,39,2,80,2022,Medium,Yes,9.1,Medium Risk,0.368168816,Low,10/7/2022,Stable,Adequate,Standard
+342,East Gate 194,Kano,Nigeria,51512,193,15.46,1,19,11,6,28.6,49,33,22,1,50,2024,High,Yes,18.25,High Risk,0.837156751,Critical,22/04/2024,Stable,Underserved,Standard
+343,South Estate 32,Plateau,Nigeria,42683,167,11.1,1,18,8,4,54.2,43,24,20,1,48,2024,High,No,15.75,High Risk,0.675468067,High,23/03/2024,Stable,Adequate,Standard
+344,West Quarter 28,Enugu,Nigeria,24000,158,6.43,2,14,6,3,44.6,26,47,20,6,55,2023,High,Yes,11.05,Medium Risk,0.493157115,Low,22/03/2023,Stable,Adequate,Standard
+345,East Gate 56,Enugu,Nigeria,97799,105,32.05,1,18,7,2,79.4,27,33,16,5,55,2023,High,Yes,12.6,Medium Risk,0.548135532,Medium,6/1/2023,Stable,Underserved,Structural Hotspot
+346,North Market 105,FCT,Nigeria,121944,886,40.9,2,9,6,2,14.8,29,31,31,10,85,2023,Medium,No,9.5,Medium Risk,0.393714895,Low,7/6/2023,Stable,Adequate,Standard
+347,New Estate 80,Kano,Nigeria,42941,177,11.79,2,14,8,3,66.4,32,29,0,1,50,2023,High,Yes,12.45,Medium Risk,0.554401134,Medium,24/08/2023,Stable,Adequate,Standard
+348,North Quarter 173,Imo,Nigeria,27414,99,11.25,1,19,7,6,72.7,56,10,4,1,50,2022,High,Yes,18.3,High Risk,0.764668712,Critical,23/10/2022,Stable,Adequate,Structural Hotspot
+349,West Gate 157,Enugu,Nigeria,16448,81,5,1,14,5,3,35.1,30,46,36,5,55,2023,High,Yes,11.4,Medium Risk,0.480956158,Low,17/10/2023,Stable,Adequate,Standard
+350,East Park 10,Imo,Nigeria,81367,100,27.02,1,15,8,5,53.8,41,39,9,3,50,2024,High,Yes,14.65,High Risk,0.655802736,High,16/08/2024,Stable,Underserved,Standard
+351,North District 24,Enugu,Nigeria,21450,147,5.67,1,17,7,3,18.7,36,34,33,4,55,2022,High,Yes,13.85,Medium Risk,0.587852351,Medium,9/2/2022,Stable,Adequate,Standard
+352,West Park 41,Rivers,Nigeria,55065,427,16.88,1,12,3,2,64,19,57,19,1,65,2024,High,Yes,8.3,Medium Risk,0.344869461,Low,8/10/2024,Stable,Underserved,Standard
+353,North Quarter 163,Enugu,Nigeria,32678,339,13.52,1,17,8,5,34.7,44,29,25,2,55,2022,High,Yes,15.8,High Risk,0.694132255,High,18/12/2022,Stable,Adequate,Standard
+354,Old District 191,Borno,Nigeria,60708,271,21.37,1,19,9,4,41.4,45,13,21,5,35,2023,High,Yes,16.65,High Risk,0.718675889,Critical,25/12/2023,Stable,Underserved,Standard
+355,West Park 68,FCT,Nigeria,62784,702,18.98,2,11,4,1,29,17,65,14,3,85,2023,Medium,No,7.65,Medium Risk,0.315866185,Low,20/06/2023,Stable,Adequate,Standard
+356,East Village 97,Rivers,Nigeria,19281,137,6.55,2,9,3,1,51.1,25,42,40,3,65,2024,Medium,No,7.9,Medium Risk,0.283756761,Low,7/2/2024,Stable,Adequate,Standard
+357,East Village 66,Kaduna,Nigeria,18403,158,5,1,16,6,4,47.2,39,39,0,3,45,2024,High,Yes,13.95,Medium Risk,0.589052424,Medium,2/4/2024,Stable,Adequate,Standard
+358,East District 51,Kaduna,Nigeria,55965,135,15.17,1,22,10,4,66.4,29,66,8,6,45,2023,High,No,15.55,High Risk,0.744950073,Critical,11/3/2023,Stable,Underserved,Structural Hotspot
+359,Old Park 95,Imo,Nigeria,56148,240,16.75,1,13,6,4,61.3,43,10,17,1,50,2023,High,Yes,13.5,Medium Risk,0.553926565,Medium,25/04/2023,Stable,Underserved,Standard
+360,West Estate 190,Kano,Nigeria,73566,351,24.99,1,15,7,3,79.4,39,12,21,1,50,2022,High,Yes,13.6,Medium Risk,0.565312305,Medium,14/02/2022,Stable,Underserved,Standard
+361,New Quarter 12,Imo,Nigeria,19985,339,5.61,1,16,8,4,39.5,48,11,9,2,50,2022,High,Yes,15.8,High Risk,0.65819118,High,12/4/2022,Stable,Adequate,Standard
+362,South Market 132,Lagos,Nigeria,43188,468,14.49,1,11,3,0,19.5,18,40,8,4,80,2023,High,Yes,7.3,Medium Risk,0.264520491,Low,12/11/2023,Stable,Adequate,Standard
+363,Central Area 126,Enugu,Nigeria,30632,315,11.45,1,13,6,2,74.4,39,13,17,5,55,2024,High,Yes,12.4,Medium Risk,0.48090025,Low,18/08/2024,Stable,Adequate,Standard
+364,East Estate 42,Bauchi,Nigeria,19826,391,6.05,1,19,11,6,42.5,44,49,15,2,40,2024,High,Yes,17.5,High Risk,0.823998856,Critical,14/07/2024,Stable,Adequate,Standard
+365,Old District 58,Borno,Nigeria,53019,252,17.51,1,18,8,5,61.1,50,13,3,1,35,2024,High,Yes,17.05,High Risk,0.72513912,Critical,12/3/2024,At Risk,Underserved,Structural Hotspot
+366,Old District 57,Oyo,Nigeria,25463,163,8.6,1,16,5,3,73.7,24,62,21,1,60,2023,High,Yes,11.2,Medium Risk,0.495601467,Low,9/3/2023,Stable,Adequate,Structural Hotspot
+367,East Estate 92,Imo,Nigeria,66405,89,20.76,2,12,5,3,35.6,31,33,16,3,50,2023,High,Yes,10.85,Medium Risk,0.453152954,Low,2/7/2023,Stable,Adequate,Standard
+368,East Market 135,Enugu,Nigeria,25374,174,8.89,2,10,4,1,37.1,26,33,1,7,55,2024,Medium,No,8.65,Medium Risk,0.324333004,Low,4/5/2024,Stable,Adequate,Standard
+369,New Quarter 38,Enugu,Nigeria,50188,121,16.54,1,17,7,5,35.6,45,35,34,2,55,2024,High,Yes,15.7,High Risk,0.674036561,High,14/03/2024,Stable,Underserved,Standard
+370,New Area 32,Bauchi,Nigeria,43002,179,13.98,1,18,7,3,15.7,40,12,6,1,40,2022,High,Yes,14.8,High Risk,0.613596058,Medium,14/04/2022,Stable,Adequate,Standard
+371,Central District 184,Akwa Ibom,Nigeria,29648,132,7.76,1,16,7,3,31.9,43,10,11,1,52,2024,High,Yes,14.55,High Risk,0.591056012,Medium,13/11/2024,Stable,Adequate,Standard
+372,Old District 77,Akwa Ibom,Nigeria,24261,260,8.73,1,20,9,5,77.7,52,10,26,4,52,2024,High,Yes,18.3,High Risk,0.783564333,Critical,18/11/2024,Stable,Adequate,Structural Hotspot
+373,East Park 95,Borno,Nigeria,90239,200,28.73,1,16,9,5,23.8,46,31,14,2,35,2022,High,Yes,16,High Risk,0.706905294,High,26/05/2022,Stable,Underserved,Standard
+374,East Area 4,Enugu,Nigeria,39969,249,11.93,1,18,7,3,32.1,40,10,16,6,55,2024,High,Yes,14.8,High Risk,0.613596058,Medium,6/5/2024,Stable,Adequate,Standard
+375,West Park 36,FCT,Nigeria,58695,714,19.67,3,5,1,0,27.2,10,66,54,7,85,2024,Low,No,3.5,Low Risk,0.106708966,Low,2/4/2024,Stable,Adequate,Standard
+376,Old Park 80,Enugu,Nigeria,46001,245,13.11,1,15,7,2,31.7,32,19,43,2,55,2022,High,Yes,12.3,Medium Risk,0.515641252,Medium,16/11/2022,Stable,Adequate,Standard
+377,Central District 15,Plateau,Nigeria,56447,104,14.8,1,15,6,3,32.5,35,34,16,1,48,2023,High,No,12.75,Medium Risk,0.532058716,Medium,19/02/2023,Stable,Adequate,Standard
+378,East District 181,Kano,Nigeria,53333,164,11.23,1,14,8,5,25.1,39,36,5,1,50,2024,High,No,14,Medium Risk,0.635322186,High,2/12/2024,Stable,Adequate,Standard
+379,Old District 161,Lagos,Nigeria,83704,479,29.19,1,15,6,3,20.9,30,54,16,3,80,2023,High,Yes,12,Medium Risk,0.518900822,Medium,7/7/2023,Stable,Underserved,Standard
+380,East Quarter 44,Enugu,Nigeria,16591,123,6.9,1,15,8,3,49.9,35,19,0,4,55,2023,High,Yes,13.25,Medium Risk,0.577513262,Medium,20/06/2023,Stable,Adequate,Standard
+381,East Estate 67,Oyo,Nigeria,28344,445,6.43,1,12,8,4,51.3,44,22,32,3,60,2024,High,Yes,13.8,Medium Risk,0.586795299,Medium,22/09/2024,Stable,Adequate,Standard
+382,Central Gate 108,Kaduna,Nigeria,35979,89,12.31,1,20,8,6,35.1,58,11,46,1,45,2023,High,Yes,19.2,High Risk,0.807876534,Critical,28/04/2023,Stable,Adequate,Standard
+383,West Area 152,FCT,Nigeria,70646,747,28.49,2,9,4,2,25.6,28,47,46,6,85,2024,Medium,No,8.85,Medium Risk,0.345628771,Low,12/7/2024,Stable,Adequate,Standard
+384,East Quarter 164,Imo,Nigeria,37209,248,10.43,1,14,6,3,20.8,31,55,0,1,50,2022,High,Yes,11.8,Medium Risk,0.506315009,Medium,26/08/2022,Stable,Adequate,Standard
+385,New District 77,Kano,Nigeria,51962,179,17.35,1,14,6,5,42.1,48,19,23,2,50,2023,High,Yes,14.85,High Risk,0.613551851,Medium,2/6/2023,Stable,Underserved,Standard
+386,New Area 186,FCT,Nigeria,81765,421,22.76,1,13,5,1,13.5,12,67,20,10,85,2023,High,Yes,7.85,Medium Risk,0.355870345,Low,18/04/2023,Stable,Underserved,Standard
+387,West Park 155,FCT,Nigeria,60263,659,9.37,2,8,4,1,18.8,20,44,45,6,85,2022,Medium,No,7.05,Medium Risk,0.278108748,Low,10/2/2022,Stable,Adequate,Standard
+388,South Park 192,Borno,Nigeria,17419,266,7.05,1,20,10,4,36.4,45,10,2,1,35,2024,High,Yes,17.25,High Risk,0.756620553,Critical,14/03/2024,Stable,Adequate,Standard
+389,Old Estate 46,Kaduna,Nigeria,56062,127,18.41,1,17,6,4,47.3,45,16,17,6,45,2022,High,Yes,15.2,High Risk,0.620059289,Medium,19/02/2022,Stable,Underserved,Standard
+390,North District 106,Enugu,Nigeria,18579,281,6.57,2,11,4,3,21.4,36,34,26,2,55,2024,High,Yes,11,Medium Risk,0.428366185,Low,5/8/2024,Stable,Adequate,Standard
+391,West Village 78,Plateau,Nigeria,35605,177,12.55,1,16,7,4,24.1,43,28,0,4,48,2024,High,Yes,14.8,High Risk,0.622306012,Medium,15/07/2024,Stable,Adequate,Standard
+392,Central Market 63,Akwa Ibom,Nigeria,32086,160,8.32,2,14,6,3,57.4,27,58,15,5,52,2022,High,Yes,11.2,Medium Risk,0.495788694,Low,19/11/2022,Stable,Adequate,Standard
+393,Old Quarter 170,Enugu,Nigeria,75914,353,18.11,1,17,7,3,71.2,34,39,3,5,55,2022,High,Yes,13.55,Medium Risk,0.582589193,Medium,26/02/2022,Stable,Underserved,Structural Hotspot
+394,West Quarter 77,Enugu,Nigeria,27375,323,9.26,1,17,9,5,53.5,46,40,3,5,55,2022,High,Yes,16.35,High Risk,0.722122686,Critical,8/4/2022,Stable,Adequate,Standard
+395,Central Area 141,Kaduna,Nigeria,18407,120,7.6,1,18,8,4,44.8,36,56,31,7,45,2022,High,No,14.7,High Risk,0.657047015,High,1/7/2022,Stable,Adequate,Standard
+396,New Village 6,Rivers,Nigeria,57046,188,19.71,2,9,5,1,47.4,32,14,17,4,65,2022,Medium,No,9.45,Medium Risk,0.347632359,Low,21/12/2022,Stable,Adequate,Standard
+397,Central Quarter 10,Lagos,Nigeria,32293,722,11.26,1,12,5,2,8.1,21,65,13,5,80,2023,High,Yes,9.1,Medium Risk,0.395587165,Low,15/03/2023,Stable,Adequate,Standard
+398,Old Park 99,Lagos,Nigeria,50632,463,12.35,2,5,4,2,18.7,26,46,39,5,80,2024,Medium,Yes,7.15,Medium Risk,0.279496047,Low,28/02/2024,Stable,Adequate,Standard
+399,Central District 114,Kaduna,Nigeria,54694,298,17.76,1,16,8,3,57.9,38,27,27,1,45,2024,High,Yes,14.05,High Risk,0.60062539,Medium,5/1/2024,Stable,Underserved,Standard
+400,Central Market 2,Kano,Nigeria,36554,113,10.53,1,20,10,5,48.4,49,24,34,1,50,2024,High,Yes,18.1,High Risk,0.798396869,Critical,27/02/2024,Stable,Adequate,Standard
+401,East Village 90,Akwa Ibom,Nigeria,41959,149,12.97,1,12,5,5,79.1,48,22,32,5,52,2023,High,No,13.9,Medium Risk,0.560389796,Medium,27/03/2023,Stable,Adequate,Standard
+402,West Area 95,Akwa Ibom,Nigeria,41624,208,9.84,1,17,7,5,66.6,43,39,49,5,52,2022,High,Yes,15.4,High Risk,0.668773403,High,25/11/2022,Stable,Adequate,Structural Hotspot
+403,Old District 53,Plateau,Nigeria,26756,247,6.85,1,15,6,4,22,46,10,25,3,48,2023,High,Yes,14.65,High Risk,0.592256085,Medium,3/3/2023,Stable,Adequate,Standard
+404,South Gate 47,Rivers,Nigeria,17348,164,5.26,2,9,4,2,41.5,25,44,38,6,65,2024,Medium,Yes,8.4,Medium Risk,0.337734034,Low,27/06/2024,Stable,Adequate,Standard
+405,South District 128,Rivers,Nigeria,44502,229,13.98,2,11,5,2,75.6,17,75,16,6,65,2024,Medium,No,8.15,Medium Risk,0.369843457,Low,15/10/2024,Stable,Adequate,Standard
+406,New Village 3,Kano,Nigeria,49320,74,16.9,1,15,5,4,33.9,44,27,62,3,50,2023,High,Yes,14.1,High Risk,0.564265654,Medium,23/08/2023,Stable,Underserved,Standard
+407,Old Quarter 157,Rivers,Nigeria,34568,279,13.99,1,16,7,3,74.5,19,67,18,3,65,2022,High,Yes,10.95,Medium Risk,0.527898117,Medium,9/12/2022,Stable,Adequate,Structural Hotspot
+408,New Area 105,Kano,Nigeria,22265,111,6.04,1,15,7,4,51.8,42,28,28,1,50,2024,High,Yes,14.3,High Risk,0.604457042,Medium,22/05/2024,Stable,Adequate,Standard
+409,North Market 67,Rivers,Nigeria,42795,70,14.2,1,15,8,3,29.4,34,57,34,9,65,2024,High,No,13.1,Medium Risk,0.574881683,Medium,25/10/2024,Stable,Adequate,Standard
+410,New Area 63,Borno,Nigeria,69257,179,15.72,1,18,9,4,25.7,45,10,29,1,35,2023,High,Yes,16.3,High Risk,0.703458498,High,9/9/2023,Stable,Underserved,Standard
+411,West Market 110,Lagos,Nigeria,56389,640,18.95,2,8,4,1,14.4,18,58,42,4,80,2024,Medium,Yes,6.75,Low Risk,0.27284559,Low,4/1/2024,Stable,Adequate,Standard
+412,East Area 24,Bauchi,Nigeria,22454,350,7.58,1,18,9,5,28.1,50,19,21,4,40,2024,High,Yes,17.3,High Risk,0.747866393,Critical,4/12/2024,Stable,Adequate,Standard
+413,West Park 87,Borno,Nigeria,26785,273,9.73,1,18,10,7,75,56,33,31,3,35,2023,High,Yes,18.95,High Risk,0.848883139,Critical,10/5/2023,At Risk,Adequate,Structural Hotspot
+414,New District 48,Plateau,Nigeria,59084,181,17.43,1,13,6,2,30.1,37,10,4,3,48,2024,High,Yes,12.1,Medium Risk,0.475637092,Low,6/5/2024,Stable,Underserved,Standard
+415,Old Park 78,Kano,Nigeria,27788,228,9.44,1,15,7,4,38,43,27,0,1,50,2022,High,Yes,14.45,High Risk,0.607088621,Medium,3/5/2022,Stable,Adequate,Standard
+416,East Gate 9,Kaduna,Nigeria,46029,187,13.83,1,17,6,3,19.7,34,41,20,1,45,2023,High,Yes,13.3,Medium Risk,0.55986192,Medium,14/03/2023,Stable,Adequate,Standard
+417,New Park 199,Kano,Nigeria,22385,313,6.73,1,18,6,2,20.1,26,54,8,1,50,2022,High,Yes,12.2,Medium Risk,0.52277668,Medium,14/02/2022,Stable,Adequate,Standard
+418,New Estate 65,Rivers,Nigeria,45218,185,9.3,1,13,5,0,42.8,11,64,35,4,65,2023,High,Yes,7.45,Medium Risk,0.321988766,Low,6/10/2023,Stable,Adequate,Standard
+419,South Estate 101,Enugu,Nigeria,26042,197,9.27,1,17,6,2,31.5,34,22,21,2,55,2023,High,Yes,13.05,Medium Risk,0.52861192,Medium,3/2/2023,Stable,Adequate,Standard
+420,New Estate 76,Plateau,Nigeria,53107,318,15.6,1,15,7,3,27.1,39,10,0,2,48,2022,High,Yes,13.6,Medium Risk,0.565312305,Medium,19/10/2022,Stable,Underserved,Standard
+421,Old Gate 11,Akwa Ibom,Nigeria,41492,132,10.21,1,16,7,4,31.2,38,48,32,3,52,2024,High,Yes,14.05,High Risk,0.609148117,Medium,4/10/2024,Stable,Adequate,Standard
+422,Central Gate 102,Kaduna,Nigeria,32074,169,9.2,1,18,7,3,50.6,36,21,32,1,45,2024,High,Yes,14.2,High Risk,0.603069742,Medium,19/05/2024,Stable,Adequate,Standard
+423,North Market 62,Kaduna,Nigeria,35256,57,10.28,1,19,9,5,28.3,42,47,30,3,45,2022,High,No,16.45,High Risk,0.742031152,Critical,19/05/2022,Stable,Adequate,Standard
+424,West Area 178,Enugu,Nigeria,32093,169,11.08,2,12,7,4,42.8,47,16,19,4,55,2024,High,No,14,Medium Risk,0.571962763,Medium,24/11/2024,Stable,Adequate,Standard
+425,North District 73,Kano,Nigeria,40384,407,10.97,2,15,6,3,31.2,32,31,27,3,50,2022,High,Yes,12.3,Medium Risk,0.52416398,Medium,18/01/2022,Stable,Adequate,Standard
+426,Old District 81,Imo,Nigeria,30403,299,9.55,1,19,6,5,57.2,42,32,0,3,50,2024,High,Yes,15.7,High Risk,0.673849334,High,15/11/2024,Stable,Adequate,Standard
+427,Central District 116,Rivers,Nigeria,20535,207,7.77,1,12,3,1,70,12,61,35,2,65,2024,High,Yes,7,Low Risk,0.295198409,Low,11/12/2024,Stable,Adequate,Standard
+428,Central Area 110,Rivers,Nigeria,48641,212,12.5,1,12,7,3,16.1,38,21,27,6,65,2022,High,Yes,12.4,Medium Risk,0.517028552,Medium,24/07/2022,Stable,Adequate,Standard
+429,South District 132,FCT,Nigeria,74690,426,25.08,1,14,6,4,22.2,42,34,46,7,85,2023,High,Yes,13.7,Medium Risk,0.566512378,Medium,11/2/2023,Stable,Underserved,Standard
+430,Old Village 100,Oyo,Nigeria,74950,178,23.96,1,16,6,4,37,42,26,9,3,60,2024,High,No,14.4,High Risk,0.59694716,Medium,18/04/2024,Stable,Underserved,Standard
+431,New Gate 78,Lagos,Nigeria,106581,507,30.39,2,7,3,1,19.6,20,47,40,6,80,2024,Medium,No,6.45,Low Risk,0.240164084,Low,4/7/2024,Stable,Adequate,Standard
+432,Central Market 16,Plateau,Nigeria,30346,156,10.35,1,16,7,5,77.2,51,17,38,1,48,2023,High,Yes,16.25,High Risk,0.674608644,High,11/1/2023,Stable,Adequate,Structural Hotspot
+433,New Park 185,Kano,Nigeria,26376,204,9.49,1,14,7,3,38.3,41,23,26,5,50,2024,High,Yes,13.55,Medium Risk,0.555358072,Medium,12/4/2024,Stable,Adequate,Standard
+434,New Quarter 25,Oyo,Nigeria,79544,205,24.1,2,11,4,3,58.3,39,10,38,2,60,2024,High,Yes,11.45,Medium Risk,0.436260922,Low,13/01/2024,Stable,Adequate,Standard
+435,Central Area 180,Borno,Nigeria,49044,232,18.98,1,20,9,5,72.9,52,13,26,1,35,2022,High,Yes,18.3,High Risk,0.783564333,Critical,25/03/2022,At Risk,Underserved,Structural Hotspot
+436,South Area 160,Imo,Nigeria,18025,225,5.23,1,16,7,5,39.1,37,57,39,2,50,2024,High,Yes,14.15,High Risk,0.637766538,High,20/10/2024,Stable,Adequate,Standard
+437,West Quarter 93,FCT,Nigeria,45519,1311,17.01,2,10,3,2,19.2,26,49,40,8,85,2022,Medium,No,8.65,Medium Risk,0.332855731,Low,27/10/2022,Stable,Adequate,Standard
+438,Old District 114,Akwa Ibom,Nigeria,33423,113,14.06,1,11,6,3,35.7,31,52,28,4,52,2024,High,Yes,10.75,Medium Risk,0.460662835,Low,5/1/2024,Stable,Adequate,Standard
+439,Old Park 47,Kaduna,Nigeria,50705,101,12.54,1,18,6,2,55,29,30,9,6,45,2024,High,Yes,12.65,Medium Risk,0.530671417,Medium,11/11/2024,Stable,Adequate,Standard
+440,South Village 162,Kaduna,Nigeria,14608,134,5,1,15,6,3,71.3,26,63,14,4,45,2024,High,Yes,11.4,Medium Risk,0.508374506,Medium,9/5/2024,Stable,Adequate,Standard
+441,West Area 26,Bauchi,Nigeria,52431,401,11.72,1,18,8,5,15.8,42,32,8,1,40,2024,High,No,15.85,High Risk,0.704086488,High,15/09/2024,Stable,Adequate,Standard
+442,Old Market 54,Borno,Nigeria,26063,103,8.29,1,20,7,3,38.9,39,19,11,1,35,2024,High,Yes,15.35,High Risk,0.641399261,High,10/4/2024,Stable,Adequate,Standard
+443,Old Estate 80,Oyo,Nigeria,85145,455,27.53,2,13,6,3,63.3,34,32,24,2,60,2024,High,Yes,11.9,Medium Risk,0.498992355,Low,14/06/2024,Stable,Adequate,Standard
+444,East Park 57,Plateau,Nigeria,66477,110,20.27,1,17,7,3,46.6,39,10,12,1,48,2024,High,Yes,14.3,High Risk,0.595747088,Medium,4/3/2024,Stable,Underserved,Standard
+445,East Gate 4,Enugu,Nigeria,22944,246,5.27,1,20,6,4,58.5,39,37,11,7,55,2023,High,Yes,15.35,High Risk,0.649921989,High,1/11/2023,Stable,Adequate,Standard
+446,Central District 144,Plateau,Nigeria,42214,114,12.83,1,20,7,5,48.8,43,38,31,2,48,2023,High,Yes,16.45,High Risk,0.714425577,Critical,23/08/2023,Stable,Adequate,Standard
+447,East Market 179,Borno,Nigeria,44380,101,13.14,1,19,8,5,58.8,47,10,12,4,35,2022,High,Yes,16.95,High Risk,0.732461774,Critical,3/9/2022,At Risk,Adequate,Standard
+448,Central District 85,FCT,Nigeria,126845,627,27.06,1,12,4,1,7.4,22,44,31,9,85,2022,High,Yes,8.75,Medium Risk,0.344241471,Low,3/8/2022,Stable,Underserved,Standard
+449,West District 84,Bauchi,Nigeria,40137,196,9.58,1,15,8,4,25.9,42,25,18,1,40,2024,High,Yes,14.55,High Risk,0.627184315,Medium,6/1/2024,Stable,Adequate,Standard
+450,Old Estate 157,Lagos,Nigeria,39509,808,12.64,3,3,3,0,19.7,21,25,56,3,80,2022,Low,No,4.95,Low Risk,0.150676097,Low,19/09/2022,Stable,Adequate,Standard
+451,Central Village 70,Borno,Nigeria,15275,191,6.19,1,19,8,5,75.2,53,10,5,1,35,2023,High,Yes,17.85,High Risk,0.748251248,Critical,3/8/2023,At Risk,Adequate,Structural Hotspot
+452,New District 6,Rivers,Nigeria,35353,131,7.42,1,14,6,4,38.4,32,45,8,5,65,2024,High,Yes,12.2,Medium Risk,0.540196588,Medium,4/4/2024,Stable,Adequate,Standard
+453,New District 78,Kaduna,Nigeria,32698,141,10.34,1,19,9,5,50.4,48,19,27,4,45,2023,High,Yes,17.35,High Risk,0.757820626,Critical,14/12/2023,Stable,Adequate,Standard
+454,Central Estate 141,Plateau,Nigeria,32913,214,10.72,2,15,6,4,31.5,45,10,10,1,48,2023,High,No,14.5,High Risk,0.589624506,Medium,12/1/2023,Stable,Adequate,Standard
+455,Old District 102,Akwa Ibom,Nigeria,28619,122,10.04,1,15,6,4,15.5,24,79,13,1,52,2024,High,Yes,11.35,Medium Risk,0.534361348,Medium,2/10/2024,Stable,Adequate,Standard
+456,Central Gate 35,Enugu,Nigeria,24177,159,8.83,1,18,9,5,47.7,46,29,21,1,55,2024,High,Yes,16.7,High Risk,0.737340077,Critical,25/08/2024,Stable,Adequate,Standard
+457,New Village 162,Imo,Nigeria,35528,153,10.55,1,18,7,4,63.5,31,63,0,5,50,2022,High,Yes,13.7,Medium Risk,0.621161847,Medium,24/05/2022,Stable,Adequate,Structural Hotspot
+458,North Quarter 187,Bauchi,Nigeria,28506,122,9.31,1,16,7,4,42.2,39,27,19,7,40,2023,High,Yes,14.2,High Risk,0.611779696,Medium,23/11/2023,Stable,Adequate,Standard
+459,South Park 25,Bauchi,Nigeria,20902,81,5.59,1,20,9,5,75.5,54,10,10,1,40,2023,High,Yes,18.6,High Risk,0.788827491,Critical,9/9/2023,At Risk,Adequate,Structural Hotspot
+460,Central Village 90,Enugu,Nigeria,33048,374,10.69,1,16,7,3,38.4,42,10,39,6,55,2024,High,Yes,14.4,High Risk,0.588424433,Medium,27/07/2024,Stable,Adequate,Standard
+461,West Village 79,Lagos,Nigeria,65878,672,21.1,1,13,5,1,7.6,20,53,18,5,80,2022,High,Yes,9.05,Medium Risk,0.376922977,Low,9/1/2022,Stable,Underserved,Standard
+462,West Quarter 198,Imo,Nigeria,108148,281,28.8,1,13,4,4,32.8,41,31,7,2,50,2024,High,Yes,12.7,Medium Risk,0.503208862,Low,22/11/2024,Stable,Underserved,Standard
+463,New Estate 185,Borno,Nigeria,14772,198,5.24,1,19,9,5,17.8,44,37,0,1,35,2024,High,Yes,16.75,High Risk,0.74729431,Critical,8/11/2024,Stable,Adequate,Standard
+464,South Quarter 168,Kaduna,Nigeria,22414,178,7.37,1,15,6,2,52.4,40,10,24,1,45,2024,High,Yes,13.25,Medium Risk,0.513966611,Medium,21/01/2024,Stable,Adequate,Standard
+465,North Market 84,Kano,Nigeria,36430,186,12.46,2,16,6,3,37.3,41,10,11,1,50,2023,High,Yes,14,Medium Risk,0.563065581,Medium,14/03/2023,Stable,Adequate,Standard
+466,Old Gate 126,Lagos,Nigeria,84243,471,21.51,2,9,3,4,19.8,39,36,59,6,80,2022,Medium,No,10.75,Medium Risk,0.414348866,Low,10/3/2022,Stable,Adequate,Standard
+467,New Quarter 78,Lagos,Nigeria,40481,311,11.97,1,13,6,3,8.5,33,30,41,5,80,2024,High,Yes,11.75,Medium Risk,0.496360776,Low,8/5/2024,Stable,Adequate,Standard
+468,New Estate 1,Kaduna,Nigeria,39247,107,13.9,1,22,9,3,34.8,31,52,23,4,45,2024,High,Yes,15.35,High Risk,0.696235958,High,22/11/2024,Stable,Adequate,Standard
+469,Central Market 90,Akwa Ibom,Nigeria,39518,69,12.44,1,12,4,1,35.7,27,31,6,4,52,2024,High,Yes,9.5,Medium Risk,0.357399366,Low,6/1/2024,Stable,Adequate,Standard
+470,South Park 86,Imo,Nigeria,94271,87,31.92,1,16,8,4,15.9,44,22,23,1,50,2023,High,Yes,15.2,High Risk,0.647664864,High,10/2/2023,Stable,Underserved,Standard
+471,New Park 62,Lagos,Nigeria,71773,444,16.49,1,13,5,2,25.2,27,47,22,8,80,2022,High,Yes,10.35,Medium Risk,0.42659403,Low,11/6/2022,Stable,Underserved,Standard
+472,East Gate 196,FCT,Nigeria,49049,782,13.45,2,6,1,0,14.1,12,59,38,7,85,2022,Medium,No,4.15,Low Risk,0.127189515,Low,9/6/2022,Stable,Adequate,Standard
+473,North Park 112,Kaduna,Nigeria,28731,233,9.86,1,16,6,3,27.7,33,34,19,1,45,2023,High,Yes,12.8,Medium Risk,0.54201295,Medium,2/1/2023,Stable,Adequate,Standard
+474,East Market 95,Plateau,Nigeria,15951,195,5,1,15,7,3,57,43,15,18,5,48,2024,High,Yes,14.2,High Risk,0.575838621,Medium,7/1/2024,Stable,Adequate,Standard
+475,North Area 11,Oyo,Nigeria,19931,209,6.83,2,10,4,3,26.3,35,21,38,2,60,2022,Medium,No,10.5,Medium Risk,0.410517214,Low,26/02/2022,Stable,Adequate,Standard
+476,East Quarter 122,Imo,Nigeria,79436,320,25.79,1,14,5,2,76.7,33,17,24,5,50,2024,High,Yes,11.6,Medium Risk,0.457600895,Low,21/02/2024,Stable,Underserved,Standard
+477,North Gate 96,Plateau,Nigeria,57031,141,17.41,1,19,8,3,31.6,34,36,30,3,48,2024,High,Yes,14.5,High Risk,0.635751248,High,24/06/2024,Stable,Underserved,Standard
+478,West Estate 146,Imo,Nigeria,119098,354,42.73,1,16,10,3,21.8,39,23,39,1,50,2023,High,Yes,14.7,High Risk,0.648711514,High,15/03/2023,Stable,Underserved,Standard
+479,West Village 120,Akwa Ibom,Nigeria,67726,202,18.84,1,15,9,2,21.5,33,28,18,2,52,2024,High,Yes,12.95,Medium Risk,0.563727377,Medium,14/12/2024,Stable,Underserved,Standard
+480,New Park 104,Rivers,Nigeria,52297,110,17.94,2,7,4,1,77.1,25,38,38,7,65,2023,Medium,No,7.45,Medium Risk,0.276049251,Low,15/01/2023,Stable,Adequate,Standard
+481,North Park 195,FCT,Nigeria,64797,333,21.79,2,6,3,0,19.9,20,39,30,8,85,2024,Medium,No,5.85,Low Risk,0.193696692,Low,14/10/2024,Stable,Adequate,Standard
+482,South District 42,Akwa Ibom,Nigeria,81335,326,26.05,1,16,8,4,78.8,45,11,4,4,52,2022,High,No,15.35,High Risk,0.650296443,High,3/6/2022,Stable,Underserved,Structural Hotspot
+483,West Market 137,Oyo,Nigeria,28944,290,10.3,1,15,5,2,40.4,29,44,34,5,60,2024,High,Yes,11.35,Medium Risk,0.46229197,Low,13/04/2024,Stable,Adequate,Standard
+484,East Quarter 81,FCT,Nigeria,57983,306,15.45,2,9,4,2,17,28,45,36,6,85,2023,Medium,No,8.85,Medium Risk,0.345628771,Low,2/3/2023,Stable,Adequate,Standard
+485,New Quarter 116,Imo,Nigeria,17232,186,5.84,1,16,7,4,45.3,37,44,33,3,50,2022,High,No,13.9,Medium Risk,0.606516538,Medium,24/10/2022,Stable,Adequate,Standard
+486,West Quarter 63,Lagos,Nigeria,57959,1366,16.47,3,5,4,1,25,21,50,34,5,80,2024,Low,No,6.15,Low Risk,0.235088153,Low,23/09/2024,Stable,Adequate,Standard
+487,New Park 153,Akwa Ibom,Nigeria,34950,267,10.07,1,16,9,3,42.4,24,63,4,3,52,2023,High,Yes,12.2,Medium Risk,0.586510558,Medium,22/02/2023,Stable,Adequate,Standard
+488,Old Area 3,FCT,Nigeria,49715,1839,20.62,2,9,4,0,15.2,17,41,21,2,85,2024,Medium,No,6.7,Low Risk,0.254181402,Low,15/06/2024,Stable,Adequate,Standard
+489,East Village 138,Oyo,Nigeria,40487,150,12.05,2,13,6,3,18.9,34,36,19,7,60,2022,High,No,11.9,Medium Risk,0.498992355,Low,28/09/2022,Stable,Adequate,Standard
+490,Central Area 75,Lagos,Nigeria,37416,1131,10.5,1,13,6,2,10.1,16,69,27,7,80,2023,High,No,8.95,Medium Risk,0.420373934,Low,23/09/2023,Stable,Adequate,Standard
+491,West District 139,Kano,Nigeria,22505,62,8.11,1,16,7,4,24.6,45,19,26,4,50,2023,High,Yes,15.1,High Risk,0.62756917,Medium,13/01/2023,Stable,Adequate,Standard
+492,South Quarter 95,Oyo,Nigeria,25394,95,8.73,2,13,5,3,28.6,38,22,29,5,60,2024,High,Yes,12.25,Medium Risk,0.486791398,Low,25/04/2024,Stable,Adequate,Standard
+493,Old Estate 24,Bauchi,Nigeria,36691,197,14.31,1,18,8,5,54.5,51,10,10,1,40,2023,High,Yes,17.2,High Risk,0.727770699,Critical,21/08/2023,At Risk,Adequate,Standard
+494,East Park 3,Oyo,Nigeria,41831,407,10.42,1,16,5,2,61.2,31,30,18,5,60,2023,High,Yes,12,Medium Risk,0.482772519,Low,10/8/2023,Stable,Adequate,Structural Hotspot
+495,East Gate 28,Lagos,Nigeria,41678,489,11.74,1,8,2,2,19,23,55,26,10,80,2024,High,Yes,7.25,Medium Risk,0.271798939,Low,13/07/2024,Stable,Adequate,Standard
+496,Old District 78,Kano,Nigeria,14777,121,5,1,13,6,4,38.8,45,24,0,4,50,2023,High,Yes,13.8,Medium Risk,0.559189723,Medium,28/09/2023,Stable,Adequate,Standard
+497,East Market 115,FCT,Nigeria,57212,574,15.8,2,6,1,2,24,21,56,24,5,85,2024,Medium,No,6,Low Risk,0.213373726,Low,28/03/2024,Stable,Adequate,Standard
+498,East Park 160,Enugu,Nigeria,41306,79,12.29,1,13,5,1,37.6,24,45,10,1,55,2024,High,No,9.65,Medium Risk,0.387449293,Low,15/10/2024,Stable,Adequate,Standard
+499,North Market 112,Akwa Ibom,Nigeria,52691,241,19.5,1,15,5,3,18,37,29,8,3,52,2024,High,Yes,12.8,Medium Risk,0.514594602,Medium,6/8/2024,Stable,Underserved,Standard
+500,West Area 188,Rivers,Nigeria,24866,243,8.26,1,11,4,3,38.6,34,34,22,3,65,2022,High,Yes,10.7,Medium Risk,0.423103027,Low,16/03/2022,Stable,Adequate,Standard
+501,Central Estate 140,Kaduna,Nigeria,58322,197,18.49,1,20,7,3,62.4,35,31,25,2,45,2024,High,Yes,14.75,High Risk,0.630872946,High,18/04/2024,Stable,Underserved,Structural Hotspot
+502,Old Park 154,Rivers,Nigeria,76877,151,22.21,1,17,8,4,17.9,46,11,25,5,65,2024,High,Yes,15.85,High Risk,0.668145413,High,11/12/2024,Stable,Underserved,Standard
+503,West Quarter 85,Kano,Nigeria,21780,316,7.03,2,12,6,4,46.8,35,44,12,4,50,2024,High,Yes,11.95,Medium Risk,0.517656543,Medium,4/7/2024,Stable,Adequate,Standard
+504,Old Village 133,Kano,Nigeria,21662,296,6.67,2,10,5,3,45.2,36,30,36,5,50,2024,Medium,No,10.9,Medium Risk,0.435876066,Low,22/10/2024,Stable,Adequate,Standard
+505,West Gate 116,Oyo,Nigeria,35868,290,14.68,2,11,5,3,33,44,10,8,7,60,2023,High,Yes,12.45,Medium Risk,0.472146089,Low,19/11/2023,Stable,Adequate,Standard
+506,East Quarter 138,Kaduna,Nigeria,39926,123,10.37,1,15,8,6,35.4,49,37,31,5,45,2024,High,Yes,16.1,High Risk,0.708105367,High,22/12/2024,Stable,Adequate,Standard
+507,New Gate 167,Rivers,Nigeria,13801,169,5,2,14,5,2,32.6,28,44,32,1,65,2024,Medium,No,10.85,Medium Risk,0.444443,Low,4/9/2024,Stable,Adequate,Standard
+508,South Estate 179,Kaduna,Nigeria,37940,138,12.91,2,15,6,4,16.2,41,39,23,6,45,2024,High,Yes,13.9,Medium Risk,0.57909819,Medium,17/02/2024,Stable,Adequate,Standard
+509,Central Gate 15,Enugu,Nigeria,46752,264,18.92,1,11,5,2,34.6,33,25,42,4,55,2024,High,Yes,10.55,Medium Risk,0.411948721,Low,1/3/2024,Stable,Underserved,Standard
+510,West Estate 190,FCT,Nigeria,66282,589,16.52,1,13,4,1,23.9,19,50,13,5,85,2024,High,Yes,8.65,Medium Risk,0.351564125,Low,26/05/2024,Stable,Underserved,Standard
+511,Central Village 146,Rivers,Nigeria,28410,401,5,2,9,3,1,71.1,17,74,25,4,65,2023,Medium,No,6.7,Low Risk,0.262704129,Low,27/07/2023,Stable,Adequate,Standard
+512,New Area 161,Imo,Nigeria,30714,144,8.84,1,14,6,3,73.7,36,24,12,2,50,2022,High,No,12.55,Medium Risk,0.519472904,Medium,22/09/2022,Stable,Adequate,Standard
+513,Old Quarter 114,Plateau,Nigeria,59718,61,17.51,1,17,9,3,55.5,41,10,39,2,48,2023,High,Yes,15.1,High Risk,0.646464791,High,13/09/2023,Stable,Underserved,Standard
+514,West Area 89,Bauchi,Nigeria,25890,84,7.46,1,17,6,3,50,35,41,2,1,40,2022,High,Yes,13.45,Medium Risk,0.562493499,Medium,18/02/2022,Stable,Adequate,Standard
+515,East Park 150,Oyo,Nigeria,15496,259,5,1,15,6,2,62.7,30,27,23,4,60,2024,High,Yes,11.75,Medium Risk,0.487650822,Low,3/3/2024,Stable,Adequate,Standard
+516,West Estate 181,Imo,Nigeria,22672,145,8.17,1,14,8,4,19.9,45,10,30,2,50,2024,High,Yes,14.65,High Risk,0.61986166,Medium,12/4/2024,Stable,Adequate,Standard
+517,Old Village 180,FCT,Nigeria,51734,415,17.21,2,9,1,0,22.7,11,73,21,8,85,2023,Medium,No,5.05,Low Risk,0.17021011,Low,19/01/2023,Stable,Adequate,Standard
+518,South Village 69,Lagos,Nigeria,68901,679,23.55,2,8,4,1,25.4,21,48,42,9,80,2024,Medium,No,7.2,Medium Risk,0.280740327,Low,15/03/2024,Stable,Adequate,Standard
+519,North Gate 100,Imo,Nigeria,26268,120,7.66,1,18,9,5,62.3,43,42,22,5,50,2023,High,Yes,16.25,High Risk,0.72944534,Critical,3/8/2023,Stable,Adequate,Structural Hotspot
+520,West Quarter 112,Kano,Nigeria,33846,87,8.65,1,15,6,3,30.6,43,23,27,4,50,2023,High,No,13.95,Medium Risk,0.553111348,Medium,24/06/2023,Stable,Adequate,Standard
+521,New Estate 160,Kaduna,Nigeria,24567,153,7.96,1,16,7,5,79.9,46,34,21,4,45,2024,High,Yes,15.5,High Risk,0.661450749,High,28/02/2024,Stable,Adequate,Structural Hotspot
+522,West Market 90,Lagos,Nigeria,68664,720,23.92,1,12,6,3,13.9,37,32,40,4,80,2022,High,Yes,12,Medium Risk,0.4916697,Low,10/11/2022,Stable,Underserved,Standard
+523,Old Village 192,Rivers,Nigeria,41849,56,8.94,1,13,5,2,22.8,33,23,25,5,65,2024,High,Yes,11.25,Medium Risk,0.442383503,Low,4/8/2024,Stable,Adequate,Standard
+524,South Village 48,Plateau,Nigeria,13667,182,5,1,15,8,5,65.7,37,40,9,1,48,2024,High,No,14.05,High Risk,0.64527642,High,27/11/2024,Stable,Adequate,Standard
+525,East District 159,Borno,Nigeria,44740,298,16.28,1,22,10,7,48.7,56,32,6,6,35,2023,High,Yes,20.35,High Risk,0.909752704,Critical,26/05/2023,Stable,Underserved,Standard
+526,North Park 33,Imo,Nigeria,23198,179,6.79,1,19,8,4,69.1,43,26,30,3,50,2024,High,No,16.1,High Risk,0.690685459,High,1/7/2024,Stable,Adequate,Structural Hotspot
+527,West Park 72,Rivers,Nigeria,48562,208,18.1,1,18,8,4,39.2,42,35,21,4,65,2024,High,Yes,15.6,High Risk,0.672836488,High,9/5/2024,Stable,Underserved,Standard
+528,Central Estate 195,Rivers,Nigeria,14769,388,5,2,12,6,3,77.9,34,37,29,4,65,2024,High,Yes,11.55,Medium Risk,0.483774964,Low,21/07/2024,Stable,Adequate,Standard
+529,South Village 134,Akwa Ibom,Nigeria,24686,323,7.83,1,15,7,2,19.7,33,25,18,2,52,2024,High,No,12.45,Medium Risk,0.518272831,Medium,7/9/2024,Stable,Adequate,Standard
+530,East Market 138,Kano,Nigeria,72060,108,24.92,1,15,6,3,66.5,27,61,16,1,50,2022,High,Yes,11.55,Medium Risk,0.511006085,Medium,6/7/2022,Stable,Underserved,Standard
+531,New Village 9,Rivers,Nigeria,51268,382,16.25,1,12,6,4,57,40,37,21,6,65,2023,High,Yes,12.7,Medium Risk,0.530814437,Medium,18/04/2023,Stable,Underserved,Standard
+532,Old Village 82,Kano,Nigeria,39824,227,12.19,1,12,7,4,18.5,43,21,11,5,50,2024,High,Yes,13.4,Medium Risk,0.561436447,Medium,25/03/2024,Stable,Adequate,Standard
+533,North Gate 178,FCT,Nigeria,42533,565,13.6,2,11,5,1,24,19,41,33,5,85,2024,Medium,No,8.2,Medium Risk,0.343856615,Low,19/06/2024,Stable,Adequate,Standard
+534,New Village 137,Imo,Nigeria,69661,170,19.27,1,16,8,6,32.7,53,18,15,2,50,2024,High,Yes,17.05,High Risk,0.733849074,Critical,28/07/2024,Stable,Underserved,Standard
+535,North Estate 114,FCT,Nigeria,43371,983,14.47,1,10,4,2,22.3,21,62,26,3,85,2024,High,Yes,8.15,Medium Risk,0.342425109,Low,19/01/2024,Stable,Adequate,Standard
+536,East District 58,Lagos,Nigeria,72305,882,17.87,2,8,3,2,9.6,20,53,16,8,80,2024,Medium,No,7.05,Medium Risk,0.286631475,Low,21/03/2024,Stable,Adequate,Standard
+537,New Quarter 104,FCT,Nigeria,61482,799,22.96,1,12,3,2,16.2,28,44,46,3,85,2023,High,Yes,9.65,Medium Risk,0.368553672,Low,6/10/2023,Stable,Underserved,Standard
+538,New Gate 89,Lagos,Nigeria,29874,800,10.91,1,10,6,5,7.5,40,46,29,8,80,2023,High,Yes,12.25,Medium Risk,0.531629655,Medium,3/7/2023,Stable,Adequate,Standard
+539,Old Market 4,Plateau,Nigeria,34654,169,8.44,1,17,7,4,78.1,38,45,21,6,48,2024,High,Yes,14.4,High Risk,0.624365509,Medium,10/10/2024,Stable,Adequate,Structural Hotspot
+540,West Quarter 167,Kaduna,Nigeria,19026,265,5.6,1,18,9,4,69.5,41,30,32,3,45,2023,High,Yes,15.7,High Risk,0.692932182,High,1/10/2023,Stable,Adequate,Structural Hotspot
+541,West Park 175,Borno,Nigeria,45544,117,15.93,1,18,8,5,31.7,51,20,4,2,35,2023,High,No,17.2,High Risk,0.727770699,Critical,7/9/2023,Stable,Underserved,Standard
+542,North Market 72,Bauchi,Nigeria,41285,181,16.11,1,18,8,4,45,38,38,14,4,40,2024,High,No,15,High Risk,0.662310173,High,17/05/2024,Stable,Underserved,Standard
+543,Old Gate 59,Kaduna,Nigeria,34496,260,11.88,1,17,7,4,21.9,39,27,12,3,45,2024,High,Yes,14.55,High Risk,0.626997088,Medium,24/06/2024,Stable,Adequate,Standard
+544,New Area 15,Oyo,Nigeria,29524,224,10.05,1,13,4,1,67.7,22,38,28,7,60,2023,High,Yes,9.1,Medium Risk,0.359458862,Low,25/11/2023,Stable,Adequate,Standard
+545,East Market 194,Oyo,Nigeria,32617,87,8.66,1,13,6,3,63.8,33,38,35,4,60,2023,High,Yes,11.75,Medium Risk,0.496360776,Low,28/06/2023,Stable,Adequate,Standard
+546,New Village 42,Akwa Ibom,Nigeria,30630,179,10.15,1,16,6,3,53.1,40,16,0,8,52,2023,High,Yes,13.85,Medium Risk,0.560434002,Medium,25/11/2023,Stable,Adequate,Standard
+547,East Quarter 126,FCT,Nigeria,74198,279,24.39,1,10,4,2,22.3,17,78,36,6,85,2023,Medium,No,7.55,Medium Risk,0.331898793,Low,10/2/2023,Stable,Underserved,Standard
+548,East Quarter 79,Bauchi,Nigeria,21113,246,5.51,1,15,6,4,25,44,10,20,5,40,2022,High,Yes,14.35,High Risk,0.586992927,Medium,10/1/2022,Stable,Adequate,Standard
+549,Central Village 61,Enugu,Nigeria,41453,132,14.4,1,12,5,2,64.5,33,17,16,3,55,2024,High,Yes,10.9,Medium Risk,0.427166112,Low,14/02/2024,Stable,Adequate,Standard
+550,West Estate 56,Oyo,Nigeria,45912,500,14.63,1,11,4,2,16.6,31,30,57,4,60,2023,High,Yes,10,Medium Risk,0.38395829,Low,27/06/2023,Stable,Adequate,Standard
+551,Old Park 139,Kaduna,Nigeria,62419,302,15.23,2,14,8,3,60.9,41,10,15,1,45,2023,High,Yes,13.8,Medium Risk,0.578085344,Medium,15/05/2023,Stable,Adequate,Standard
+552,Old Quarter 173,Kaduna,Nigeria,42047,181,10.88,2,13,6,3,57.5,39,19,13,3,45,2024,High,Yes,12.65,Medium Risk,0.51215025,Medium,8/8/2024,Stable,Adequate,Standard
+553,Old Village 34,Kaduna,Nigeria,20817,409,8.38,2,13,6,4,62.7,33,38,29,1,45,2024,High,Yes,12,Medium Risk,0.527610776,Medium,21/04/2024,Stable,Adequate,Standard
+554,Old Area 14,Enugu,Nigeria,52970,97,17.81,2,10,5,1,17.3,16,48,31,4,55,2024,Medium,Yes,7.4,Medium Risk,0.320744487,Low,17/10/2024,Stable,Adequate,Standard
+555,New Gate 51,Akwa Ibom,Nigeria,40973,96,13.82,1,15,5,3,45.8,34,41,15,7,52,2024,High,Yes,12.35,Medium Risk,0.506699865,Medium,2/10/2024,Stable,Adequate,Standard
+556,East District 37,Lagos,Nigeria,78245,558,27.72,1,14,5,3,23,32,51,55,4,80,2022,High,Yes,11.7,Medium Risk,0.486219316,Low,24/02/2022,Stable,Underserved,Standard
+557,West Quarter 57,Enugu,Nigeria,76584,263,17.09,1,15,7,5,78.5,48,21,15,4,55,2023,High,No,15.45,High Risk,0.651496515,High,9/7/2023,Stable,Underserved,Standard
+558,West District 132,Kaduna,Nigeria,29975,71,11.07,1,20,9,4,37.5,34,56,25,1,45,2022,High,Yes,15.35,High Risk,0.704945912,High,15/10/2022,Stable,Adequate,Standard
+559,Central Market 9,Oyo,Nigeria,30968,315,8.83,1,13,4,2,48.9,29,39,30,2,60,2023,High,Yes,10.4,Medium Risk,0.409129915,Low,18/08/2023,Stable,Adequate,Standard
+560,South Village 51,Oyo,Nigeria,30555,137,10.8,1,16,6,3,18.2,24,61,44,6,60,2023,High,Yes,11.45,Medium Risk,0.518328739,Medium,11/1/2023,Stable,Adequate,Standard
+561,West Park 85,Lagos,Nigeria,34629,332,11.67,1,10,3,1,13.2,20,40,54,6,80,2024,Medium,No,7.5,Medium Risk,0.285816258,Low,6/8/2024,Stable,Adequate,Standard
+562,Central District 69,Kano,Nigeria,37095,141,13.15,2,13,6,4,62.2,40,37,32,5,50,2024,High,Yes,13.05,Medium Risk,0.546031829,Medium,6/10/2024,Stable,Adequate,Standard
+563,West Park 196,FCT,Nigeria,98167,369,25.36,2,10,3,2,9.8,20,60,18,6,85,2022,Medium,Yes,7.75,Medium Risk,0.317066258,Low,27/05/2022,Stable,Adequate,Standard
+564,West District 186,FCT,Nigeria,105255,571,22.76,2,9,3,1,28.8,17,59,49,4,85,2024,Medium,Yes,6.7,Low Risk,0.262704129,Low,28/07/2024,Stable,Adequate,Standard
+565,Old Quarter 41,Akwa Ibom,Nigeria,84785,297,26.82,1,15,7,3,48,36,30,16,1,52,2024,High,Yes,13.15,Medium Risk,0.557417568,Medium,13/12/2024,Stable,Underserved,Standard
+566,East Quarter 48,Borno,Nigeria,23572,142,7.57,1,15,8,5,44.8,45,21,15,2,35,2024,High,Yes,15.25,High Risk,0.666329051,High,11/1/2024,Stable,Adequate,Standard
+567,East Park 155,Lagos,Nigeria,107575,377,34.81,2,5,3,0,26.3,19,40,28,7,80,2024,Low,No,5.35,Low Risk,0.175847722,Low,26/06/2024,Stable,Adequate,Standard
+568,Central Village 55,Bauchi,Nigeria,31104,296,12.72,1,15,7,5,50.9,43,33,15,2,40,2023,High,No,14.7,High Risk,0.638338621,High,17/07/2023,At Risk,Adequate,Standard
+569,Old Market 53,Borno,Nigeria,26365,114,7.82,1,22,10,6,50.9,57,10,7,2,35,2024,High,No,20.25,High Risk,0.881134283,Critical,8/7/2024,At Risk,Adequate,Standard
+570,Central Gate 102,Oyo,Nigeria,48868,84,14.02,1,15,7,3,33.6,36,37,6,4,60,2024,High,Yes,13.15,Medium Risk,0.557417568,Medium,13/11/2024,Stable,Adequate,Standard
+571,East Market 142,Borno,Nigeria,25025,214,5.76,1,18,8,3,60.9,42,13,33,1,35,2024,High,Yes,15.35,High Risk,0.641586488,High,10/1/2024,At Risk,Adequate,Structural Hotspot
+572,South Gate 34,Borno,Nigeria,69279,290,21.05,1,21,9,5,73.5,51,11,5,2,35,2024,High,Yes,18.5,High Risk,0.796150146,Critical,7/4/2024,At Risk,Underserved,Structural Hotspot
+573,East Area 37,Kano,Nigeria,72412,151,25.06,1,17,8,3,56.4,41,18,21,4,50,2024,High,Yes,14.85,High Risk,0.623737518,Medium,22/09/2024,Stable,Underserved,Standard
+574,East Village 180,Imo,Nigeria,43500,426,10.79,1,17,7,4,34.5,44,10,9,2,50,2024,High,Yes,15.3,High Risk,0.640154982,High,14/07/2024,Stable,Adequate,Standard
+575,New Area 149,Plateau,Nigeria,66953,158,23.95,1,14,8,4,41.5,40,30,12,4,48,2024,High,Yes,13.9,Medium Risk,0.606703765,Medium,28/04/2024,Stable,Underserved,Standard
+576,Old Market 78,Oyo,Nigeria,33063,195,10.64,1,16,5,2,27.4,37,16,17,2,60,2024,High,Yes,12.9,Medium Risk,0.498561993,Low,6/3/2024,Stable,Adequate,Standard
+577,West District 142,Rivers,Nigeria,31545,167,9.22,1,12,6,4,56.3,34,50,27,1,65,2022,High,Yes,11.8,Medium Risk,0.515024964,Medium,14/07/2022,Stable,Adequate,Standard
+578,West Park 147,Rivers,Nigeria,66666,331,22.35,2,9,4,2,75.1,23,53,38,3,65,2023,Medium,No,8.1,Medium Risk,0.332470876,Low,2/7/2023,Stable,Adequate,Standard
+579,New District 192,Bauchi,Nigeria,37158,118,11.01,1,18,9,6,32.1,55,10,17,1,40,2024,High,Yes,18.3,High Risk,0.792274287,Critical,9/7/2024,Stable,Adequate,Standard
+580,South Market 73,Imo,Nigeria,70007,522,24.8,1,19,7,4,27.1,43,30,0,2,50,2023,High,Yes,15.85,High Risk,0.667958186,High,28/06/2023,Stable,Underserved,Standard
+581,West Gate 137,Enugu,Nigeria,32678,446,13.62,1,16,10,5,68.6,41,45,34,4,55,2022,High,No,15.5,High Risk,0.716474672,Critical,3/10/2022,Stable,Adequate,Structural Hotspot
+582,Old Quarter 50,Plateau,Nigeria,25815,206,9.07,1,17,6,3,70.3,39,12,22,1,48,2023,High,Yes,14.05,High Risk,0.573019815,Medium,11/3/2023,Stable,Adequate,Structural Hotspot
+583,Old Quarter 178,Borno,Nigeria,49766,151,14.73,1,20,8,4,52.7,35,47,0,1,35,2023,High,Yes,15.25,High Risk,0.684850218,High,5/2/2023,At Risk,Adequate,Standard
+584,Old Gate 90,Akwa Ibom,Nigeria,19140,149,6.74,1,16,7,6,78,54,17,8,1,52,2024,High,Yes,16.95,High Risk,0.71375338,Critical,27/01/2024,Stable,Adequate,Structural Hotspot
+585,North Park 54,Rivers,Nigeria,41643,251,13.13,1,12,4,2,50.7,35,26,26,2,65,2023,High,Yes,10.95,Medium Risk,0.409701997,Low,2/3/2023,Stable,Adequate,Standard
+586,West Village 166,Rivers,Nigeria,52299,191,15.15,1,14,8,4,46.2,39,37,37,2,65,2024,High,Yes,13.75,Medium Risk,0.604072186,Medium,9/11/2024,Stable,Underserved,Standard
+587,Old Market 158,Kano,Nigeria,65575,318,21.68,2,16,7,4,31.1,43,21,22,6,50,2023,High,Yes,14.8,High Risk,0.622306012,Medium,18/10/2023,Stable,Adequate,Standard
+588,West Area 186,Oyo,Nigeria,48243,146,12.51,1,12,4,3,25.7,42,13,28,6,60,2023,High,Yes,12.25,Medium Risk,0.45937305,Low,12/12/2023,Stable,Adequate,Standard
+589,New Village 137,Plateau,Nigeria,34640,192,11.23,1,20,9,3,27,42,12,16,2,48,2023,High,No,16.3,High Risk,0.694748544,High,3/5/2023,Stable,Adequate,Standard
+590,New Gate 123,Imo,Nigeria,26558,366,9.6,1,21,7,5,73.2,43,41,18,5,50,2024,High,Yes,16.8,High Risk,0.729642969,Critical,27/12/2024,Stable,Adequate,Structural Hotspot
+591,North Gate 173,FCT,Nigeria,75889,665,22.5,2,8,2,2,13.2,20,53,39,5,85,2023,Medium,No,6.8,Low Risk,0.263904202,Low,10/3/2023,Stable,Adequate,Standard
+592,New Market 99,Kano,Nigeria,23626,265,8.31,1,19,8,4,55.2,47,10,15,6,50,2023,High,Yes,16.7,High Risk,0.701211774,High,17/03/2023,Stable,Adequate,Standard
+593,West Area 70,FCT,Nigeria,163733,772,68.98,2,5,2,1,13.3,23,44,37,4,85,2023,Medium,No,5.95,Low Risk,0.194896765,Low,10/11/2023,Stable,Adequate,Standard
+594,New District 66,Kano,Nigeria,88391,221,26.09,1,20,8,5,21.1,50,27,9,4,50,2022,High,Yes,17.75,High Risk,0.755573903,Critical,2/7/2022,Stable,Underserved,Standard
+595,Old Market 141,Oyo,Nigeria,20244,97,7.33,1,15,6,2,23.1,29,38,15,4,60,2024,High,Yes,11.6,Medium Risk,0.485019243,Low,13/02/2024,Stable,Adequate,Standard
+596,New Area 145,Plateau,Nigeria,16302,80,5,1,15,8,5,18.4,46,27,23,4,48,2024,High,No,15.4,High Risk,0.66896063,High,13/12/2024,Stable,Adequate,Standard
+597,South Village 58,Borno,Nigeria,80896,259,22.64,1,17,8,5,38.2,48,38,0,1,35,2023,High,Yes,16.4,High Risk,0.704658571,High,5/9/2023,Stable,Underserved,Standard
+598,South Village 62,Kano,Nigeria,17414,282,5.11,1,19,7,4,65.3,36,44,22,5,50,2022,High,Yes,14.8,High Risk,0.649537133,High,1/12/2022,Stable,Adequate,Structural Hotspot
+599,Old District 12,Borno,Nigeria,32714,171,11.68,1,19,9,4,47,35,43,9,1,35,2024,High,No,15.15,High Risk,0.6923601,High,2/9/2024,Stable,Adequate,Standard
+600,South Park 196,Borno,Nigeria,66107,197,18.75,1,19,10,6,58.8,51,26,15,2,35,2024,High,Yes,18.3,High Risk,0.819692636,Critical,13/06/2024,At Risk,Underserved,Standard
+601,North Gate 109,Rivers,Nigeria,58420,102,20.1,1,14,3,2,27,32,18,50,4,65,2024,High,Yes,10.95,Medium Risk,0.40951477,Low,5/8/2024,Stable,Underserved,Standard
+602,North Estate 75,Plateau,Nigeria,95055,459,33.1,1,16,6,2,19.7,32,32,28,1,48,2024,High,Yes,12.4,Medium Risk,0.508131371,Medium,3/6/2024,Stable,Underserved,Standard
+603,Central Gate 139,Lagos,Nigeria,67739,534,25.12,1,9,5,1,17.3,17,54,20,4,80,2022,Medium,No,7.2,Medium Risk,0.308158675,Low,3/6/2022,Stable,Underserved,Standard
+604,Central Market 121,Bauchi,Nigeria,72421,238,22.19,1,15,6,3,28.9,41,10,28,2,40,2023,High,Yes,13.65,Medium Risk,0.54784819,Medium,21/09/2023,Stable,Underserved,Standard
+605,East District 28,Akwa Ibom,Nigeria,19272,77,6.26,1,14,5,3,57.7,37,34,25,3,52,2024,High,Yes,12.45,Medium Risk,0.49937721,Low,8/12/2024,Stable,Adequate,Standard
+606,West Quarter 178,Bauchi,Nigeria,32549,147,10.53,1,17,8,4,46.3,43,23,33,3,40,2024,High,Yes,15.4,High Risk,0.660250676,High,26/09/2024,Stable,Adequate,Standard
+607,South Estate 101,Imo,Nigeria,24337,116,6.57,1,15,6,2,65,24,49,5,4,50,2023,High,Yes,10.85,Medium Risk,0.471861348,Low,12/5/2023,Stable,Adequate,Standard
+608,Old Park 194,Plateau,Nigeria,16269,396,6.44,1,16,8,5,35.3,47,25,20,2,48,2024,High,No,15.9,High Risk,0.686809601,High,1/12/2024,Stable,Adequate,Standard
+609,North Park 71,Borno,Nigeria,60339,726,21.71,1,18,8,5,16.8,50,16,23,3,35,2022,High,Yes,17.05,High Risk,0.72513912,Critical,1/12/2022,Stable,Underserved,Standard
+610,Central Park 129,FCT,Nigeria,66394,534,21.19,3,3,1,1,23.1,24,45,41,7,85,2023,Low,No,5.15,Low Risk,0.144366289,Low,7/3/2023,Stable,Adequate,Standard
+611,West Estate 113,Enugu,Nigeria,18185,125,5.58,1,13,3,1,57.5,25,28,24,5,55,2022,High,Yes,9.3,Medium Risk,0.344626326,Low,6/3/2022,Stable,Adequate,Standard
+612,New Gate 69,Bauchi,Nigeria,46685,217,11.49,1,21,9,4,48.9,38,51,17,2,40,2024,High,Yes,16.3,High Risk,0.730689619,Critical,17/03/2024,Stable,Adequate,Standard
+613,New Village 98,Enugu,Nigeria,34241,215,10.95,1,14,4,4,73.1,46,15,35,5,55,2023,High,No,13.8,Medium Risk,0.531584148,Medium,16/08/2023,Stable,Adequate,Standard
+614,South Quarter 12,Bauchi,Nigeria,68256,89,20.31,1,18,9,5,74.6,45,26,30,3,40,2023,High,Yes,16.55,High Risk,0.734708498,Critical,7/3/2023,At Risk,Underserved,Structural Hotspot
+615,New Gate 125,Lagos,Nigeria,26169,911,10.96,2,7,2,3,20.2,30,44,54,6,80,2024,Medium,No,8.2,Medium Risk,0.3062526,Low,28/07/2024,Stable,Adequate,Standard
+616,West Park 26,Kano,Nigeria,31204,167,7.68,1,16,8,5,28.1,52,10,22,1,50,2022,High,Yes,16.65,High Risk,0.699967495,High,3/12/2022,Stable,Adequate,Standard
+617,East District 97,Oyo,Nigeria,65256,112,15.96,1,17,7,3,68,36,31,41,5,60,2023,High,Yes,13.85,Medium Risk,0.587852351,Medium,28/08/2023,Stable,Underserved,Structural Hotspot
+618,New Quarter 125,Plateau,Nigeria,76209,62,23.97,1,14,8,5,28,52,10,14,7,48,2022,High,Yes,15.95,High Risk,0.669532713,High,21/11/2022,Stable,Underserved,Standard
+619,North Park 90,Kano,Nigeria,28676,240,9.51,2,12,4,3,37.6,34,48,15,1,50,2024,High,Yes,11.05,Medium Risk,0.438320418,Low,3/10/2024,Stable,Adequate,Standard
+620,Central Park 5,Imo,Nigeria,53922,107,16.94,2,13,5,5,78,41,33,3,5,50,2022,High,Yes,13.2,Medium Risk,0.557186135,Medium,14/12/2022,Stable,Adequate,Standard
+621,Central Estate 89,Oyo,Nigeria,29001,224,10.67,1,15,6,3,79.1,34,36,41,1,60,2023,High,Yes,12.6,Medium Risk,0.529427138,Medium,10/10/2023,Stable,Adequate,Standard
+622,West Village 181,Lagos,Nigeria,59215,293,15.74,1,11,3,1,8.8,24,38,38,2,80,2024,High,Yes,8.45,Medium Risk,0.311559965,Low,6/9/2024,Stable,Underserved,Standard
+623,New District 176,Imo,Nigeria,42204,144,12.44,1,15,8,5,60.5,54,14,27,4,50,2023,High,No,16.6,High Risk,0.690013262,High,8/2/2023,Stable,Adequate,Standard
+624,West Village 177,Akwa Ibom,Nigeria,63825,126,18.34,1,15,6,3,71.9,40,21,0,1,52,2024,High,Yes,13.5,Medium Risk,0.545216611,Medium,23/07/2024,Stable,Underserved,Standard
+625,New Village 148,Imo,Nigeria,12787,281,5,1,16,7,4,56.8,36,46,27,2,50,2023,High,Yes,13.75,Medium Risk,0.603884959,Medium,19/04/2023,Stable,Adequate,Standard
+626,North Park 135,Plateau,Nigeria,38939,337,12.81,1,19,9,5,53.6,50,10,3,4,48,2022,High,Yes,17.65,High Risk,0.763083784,Critical,17/01/2022,Stable,Adequate,Standard
+627,North Area 115,Rivers,Nigeria,71719,162,25.51,1,17,8,4,68.1,41,35,24,2,65,2024,High,Yes,15.1,High Risk,0.654987518,High,7/9/2024,Stable,Underserved,Structural Hotspot
+628,South Gate 191,Kaduna,Nigeria,42375,151,12.86,1,18,9,5,50,36,56,27,6,45,2024,High,Yes,15.2,High Risk,0.711024287,Critical,22/03/2024,Stable,Adequate,Standard
+629,North Park 137,Kano,Nigeria,45322,128,11.16,1,17,7,3,22.9,38,10,31,3,50,2024,High,Yes,14.15,High Risk,0.593115509,Medium,18/02/2024,Stable,Adequate,Standard
+630,North Village 6,FCT,Nigeria,91140,1515,32.09,2,8,3,2,26.6,28,45,13,10,85,2024,Medium,No,8.25,Medium Risk,0.307684107,Low,15/02/2024,Stable,Adequate,Standard
+631,North Village 69,Kaduna,Nigeria,45561,182,12.89,1,19,10,6,42.4,51,34,26,4,45,2022,High,Yes,18.3,High Risk,0.819692636,Critical,15/04/2022,Stable,Adequate,Standard
+632,New Gate 19,Oyo,Nigeria,52682,149,17.57,1,14,5,3,64.4,33,46,24,4,60,2024,High,Yes,11.85,Medium Risk,0.488850895,Low,20/06/2024,Stable,Underserved,Standard
+633,West Gate 65,Kaduna,Nigeria,42123,129,10.78,1,15,7,5,15.7,49,21,21,1,45,2024,High,Yes,15.6,High Risk,0.654128094,High,11/2/2024,Stable,Adequate,Standard
+634,New Quarter 61,Lagos,Nigeria,35466,628,10.51,2,9,3,1,18.6,23,46,56,4,80,2023,Medium,No,7.6,Medium Risk,0.278493603,Low,27/09/2023,Stable,Adequate,Standard
+635,South Estate 184,Kano,Nigeria,25441,179,6.44,1,15,5,2,40.5,30,33,28,2,50,2023,High,Yes,11.5,Medium Risk,0.464923549,Low,23/08/2023,Stable,Adequate,Standard
+636,New Market 185,Kaduna,Nigeria,31992,161,10.25,1,20,7,4,80,40,28,15,3,45,2024,High,No,15.75,High Risk,0.67528084,High,1/10/2024,Stable,Adequate,Structural Hotspot
+637,New Gate 69,Kano,Nigeria,41948,245,8.57,1,16,7,3,17.6,39,23,29,2,50,2024,High,Yes,13.95,Medium Risk,0.580529696,Medium,24/08/2024,Stable,Adequate,Standard
+638,New Area 5,FCT,Nigeria,69469,557,19.49,3,5,2,1,29,20,55,28,7,85,2023,Low,No,5.5,Low Risk,0.187002028,Low,11/1/2023,Stable,Adequate,Standard
+639,West Gate 77,Rivers,Nigeria,30475,108,10.88,1,12,4,5,60.6,49,31,30,2,65,2024,High,Yes,13.8,Medium Risk,0.540294102,Medium,6/9/2024,Stable,Adequate,Standard
+640,North Park 111,FCT,Nigeria,76520,475,28.05,2,12,5,1,19.1,14,59,58,3,85,2023,Medium,No,7.8,Medium Risk,0.345916112,Low,27/09/2023,Stable,Adequate,Standard
+641,East Market 17,Imo,Nigeria,38442,95,11.44,1,17,8,4,37.2,46,12,18,1,50,2022,High,Yes,15.85,High Risk,0.668145413,High,8/5/2022,Stable,Adequate,Standard
+642,West Quarter 52,Kano,Nigeria,24111,202,7.88,2,12,6,4,70.4,45,18,35,7,50,2023,High,Yes,13.45,Medium Risk,0.543972332,Medium,27/07/2023,Stable,Adequate,Standard
+643,North Market 107,Bauchi,Nigeria,38264,283,9.11,1,15,7,4,35.4,38,32,0,4,40,2024,High,Yes,13.7,Medium Risk,0.593930726,Medium,1/8/2024,Stable,Adequate,Standard
+644,West Quarter 15,Borno,Nigeria,46029,559,17.57,1,19,10,6,29.2,44,40,22,1,35,2024,High,Yes,17.25,High Risk,0.801271583,Critical,24/11/2024,Stable,Underserved,Standard
+645,East Village 106,Akwa Ibom,Nigeria,86272,175,19.36,1,15,6,4,71.9,36,39,21,2,52,2024,High,Yes,13.15,Medium Risk,0.565940295,Medium,28/10/2024,Stable,Underserved,Standard
+646,West Gate 62,Lagos,Nigeria,75405,265,23.59,1,14,5,3,11.7,24,65,27,9,80,2023,High,Yes,10.5,Medium Risk,0.465166684,Low,5/11/2023,Stable,Underserved,Standard
+647,East Estate 195,Rivers,Nigeria,75801,131,22.59,2,7,3,1,54.9,23,35,29,4,65,2024,Medium,No,6.9,Low Risk,0.24805882,Low,27/09/2024,Stable,Adequate,Standard
+648,East Market 128,Oyo,Nigeria,45381,109,13.12,1,17,7,3,43.2,39,33,2,2,60,2024,High,Yes,14.3,High Risk,0.595747088,Medium,14/09/2024,Stable,Adequate,Standard
+649,East Quarter 77,Imo,Nigeria,26422,189,7.83,1,15,6,1,78.8,13,52,26,4,50,2023,High,Yes,8.95,Medium Risk,0.41166398,Low,17/05/2023,Stable,Adequate,Standard
+650,South Park 121,Oyo,Nigeria,37599,220,12.7,1,20,9,4,61.4,44,10,19,1,60,2024,High,Yes,16.85,High Risk,0.731261702,Critical,24/02/2024,Stable,Adequate,Structural Hotspot
+651,East Quarter 121,FCT,Nigeria,65786,547,18.6,1,13,4,0,17.5,10,58,11,1,85,2023,High,Yes,7.05,Medium Risk,0.296629915,Low,3/8/2023,Stable,Underserved,Standard
+652,North Park 17,Borno,Nigeria,46322,249,9.67,1,19,8,7,32.5,64,12,5,3,35,2024,High,Yes,20,High Risk,0.839698617,Critical,13/09/2024,Stable,Adequate,Standard
+653,North Gate 163,Rivers,Nigeria,36405,428,10.26,1,12,5,2,60.7,24,50,52,4,65,2023,High,Yes,9.55,Medium Risk,0.403481901,Low,26/09/2023,Stable,Adequate,Standard
+654,New Area 25,Akwa Ibom,Nigeria,21968,205,7.1,1,15,6,3,40,43,11,29,3,52,2024,High,Yes,13.95,Medium Risk,0.553111348,Medium,2/6/2024,Stable,Adequate,Standard
+655,Old Gate 43,Plateau,Nigeria,37160,112,11.35,1,15,6,4,46.3,43,13,28,3,48,2023,High,Yes,14.2,High Risk,0.584361348,Medium,17/02/2023,Stable,Adequate,Standard
+656,East District 189,Kaduna,Nigeria,54671,256,17.65,1,14,8,5,38.6,49,21,38,3,45,2024,High,Yes,15.5,High Risk,0.661637976,High,17/09/2024,Stable,Underserved,Standard
+657,South Gate 197,Imo,Nigeria,40521,164,10.59,2,13,7,4,38.8,45,28,16,2,50,2023,High,Yes,14.05,High Risk,0.581916996,Medium,4/8/2023,Stable,Adequate,Standard
+658,Old Village 122,FCT,Nigeria,29776,436,8.93,3,6,3,2,14.7,23,67,34,8,85,2023,Low,No,6.8,Low Risk,0.264091429,Low,22/05/2023,Stable,Adequate,Standard
+659,New Village 152,FCT,Nigeria,47951,594,16.55,2,7,2,2,8.6,23,43,46,10,85,2024,Medium,No,6.9,Low Risk,0.256581548,Low,28/09/2024,Stable,Adequate,Standard
+660,Old Market 185,Kaduna,Nigeria,91063,401,29,1,16,8,4,25,36,46,22,2,45,2024,High,Yes,14,Medium Risk,0.626612232,Medium,28/01/2024,Stable,Underserved,Standard
+661,Old Gate 69,Lagos,Nigeria,82969,520,27.21,1,14,6,2,11.8,28,43,27,6,80,2024,High,Yes,11.1,Medium Risk,0.467170273,Low,19/08/2024,Stable,Underserved,Standard
+662,East Estate 68,Bauchi,Nigeria,64403,233,19.1,1,20,10,4,44,42,27,0,3,40,2022,High,No,16.8,High Risk,0.748725817,Critical,8/7/2022,Stable,Underserved,Standard
+663,New Estate 16,Bauchi,Nigeria,44834,330,10.38,1,19,6,3,39.4,41,11,2,5,40,2023,High,Yes,15.05,High Risk,0.608717755,Medium,11/2/2023,Stable,Adequate,Standard
+664,West Area 199,Plateau,Nigeria,76267,103,21.96,1,16,8,3,29.7,30,44,44,6,48,2023,High,Yes,12.85,Medium Risk,0.579572758,Medium,15/02/2023,Stable,Underserved,Standard
+665,West Market 196,Enugu,Nigeria,16254,328,5.66,1,14,6,3,63.4,31,41,30,4,55,2022,High,Yes,11.8,Medium Risk,0.506315009,Medium,8/11/2022,Stable,Adequate,Standard
+666,Old Quarter 41,Imo,Nigeria,19802,233,7.43,1,15,7,5,61.2,52,21,11,4,50,2024,High,No,16.05,High Risk,0.662022831,High,3/4/2024,Stable,Adequate,Standard
+667,North Area 135,Lagos,Nigeria,46152,639,14.98,2,7,3,0,23.8,11,62,13,3,80,2024,Medium,No,4.85,Low Risk,0.185229873,Low,28/01/2024,Stable,Adequate,Standard
+668,South Quarter 87,Imo,Nigeria,22349,349,7.93,1,17,5,3,78.6,41,10,15,1,50,2023,High,Yes,14.1,High Risk,0.5555557,Medium,8/10/2023,Stable,Adequate,Structural Hotspot
+669,North Quarter 62,Enugu,Nigeria,24028,84,6.86,1,13,6,4,72.1,35,46,13,1,55,2022,High,Yes,12.3,Medium Risk,0.532873934,Medium,17/09/2022,Stable,Adequate,Standard
+670,New Park 5,Plateau,Nigeria,29465,107,9.65,1,14,6,1,52.5,29,17,18,3,48,2023,High,No,11,Medium Risk,0.438551851,Low,2/4/2023,Stable,Adequate,Standard
+671,North Area 63,Rivers,Nigeria,39320,169,12.93,2,7,4,2,58.6,25,47,13,4,65,2023,Medium,No,7.7,Medium Risk,0.307299251,Low,9/9/2023,Stable,Adequate,Standard
+672,South Gate 21,Plateau,Nigeria,23126,132,5.53,1,16,5,5,38.1,54,12,0,5,48,2024,High,Yes,16.2,High Risk,0.637048835,High,11/2/2024,Stable,Adequate,Standard
+673,New Market 107,Enugu,Nigeria,59813,282,15.64,1,16,8,3,78.9,43,10,0,2,55,2023,High,Yes,14.8,High Risk,0.613783285,Medium,14/05/2023,Stable,Underserved,Structural Hotspot
+674,New Gate 93,Imo,Nigeria,42617,151,14.04,1,16,7,6,26,47,41,25,6,50,2024,High,Yes,15.9,High Risk,0.695332328,High,13/01/2024,Stable,Adequate,Standard
+675,West Park 129,Borno,Nigeria,51048,167,15.52,1,19,9,4,24,47,10,16,7,35,2024,High,Yes,16.95,High Risk,0.723939047,Critical,21/06/2024,Stable,Underserved,Standard
+676,Central Gate 134,Akwa Ibom,Nigeria,27484,277,8.18,1,14,7,4,40.8,37,46,19,5,52,2024,High,No,13.2,Medium Risk,0.576081756,Medium,24/01/2024,Stable,Adequate,Standard
+677,West Quarter 161,Bauchi,Nigeria,21862,395,5.98,1,17,7,3,40.9,41,23,11,2,40,2023,High,Yes,14.6,High Risk,0.601010245,Medium,10/9/2023,Stable,Adequate,Standard
+678,South Estate 59,Imo,Nigeria,22993,313,7.9,1,18,6,3,41,29,36,16,5,50,2023,High,Yes,12.9,Medium Risk,0.561921417,Medium,7/12/2023,Stable,Adequate,Standard
+679,New Village 160,Borno,Nigeria,20769,261,6.99,1,16,10,5,52.7,45,34,13,2,35,2024,High,No,16.1,High Risk,0.727000988,Critical,20/07/2024,At Risk,Adequate,Standard
+680,New Quarter 198,Akwa Ibom,Nigeria,18264,183,5,1,13,5,3,73.4,33,47,29,4,52,2022,High,Yes,11.5,Medium Risk,0.473633503,Low,7/10/2022,Stable,Adequate,Standard
+681,New District 173,Borno,Nigeria,67217,169,26.73,1,18,9,3,74.8,31,48,29,1,35,2024,High,Yes,13.95,Medium Risk,0.635366393,High,4/4/2024,At Risk,Underserved,Structural Hotspot
+682,Old Park 36,FCT,Nigeria,87972,486,31.08,2,5,3,3,26.7,28,55,24,5,85,2024,Medium,No,7.45,Medium Risk,0.293281933,Low,16/11/2024,Stable,Adequate,Standard
+683,South Area 22,Oyo,Nigeria,37763,252,13.33,1,15,5,2,79,33,32,16,2,60,2022,High,Yes,11.95,Medium Risk,0.472818286,Low,17/09/2022,Stable,Adequate,Standard
+684,Old Market 138,Imo,Nigeria,16156,122,5.68,1,16,8,4,19.1,44,25,13,1,50,2024,High,Yes,15.2,High Risk,0.647664864,High,16/09/2024,Stable,Adequate,Standard
+685,South Gate 98,Rivers,Nigeria,38669,156,12.18,1,12,5,2,18.2,36,13,23,6,65,2024,High,No,11.35,Medium Risk,0.435060849,Low,15/02/2024,Stable,Adequate,Standard
+686,South Park 57,Akwa Ibom,Nigeria,26212,200,6.81,2,14,4,2,67.3,21,62,13,2,52,2024,Medium,No,9.55,Medium Risk,0.403294674,Low,23/11/2024,Stable,Adequate,Standard
+687,North Market 37,Oyo,Nigeria,43687,60,16.95,2,7,4,3,69.7,26,63,37,1,60,2023,Medium,No,8.1,Medium Risk,0.34118083,Low,22/07/2023,Stable,Adequate,Standard
+688,South District 129,Kano,Nigeria,23314,446,7.62,2,12,6,4,27.7,40,37,11,5,50,2023,High,Yes,12.7,Medium Risk,0.530814437,Medium,5/1/2023,Stable,Adequate,Standard
+689,Old Gate 110,Akwa Ibom,Nigeria,23026,180,6.24,2,14,6,3,18.6,30,54,27,2,52,2024,High,Yes,11.65,Medium Risk,0.50368343,Low,1/8/2024,Stable,Adequate,Standard
+690,East Village 162,Oyo,Nigeria,43678,604,12.61,2,8,3,3,57.5,28,46,12,4,60,2024,Medium,Yes,8.5,Medium Risk,0.338934107,Low,16/05/2024,Stable,Adequate,Standard
+691,Central Estate 8,Akwa Ibom,Nigeria,29627,175,8.51,1,14,6,3,63,28,50,18,7,52,2023,High,Yes,11.35,Medium Risk,0.498420273,Low,7/3/2023,Stable,Adequate,Standard
+692,New Gate 144,Kaduna,Nigeria,33186,59,10.23,1,19,10,4,74.7,48,21,25,5,45,2022,High,Yes,17.35,High Risk,0.749297899,Critical,22/04/2022,Stable,Adequate,Structural Hotspot
+693,New Gate 127,Rivers,Nigeria,73959,332,26.13,1,15,6,4,73.3,38,54,18,3,65,2022,High,Yes,13.45,Medium Risk,0.571203453,Medium,1/9/2022,Stable,Underserved,Standard
+694,East Gate 180,Akwa Ibom,Nigeria,77096,161,22.27,1,17,9,5,40.6,52,17,13,5,52,2023,High,No,17.25,High Risk,0.737912159,Critical,16/12/2023,Stable,Underserved,Standard
+695,West Estate 54,Imo,Nigeria,29388,225,9.24,1,13,8,3,24.2,36,27,16,3,50,2024,High,Yes,12.7,Medium Risk,0.549710058,Medium,25/01/2024,Stable,Adequate,Standard
+696,South District 87,Lagos,Nigeria,47700,598,16.34,2,8,2,1,6.8,27,34,19,5,80,2024,Medium,No,7.6,Medium Risk,0.251075255,Low,1/4/2024,Stable,Adequate,Standard
+697,New Quarter 108,Bauchi,Nigeria,101913,114,31.93,1,12,7,4,24,46,10,7,2,40,2023,High,Yes,13.85,Medium Risk,0.569331184,Medium,8/8/2023,Stable,Underserved,Standard
+698,East Park 33,Borno,Nigeria,48865,92,14.51,1,15,9,4,72.5,48,13,1,1,35,2023,High,Yes,15.7,High Risk,0.665701061,High,27/05/2023,At Risk,Adequate,Standard
+699,Central Gate 102,FCT,Nigeria,60007,416,16.94,1,10,3,0,10.5,18,37,30,4,85,2024,Medium,No,6.95,Low Risk,0.2493031,Low,7/12/2024,Stable,Underserved,Standard
+700,New Gate 65,Borno,Nigeria,24775,242,6.14,1,19,8,3,16,42,14,9,2,35,2023,High,No,15.7,High Risk,0.65680388,High,12/4/2023,Stable,Adequate,Standard
+701,Central Estate 68,Oyo,Nigeria,20980,143,5,1,14,5,1,59.1,26,40,23,1,60,2022,High,Yes,10.3,Medium Risk,0.407929842,Low,4/6/2022,Stable,Adequate,Standard
+702,South Area 134,Oyo,Nigeria,20595,207,6.99,1,13,5,4,35.2,47,14,2,6,60,2022,High,Yes,13.85,Medium Risk,0.541725608,Medium,18/10/2022,Stable,Adequate,Standard
+703,Central Village 177,FCT,Nigeria,51517,618,17.59,3,5,4,0,29.1,9,74,35,5,85,2024,Low,No,4.1,Low Risk,0.172259205,Low,12/5/2024,Stable,Adequate,Standard
+704,South Park 66,Kano,Nigeria,33718,139,10.35,1,13,4,3,17.9,37,14,23,3,50,2024,High,No,11.85,Medium Risk,0.461432546,Low,27/02/2024,Stable,Adequate,Standard
+705,New Park 83,Imo,Nigeria,33592,185,8.93,1,16,6,4,68.5,38,37,23,3,50,2022,High,Yes,13.8,Medium Risk,0.586420845,Medium,20/09/2022,Stable,Adequate,Structural Hotspot
+706,New Area 2,Bauchi,Nigeria,20513,131,7.44,1,20,9,5,51.4,45,32,23,1,40,2023,High,Yes,17.25,High Risk,0.765143281,Critical,4/6/2023,At Risk,Adequate,Standard
+707,East Village 62,Bauchi,Nigeria,34048,197,8.18,1,18,9,5,76.5,45,37,0,1,40,2024,High,No,16.55,High Risk,0.734708498,Critical,6/5/2024,At Risk,Adequate,Structural Hotspot
+708,East Market 109,Rivers,Nigeria,75309,390,29.98,1,14,7,3,65.6,31,53,17,4,65,2024,High,Yes,12.05,Medium Risk,0.529042282,Medium,16/07/2024,Stable,Underserved,Standard
+709,South Estate 145,FCT,Nigeria,43166,335,15.06,2,11,4,1,21.3,20,44,32,3,85,2022,Medium,No,8.1,Medium Risk,0.323760922,Low,17/11/2022,Stable,Adequate,Standard
+710,East Quarter 96,FCT,Nigeria,93126,519,31.23,2,10,6,4,12.4,46,29,29,5,85,2023,Medium,Yes,12.9,Medium Risk,0.516169128,Medium,25/10/2023,Stable,Adequate,Standard
+711,West Village 8,Borno,Nigeria,19034,68,5.82,1,19,8,3,51.6,29,53,12,2,35,2023,High,Yes,13.75,Medium Risk,0.622593353,Medium,4/9/2023,At Risk,Adequate,Standard
+712,South Estate 40,Imo,Nigeria,54589,286,21.84,1,17,9,5,18.7,42,49,28,4,50,2023,High,No,15.75,High Risk,0.71159637,Critical,23/03/2023,Stable,Underserved,Standard
+713,South Estate 26,Imo,Nigeria,58187,97,17.64,1,18,6,4,78.7,45,19,23,1,50,2024,High,Yes,15.55,High Risk,0.63527668,High,24/12/2024,Stable,Underserved,Structural Hotspot
+714,Old Estate 156,Borno,Nigeria,20814,76,7.38,1,17,9,5,77.5,45,37,13,2,35,2022,High,No,16.2,High Risk,0.719491107,Critical,27/01/2022,At Risk,Adequate,Structural Hotspot
+715,West Market 102,Bauchi,Nigeria,23620,164,6.91,1,18,9,5,77.1,54,14,25,1,40,2024,High,No,17.9,High Risk,0.758392709,Critical,25/06/2024,At Risk,Adequate,Structural Hotspot
+716,Old Area 132,Oyo,Nigeria,17164,319,5.84,1,15,7,5,56.1,43,45,26,3,60,2024,High,Yes,14.7,High Risk,0.638338621,High,1/9/2024,Stable,Adequate,Standard
+717,New Quarter 36,Imo,Nigeria,52858,93,14.01,2,12,6,3,66.8,28,57,0,1,50,2022,High,Yes,10.65,Medium Risk,0.46798549,Low,22/05/2022,Stable,Adequate,Standard
+718,East Estate 173,Imo,Nigeria,61423,164,19.56,1,17,8,4,37.4,34,38,30,5,50,2024,High,Yes,14.05,High Risk,0.636566466,High,17/05/2024,Stable,Underserved,Standard
+719,New Quarter 72,Rivers,Nigeria,81998,111,18.16,1,11,4,2,68.6,29,37,22,6,65,2023,High,Yes,9.7,Medium Risk,0.378695132,Low,16/11/2023,Stable,Underserved,Standard
+720,Old Park 181,Kano,Nigeria,30923,115,9.28,1,14,7,6,48.6,53,25,21,2,50,2023,High,Yes,16.1,High Risk,0.680687019,High,4/4/2023,Stable,Adequate,Standard
+721,East Gate 39,Enugu,Nigeria,30743,93,9.55,1,12,3,1,47.3,27,23,29,6,55,2024,High,Yes,9.25,Medium Risk,0.334672093,Low,13/01/2024,Stable,Adequate,Standard
+722,West District 170,Bauchi,Nigeria,56914,403,16.43,1,17,8,5,19.2,43,41,32,1,40,2024,High,Yes,15.65,High Risk,0.691500676,High,8/10/2024,Stable,Underserved,Standard
+723,West Market 139,Enugu,Nigeria,58894,341,16.57,1,16,7,3,70,30,45,31,3,55,2024,High,Yes,12.6,Medium Risk,0.556845486,Medium,16/02/2024,Stable,Underserved,Structural Hotspot
+724,New District 20,Akwa Ibom,Nigeria,37942,246,10.57,1,12,7,3,26.6,35,27,36,1,52,2023,High,Yes,11.95,Medium Risk,0.509133815,Medium,9/8/2023,Stable,Adequate,Standard
+725,South Park 148,Imo,Nigeria,69887,122,22.8,1,17,8,6,26.6,41,47,18,6,50,2023,High,Yes,15.6,High Risk,0.717487518,Critical,2/1/2023,Stable,Underserved,Standard
+726,West Quarter 16,Bauchi,Nigeria,33664,151,10.02,2,13,7,5,46.3,48,26,22,3,40,2024,High,Yes,14.75,High Risk,0.621061733,Medium,22/12/2024,Stable,Adequate,Standard
+727,South Park 51,Enugu,Nigeria,62216,242,12.48,1,12,5,3,70.1,38,10,25,1,55,2022,High,Yes,11.9,Medium Risk,0.471574007,Low,7/2/2022,Stable,Adequate,Standard
+728,Central Gate 199,Imo,Nigeria,37115,375,12.12,1,19,8,5,54.5,49,15,23,4,50,2022,High,No,17.25,High Risk,0.737724932,Critical,17/08/2022,Stable,Adequate,Standard
+729,Old Gate 23,Plateau,Nigeria,15767,203,5.5,1,11,4,3,56.6,32,44,44,1,48,2024,High,Yes,10.4,Medium Risk,0.417839869,Low,26/12/2024,Stable,Adequate,Standard
+730,Old Estate 139,Kaduna,Nigeria,70799,193,21.75,1,19,8,3,37.5,42,10,19,1,45,2023,High,Yes,15.7,High Risk,0.65680388,High,11/12/2023,Stable,Underserved,Standard
+731,North Market 111,Rivers,Nigeria,53293,122,18.88,1,16,7,3,29.8,41,12,25,4,65,2024,High,Yes,14.25,High Risk,0.585792854,Medium,28/03/2024,Stable,Underserved,Standard
+732,Old Village 63,Bauchi,Nigeria,47124,282,13.68,1,17,7,4,36.2,40,33,16,4,40,2024,High,Yes,14.7,High Risk,0.629628667,High,10/5/2024,Stable,Adequate,Standard
+733,New Park 161,Bauchi,Nigeria,48627,240,20.19,1,17,9,6,60.7,46,46,33,2,40,2024,High,Yes,16.6,High Risk,0.753372686,Critical,15/02/2024,At Risk,Underserved,Structural Hotspot
+734,New Market 25,Rivers,Nigeria,68434,110,18.24,2,15,5,4,65.8,35,46,41,6,65,2023,High,Yes,12.75,Medium Risk,0.540581444,Medium,1/1/2023,Stable,Adequate,Standard
+735,Old Park 63,Rivers,Nigeria,78958,116,28.98,1,14,7,4,36.1,41,37,18,1,65,2024,High,Yes,13.8,Medium Risk,0.586608072,Medium,7/7/2024,Stable,Underserved,Standard
+736,East Area 12,Imo,Nigeria,52575,296,22.17,2,14,5,6,69.1,54,30,54,3,50,2024,High,Yes,15.75,High Risk,0.637864052,High,25/03/2024,Stable,Adequate,Standard
+737,Central Estate 1,Plateau,Nigeria,37788,129,12.86,1,20,9,4,46.1,40,40,0,1,48,2024,High,Yes,16.25,High Risk,0.720735386,Critical,1/11/2024,Stable,Adequate,Standard
+738,Old Gate 118,FCT,Nigeria,94173,571,30.98,3,6,3,0,14.7,17,39,32,1,85,2024,Low,No,5.4,Low Risk,0.185801955,Low,18/05/2024,Stable,Adequate,Standard
+739,East Quarter 156,Kano,Nigeria,20870,513,7.43,1,16,6,2,20,26,31,11,3,50,2024,High,Yes,11.5,Medium Risk,0.492341897,Low,20/09/2024,Stable,Adequate,Standard
+740,New Quarter 80,Lagos,Nigeria,65164,317,21.68,2,6,4,2,22.7,9,96,29,6,80,2024,Medium,No,4.95,Low Risk,0.249976597,Low,19/10/2024,Stable,Adequate,Standard
+741,Old Market 81,Imo,Nigeria,58894,563,21.98,1,17,8,3,58.7,35,38,37,5,50,2024,High,Yes,13.95,Medium Risk,0.607948045,Medium,3/6/2024,Stable,Underserved,Standard
+742,West Park 151,Kano,Nigeria,29676,70,10.28,1,14,8,4,72.2,44,17,22,3,50,2024,High,Yes,14.5,High Risk,0.617230081,Medium,19/07/2024,Stable,Adequate,Standard
+743,Old District 47,Kaduna,Nigeria,58347,598,19.76,1,16,9,5,63.3,47,42,23,3,45,2024,High,Yes,16.15,High Risk,0.709536873,Critical,21/11/2024,Stable,Underserved,Structural Hotspot
+744,East Estate 75,Borno,Nigeria,42867,319,16.95,1,18,9,6,33.4,59,10,12,1,35,2024,High,Yes,18.9,High Risk,0.802800603,Critical,18/09/2024,Stable,Underserved,Standard
+745,Old Gate 110,Oyo,Nigeria,37254,123,12.45,1,15,6,4,59.7,39,28,17,2,60,2024,High,Yes,13.6,Medium Risk,0.573835032,Medium,14/12/2024,Stable,Adequate,Standard
+746,South Market 132,Imo,Nigeria,47369,149,14.29,1,16,7,4,77.3,44,20,11,1,50,2023,High,No,14.95,High Risk,0.624937591,Medium,6/2/2023,Stable,Adequate,Structural Hotspot
+747,Old Area 53,Kaduna,Nigeria,34168,122,8.9,1,14,7,3,49.3,42,10,27,2,45,2022,High,Yes,13.7,Medium Risk,0.557989651,Medium,27/05/2022,Stable,Adequate,Standard
+748,West Estate 181,Borno,Nigeria,22196,137,7.44,1,19,10,5,28.8,50,25,42,1,35,2022,High,Yes,17.9,High Risk,0.785811057,Critical,11/6/2022,Stable,Adequate,Standard
+749,North Quarter 5,Oyo,Nigeria,59120,225,18.68,1,15,7,3,62.7,36,21,19,4,60,2024,High,Yes,13.15,Medium Risk,0.557417568,Medium,10/10/2024,Stable,Underserved,Standard
+750,New Market 169,FCT,Nigeria,64812,313,21.45,2,8,2,1,21,16,56,28,4,85,2024,Medium,Yes,5.95,Low Risk,0.222127886,Low,28/09/2024,Stable,Adequate,Standard
+751,North Estate 84,Akwa Ibom,Nigeria,49368,113,15.37,1,15,7,4,61.8,38,41,40,8,52,2024,High,Yes,13.7,Medium Risk,0.593930726,Medium,18/01/2024,Stable,Underserved,Standard
+752,New Area 147,Kaduna,Nigeria,17081,316,5.49,1,17,8,4,73.8,43,31,22,1,45,2024,High,No,15.4,High Risk,0.660250676,High,14/05/2024,Stable,Adequate,Structural Hotspot
+753,Old Village 73,Borno,Nigeria,52826,388,16.98,1,23,10,5,31.5,56,10,10,1,35,2022,High,Yes,20.2,High Risk,0.862470096,Critical,17/12/2022,Stable,Underserved,Standard
+754,Old Park 84,Kano,Nigeria,24731,165,6.75,1,17,7,6,24.6,52,21,0,4,50,2023,High,Yes,17,High Risk,0.723707614,Critical,21/07/2023,Stable,Adequate,Standard
+755,New Quarter 78,Enugu,Nigeria,49735,165,15.07,2,12,5,2,17,38,10,39,2,55,2023,Medium,Yes,11.65,Medium Risk,0.440324007,Low,22/11/2023,Stable,Adequate,Standard
+756,West Gate 128,Kaduna,Nigeria,33881,121,8.83,1,13,7,4,43.2,35,49,23,6,45,2024,High,Yes,12.55,Medium Risk,0.555601207,Medium,28/09/2024,Stable,Adequate,Standard
+757,New Park 114,Enugu,Nigeria,22006,132,8.98,1,14,6,3,61.6,34,23,18,1,55,2022,High,Yes,12.25,Medium Risk,0.514209746,Medium,25/04/2022,Stable,Adequate,Standard
+758,North Area 14,Oyo,Nigeria,27911,142,8.51,1,14,7,3,23.9,38,22,36,2,60,2023,High,Yes,13.1,Medium Risk,0.547463335,Medium,20/04/2023,Stable,Adequate,Standard
+759,East Gate 30,FCT,Nigeria,42179,929,15.11,2,6,3,2,24.3,31,34,50,4,85,2024,Medium,Yes,8,Medium Risk,0.285144061,Low,16/07/2024,Stable,Adequate,Standard
+760,East Village 52,Kaduna,Nigeria,109241,197,34.95,1,18,6,4,40.3,38,38,34,4,45,2023,High,Yes,14.5,High Risk,0.616855627,Medium,10/9/2023,Stable,Underserved,Standard
+761,East Estate 142,Lagos,Nigeria,30232,420,7.89,2,9,2,0,14.8,20,38,60,5,80,2023,Medium,No,6.65,Low Risk,0.216621594,Low,10/2/2023,Stable,Adequate,Standard
+762,East Gate 62,Imo,Nigeria,32559,77,9.57,1,11,5,4,34.2,35,53,16,6,50,2024,High,Yes,11.35,Medium Risk,0.479711879,Low,10/9/2024,Stable,Adequate,Standard
+763,Old Market 30,Kaduna,Nigeria,24988,291,8.34,1,17,8,6,32.5,57,16,26,6,45,2022,High,No,18,High Risk,0.759592781,Critical,12/6/2022,Stable,Adequate,Standard
+764,Old Estate 101,FCT,Nigeria,43182,402,15.69,2,12,3,3,20.8,33,42,29,7,85,2022,High,Yes,10.65,Medium Risk,0.412961566,Low,3/1/2022,Stable,Adequate,Standard
+765,Old Quarter 119,Bauchi,Nigeria,65850,81,20.96,1,16,7,5,28.2,54,10,10,5,40,2023,High,No,16.7,High Risk,0.68250338,High,21/09/2023,Stable,Underserved,Standard
+766,West Market 98,Enugu,Nigeria,38264,131,12.85,1,13,7,3,47.2,34,34,7,3,55,2022,High,Yes,12.15,Medium Risk,0.521719628,Medium,14/05/2022,Stable,Adequate,Standard
+767,Old Village 72,Kano,Nigeria,20915,93,7.4,1,14,5,3,30,43,10,46,4,50,2024,High,Yes,13.35,Medium Risk,0.515166684,Medium,22/08/2024,Stable,Adequate,Standard
+768,East Area 61,Lagos,Nigeria,61245,252,14.07,1,13,5,4,25.6,32,45,1,7,80,2024,High,Yes,11.6,Medium Risk,0.502251924,Low,12/12/2024,Stable,Adequate,Standard
+769,New Village 143,Kaduna,Nigeria,25637,108,8.02,1,17,7,3,24.5,31,35,17,1,45,2024,High,Yes,13.1,Medium Risk,0.574694456,Medium,25/04/2024,Stable,Adequate,Standard
+770,South Area 136,Enugu,Nigeria,25650,331,9.3,1,16,6,4,24.7,36,42,30,6,55,2024,High,No,13.5,Medium Risk,0.581157687,Medium,5/12/2024,Stable,Adequate,Standard
+771,South District 16,Kaduna,Nigeria,11791,224,5,1,17,8,5,26.9,43,50,0,8,45,2022,High,Yes,15.65,High Risk,0.691500676,High,15/06/2022,Stable,Adequate,Standard
+772,South Area 84,FCT,Nigeria,130579,655,44.87,2,12,6,4,9.6,40,46,39,10,85,2023,High,Yes,12.7,Medium Risk,0.530814437,Medium,2/11/2023,Stable,Adequate,Standard
+773,East Estate 127,Plateau,Nigeria,38480,208,12.13,1,13,5,3,46.9,39,19,11,1,48,2023,High,Yes,12.4,Medium Risk,0.489422977,Low,10/9/2023,Stable,Adequate,Standard
+774,Old Estate 144,Imo,Nigeria,79324,648,25.33,1,17,9,5,23.1,49,21,10,4,50,2024,High,Yes,16.8,High Risk,0.730017423,Critical,2/6/2024,Stable,Underserved,Standard
+775,Central District 18,FCT,Nigeria,49233,790,17.03,1,12,7,3,26,30,49,39,6,85,2024,High,Yes,11.2,Medium Risk,0.495975921,Low,12/6/2024,Stable,Underserved,Standard
+776,East Area 153,Oyo,Nigeria,35110,161,8.51,1,17,6,5,39,51,23,0,4,60,2024,High,No,16.35,High Risk,0.667098762,High,20/06/2024,Stable,Adequate,Standard
+777,New Gate 83,Borno,Nigeria,29559,140,11.5,2,14,6,4,44.4,46,15,0,2,35,2023,High,Yes,14.3,High Risk,0.577038694,Medium,26/04/2023,Stable,Adequate,Standard
+778,Central Park 65,Borno,Nigeria,23106,367,8.08,1,19,8,2,78.3,36,13,1,5,35,2024,High,Yes,14.55,High Risk,0.609764406,Medium,24/05/2024,At Risk,Adequate,Structural Hotspot
+779,Old Gate 29,Rivers,Nigeria,131270,473,44.35,1,15,7,4,22.7,37,45,28,4,65,2024,High,Yes,13.55,Medium Risk,0.591299147,Medium,11/2/2024,Stable,Underserved,Standard
+780,Old Gate 11,Enugu,Nigeria,38703,127,13.4,1,15,6,3,78.2,29,54,14,4,55,2023,High,Yes,11.85,Medium Risk,0.516269243,Medium,1/9/2023,Stable,Adequate,Standard
+781,East Market 120,Akwa Ibom,Nigeria,60887,154,20.27,1,17,7,4,50.2,47,25,6,4,52,2023,High,Yes,15.75,High Risk,0.648049719,High,13/11/2023,Stable,Underserved,Standard
+782,West Village 80,Akwa Ibom,Nigeria,67778,217,17.88,1,18,9,5,79.5,51,10,30,3,52,2023,High,Yes,17.45,High Risk,0.750497972,Critical,7/4/2023,Stable,Underserved,Structural Hotspot
+783,North Gate 163,Rivers,Nigeria,14751,136,5.42,1,12,4,4,68,35,51,15,3,65,2024,High,Yes,11.45,Medium Risk,0.472201997,Low,14/09/2024,Stable,Adequate,Standard
+784,Old Estate 175,Oyo,Nigeria,43415,63,13.18,1,16,7,3,46.7,36,27,28,3,60,2024,High,No,13.5,Medium Risk,0.572634959,Medium,5/1/2024,Stable,Adequate,Standard
+785,Old Gate 195,Bauchi,Nigeria,29909,112,8.19,1,17,7,3,72.2,31,34,15,1,40,2024,High,Yes,13.1,Medium Risk,0.574694456,Medium,23/07/2024,At Risk,Adequate,Structural Hotspot
+786,South Estate 3,Borno,Nigeria,25261,476,7.86,1,16,8,2,30.2,36,10,6,3,35,2024,High,Yes,13.5,Medium Risk,0.564112232,Medium,26/12/2024,Stable,Adequate,Standard
+787,New Village 83,Akwa Ibom,Nigeria,55855,61,15.82,1,17,7,6,20.9,51,31,11,6,52,2024,High,No,16.85,High Risk,0.721076035,Critical,25/04/2024,Stable,Underserved,Standard
+788,East Estate 151,Kano,Nigeria,38434,67,13.34,1,14,6,1,33.9,27,25,36,1,50,2024,High,Yes,10.7,Medium Risk,0.433288694,Low,12/9/2024,Stable,Adequate,Standard
+789,West Estate 69,Plateau,Nigeria,46725,222,14.78,1,15,7,5,40,46,26,28,3,48,2023,High,Yes,15.15,High Risk,0.646233358,High,7/9/2023,Stable,Adequate,Standard
+790,North District 154,FCT,Nigeria,55981,611,20.4,2,9,3,2,11.6,20,58,20,4,85,2023,Medium,Yes,7.4,Medium Risk,0.301848866,Low,19/05/2023,Stable,Adequate,Standard
+791,Old Quarter 109,Oyo,Nigeria,39253,233,13.16,1,14,5,4,55.2,49,10,14,1,60,2024,High,Yes,14.5,High Risk,0.562206158,Medium,22/08/2024,Stable,Adequate,Standard
+792,New Gate 33,Lagos,Nigeria,74189,829,25.67,2,7,2,1,16.7,23,38,28,6,80,2023,Medium,No,6.65,Low Risk,0.225331548,Low,16/07/2023,Stable,Adequate,Standard
+793,Central Area 111,Kano,Nigeria,24227,165,9.13,1,17,5,2,70.3,27,40,20,2,50,2024,High,Yes,11.75,Medium Risk,0.487463595,Low,7/12/2024,Stable,Adequate,Structural Hotspot
+794,Old Estate 93,Oyo,Nigeria,41115,660,13.29,1,13,5,3,55.9,48,10,29,5,60,2023,High,Yes,13.75,Medium Risk,0.513107187,Medium,4/5/2023,Stable,Adequate,Standard
+795,East Area 190,FCT,Nigeria,52892,499,19.22,2,9,5,3,11.3,21,78,44,8,85,2024,Medium,No,8.3,Medium Risk,0.381184991,Low,23/12/2024,Stable,Adequate,Standard
+796,South District 22,Imo,Nigeria,55138,234,18.2,1,17,7,4,41.9,35,44,18,1,50,2024,High,Yes,13.95,Medium Risk,0.616470772,Medium,15/03/2024,Stable,Underserved,Standard
+797,South Area 176,Rivers,Nigeria,49159,221,17.59,2,10,7,3,74.3,37,36,9,3,65,2023,Medium,Yes,11.55,Medium Risk,0.483962191,Low,7/7/2023,Stable,Adequate,Standard
+798,West District 169,Akwa Ibom,Nigeria,35271,217,10.89,1,16,9,5,63.8,54,10,18,5,52,2024,High,Yes,17.2,High Risk,0.727957926,Critical,14/11/2024,Stable,Adequate,Structural Hotspot
+799,North Estate 174,Borno,Nigeria,30034,97,8.56,1,19,6,4,41.7,47,10,20,3,35,2024,High,Yes,16.2,High Risk,0.655757229,High,5/8/2024,Stable,Adequate,Standard
+800,West Quarter 97,Akwa Ibom,Nigeria,104724,175,27.9,1,17,7,3,75.2,39,21,29,6,52,2024,High,Yes,14.3,High Risk,0.595747088,Medium,8/6/2024,Stable,Underserved,Structural Hotspot
+801,New Park 165,Kaduna,Nigeria,28529,86,9.14,1,17,7,4,39.5,49,10,10,2,45,2022,High,Yes,16.05,High Risk,0.653312877,High,2/5/2022,Stable,Adequate,Standard
+802,New Estate 158,Borno,Nigeria,20792,269,8.18,1,17,10,6,79.4,51,33,0,3,35,2024,High,Yes,17.6,High Risk,0.789257853,Critical,24/05/2024,At Risk,Adequate,Structural Hotspot
+803,New Market 158,Akwa Ibom,Nigeria,80177,319,19.03,1,15,8,5,70.4,43,30,31,5,52,2024,High,Yes,14.95,High Risk,0.661065893,High,27/10/2024,Stable,Underserved,Standard
+804,East Park 191,Borno,Nigeria,25739,153,7.74,1,15,9,6,21.4,55,10,15,1,35,2022,High,Yes,17.25,High Risk,0.746622114,Critical,20/03/2022,Stable,Adequate,Standard
+805,New Village 73,Oyo,Nigeria,28319,117,8.71,1,11,5,2,76.7,28,38,25,4,60,2024,High,Yes,9.8,Medium Risk,0.398790826,Low,12/5/2024,Stable,Adequate,Standard
+806,South Village 147,Kano,Nigeria,19148,178,5.35,1,16,7,4,74.9,45,10,34,3,50,2024,High,Yes,15.1,High Risk,0.62756917,Medium,4/11/2024,Stable,Adequate,Structural Hotspot
+807,Central District 29,Plateau,Nigeria,20663,241,8.38,1,16,9,4,70.8,44,10,17,1,48,2023,High,Yes,15.45,High Risk,0.670392136,High,6/6/2023,Stable,Adequate,Structural Hotspot
+808,New District 78,Lagos,Nigeria,73296,468,24.23,2,6,4,2,15.2,23,52,42,6,80,2023,Medium,No,7.05,Medium Risk,0.286818702,Low,5/9/2023,Stable,Adequate,Standard
+809,Central Market 57,Plateau,Nigeria,48448,325,14.81,1,18,9,4,58.6,49,10,19,2,48,2022,High,Yes,16.9,High Risk,0.713984814,Critical,1/2/2022,Stable,Adequate,Standard
+810,Central Village 54,Kaduna,Nigeria,37960,300,14.37,1,19,8,5,29.2,48,27,34,1,45,2024,High,Yes,17.1,High Risk,0.735093353,Critical,26/02/2024,Stable,Adequate,Standard
+811,Central Gate 30,Oyo,Nigeria,37267,286,13.61,1,17,6,3,57.2,27,52,6,2,60,2024,High,Yes,12.25,Medium Risk,0.541440867,Medium,21/06/2024,Stable,Adequate,Standard
+812,New Market 98,FCT,Nigeria,64384,375,20.47,2,9,2,2,14.4,23,62,22,10,85,2024,Medium,No,7.6,Medium Risk,0.28701633,Low,10/12/2024,Stable,Adequate,Standard
+813,Old District 83,Borno,Nigeria,31832,253,11.01,1,18,8,5,20.2,45,32,16,2,35,2024,High,No,16.3,High Risk,0.711981225,Critical,21/01/2024,Stable,Adequate,Standard
+814,West Quarter 3,FCT,Nigeria,69836,392,20.42,2,9,3,2,29.3,16,71,7,1,85,2024,Medium,No,6.8,Low Risk,0.29132255,Low,13/12/2024,Stable,Adequate,Standard
+815,East Quarter 78,Oyo,Nigeria,26825,303,7.19,2,10,5,4,77.9,41,20,19,5,60,2024,Medium,Yes,11.9,Medium Risk,0.480283961,Low,14/02/2024,Stable,Adequate,Standard
+816,East Market 161,Plateau,Nigeria,51550,575,15.6,1,14,6,3,36.6,39,25,18,4,48,2023,High,Yes,13,Medium Risk,0.527367641,Medium,20/11/2023,Stable,Underserved,Standard
+817,East Area 143,Imo,Nigeria,31190,65,8.76,1,16,8,3,65.7,37,29,1,5,50,2024,High,Yes,13.9,Medium Risk,0.597993811,Medium,26/03/2024,Stable,Adequate,Structural Hotspot
+818,New District 153,Imo,Nigeria,39976,108,13.33,2,11,5,3,64.2,34,37,46,2,50,2022,High,Yes,10.95,Medium Risk,0.4458303,Low,16/01/2022,Stable,Adequate,Standard
+819,Central Park 67,Plateau,Nigeria,23124,389,8.6,1,18,8,4,32.4,44,10,18,1,48,2024,High,Yes,15.9,High Risk,0.678099646,High,1/1/2024,Stable,Adequate,Standard
+820,Old Market 53,Borno,Nigeria,35183,176,10.24,1,17,10,2,15.6,37,19,0,5,35,2024,High,Yes,14.5,High Risk,0.627415748,Medium,9/1/2024,Stable,Adequate,Standard
+821,Central Estate 115,FCT,Nigeria,71685,478,24.85,3,8,4,2,23.3,25,47,31,7,85,2024,Low,No,8.05,Medium Risk,0.322516642,Low,6/12/2024,Stable,Adequate,Standard
+822,New District 179,Kano,Nigeria,38176,440,14.74,1,16,7,4,70,45,21,8,1,50,2023,High,Yes,15.1,High Risk,0.62756917,Medium,26/07/2023,Stable,Adequate,Structural Hotspot
+823,West District 173,Kaduna,Nigeria,47166,169,15.77,1,15,7,4,79.4,36,44,18,1,45,2024,High,No,13.4,Medium Risk,0.588667568,Medium,15/11/2024,Stable,Underserved,Standard
+824,Old District 105,FCT,Nigeria,82558,474,26.79,2,9,4,0,23.6,17,55,27,6,85,2023,Medium,No,6.7,Low Risk,0.254181402,Low,13/12/2023,Stable,Adequate,Standard
+825,Central Market 158,Enugu,Nigeria,62588,231,18.88,1,15,8,3,43.9,34,43,36,4,55,2022,High,Yes,13.1,Medium Risk,0.574881683,Medium,9/5/2022,Stable,Underserved,Standard
+826,Central Market 172,Plateau,Nigeria,49659,202,11.42,1,16,5,4,79.7,48,10,11,3,48,2023,High,Yes,15.05,High Risk,0.590009361,Medium,25/09/2023,Stable,Adequate,Structural Hotspot
+827,New Village 88,Oyo,Nigeria,26422,412,9.44,1,13,6,2,17.8,29,27,31,5,60,2024,High,No,10.9,Medium Risk,0.45458446,Low,23/03/2024,Stable,Adequate,Standard
+828,East Area 119,Bauchi,Nigeria,49087,254,16.36,1,17,8,6,62.9,54,31,24,2,40,2024,High,Yes,17.55,High Risk,0.751698045,Critical,23/11/2024,At Risk,Underserved,Structural Hotspot
+829,East Gate 26,Imo,Nigeria,44202,117,16.26,1,15,5,1,25.5,25,33,0,4,50,2022,High,Yes,10.5,Medium Risk,0.420515654,Low,16/12/2022,Stable,Underserved,Standard
+830,New Village 34,Lagos,Nigeria,68551,755,23.97,2,10,4,4,26.7,33,60,47,5,80,2023,Medium,No,10.45,Medium Risk,0.436504057,Low,24/03/2023,Stable,Adequate,Standard
+831,South Village 162,Kaduna,Nigeria,20855,251,5.24,1,15,8,4,21.1,43,21,33,1,45,2022,High,No,14.7,High Risk,0.629815893,High,16/07/2022,Stable,Adequate,Standard
+832,West Village 188,Oyo,Nigeria,28107,159,6.9,1,13,7,4,21.1,38,36,1,10,60,2023,High,Yes,13,Medium Risk,0.563495943,Medium,19/03/2023,Stable,Adequate,Standard
+833,New Park 136,Kaduna,Nigeria,33446,172,13.48,1,17,7,5,43,52,12,28,5,45,2024,High,Yes,16.75,High Risk,0.692457614,High,18/02/2024,Stable,Adequate,Standard
+834,North Village 194,Kano,Nigeria,48589,154,11.99,1,15,7,4,15.3,30,49,25,5,50,2024,High,Yes,12.5,Medium Risk,0.572878094,Medium,15/09/2024,Stable,Adequate,Standard
+835,Old Park 37,Kano,Nigeria,24900,164,6.85,1,16,8,6,47.5,51,34,25,2,50,2023,High,Yes,16.75,High Risk,0.728585916,Critical,15/07/2023,Stable,Adequate,Standard
+836,East Area 2,Bauchi,Nigeria,44578,280,12.97,1,17,9,5,32.6,49,14,5,2,40,2024,High,Yes,16.8,High Risk,0.730017423,Critical,6/9/2024,Stable,Adequate,Standard
+837,North Estate 72,Bauchi,Nigeria,54273,455,14.78,1,17,9,5,67.2,44,38,28,1,40,2024,High,Yes,16.05,High Risk,0.716859528,Critical,18/02/2024,At Risk,Adequate,Structural Hotspot
+838,West Village 134,Rivers,Nigeria,24176,229,6.84,2,9,4,3,37.5,30,41,33,2,65,2022,Medium,No,9.4,Medium Risk,0.382141928,Low,13/12/2022,Stable,Adequate,Standard
+839,New Park 181,Akwa Ibom,Nigeria,41771,91,11.55,1,15,8,3,78.7,34,32,10,5,52,2023,High,Yes,13.1,Medium Risk,0.574881683,Medium,7/9/2023,Stable,Adequate,Standard
+840,Central Park 129,Akwa Ibom,Nigeria,22463,161,6.64,1,17,7,4,64.8,36,48,14,4,52,2022,High,No,14.1,High Risk,0.619102351,Medium,18/07/2022,Stable,Adequate,Structural Hotspot
+841,New Quarter 36,Bauchi,Nigeria,49265,148,14.01,1,15,8,4,75.1,39,28,9,1,40,2023,High,Yes,14.1,High Risk,0.619289578,Medium,11/10/2023,At Risk,Adequate,Standard
+842,Old Area 8,Borno,Nigeria,12417,184,5,1,19,7,4,17.1,43,24,28,2,35,2024,High,Yes,15.85,High Risk,0.667958186,High,1/2/2024,Stable,Adequate,Standard
+843,Old Area 59,Oyo,Nigeria,51726,302,12.59,2,14,6,3,33.8,36,36,16,4,60,2023,High,No,12.55,Medium Risk,0.519472904,Medium,15/11/2023,Stable,Adequate,Standard
+844,West District 96,Bauchi,Nigeria,41689,124,11.43,1,19,8,5,18.2,48,26,27,4,40,2024,High,Yes,17.1,High Risk,0.735093353,Critical,28/08/2024,Stable,Adequate,Standard
+845,South Estate 164,Akwa Ibom,Nigeria,22826,159,8.04,1,17,8,1,51.5,23,42,31,7,52,2023,High,Yes,11.65,Medium Risk,0.513869097,Medium,27/04/2023,Stable,Adequate,Standard
+846,Central Area 89,Kano,Nigeria,72758,145,24.05,1,18,9,5,23.4,51,10,30,1,50,2023,High,No,17.45,High Risk,0.750497972,Critical,24/03/2023,Stable,Underserved,Standard
+847,South Quarter 143,Borno,Nigeria,43533,88,12.5,1,19,8,6,69.4,51,33,21,1,35,2022,High,Yes,17.8,High Risk,0.77423809,Critical,9/11/2022,At Risk,Adequate,Structural Hotspot
+848,New District 112,Borno,Nigeria,22957,347,7.03,1,18,8,6,51,49,37,37,2,35,2023,High,Yes,17.15,High Risk,0.753757541,Critical,27/10/2023,At Risk,Adequate,Standard
+849,North Market 47,Kano,Nigeria,37391,134,9.13,1,18,6,2,77.8,26,55,31,5,50,2024,High,Yes,12.2,Medium Risk,0.52277668,Medium,2/9/2024,Stable,Adequate,Structural Hotspot
+850,South Estate 102,Plateau,Nigeria,35862,93,11.72,1,17,9,4,73.2,46,21,23,1,48,2023,High,Yes,16.1,High Risk,0.690872686,High,2/11/2023,Stable,Adequate,Structural Hotspot
+851,North Gate 104,Borno,Nigeria,40487,101,12.69,1,17,8,6,47.2,54,19,27,4,35,2023,High,Yes,17.55,High Risk,0.751698045,Critical,17/06/2023,Stable,Adequate,Standard
+852,Old Park 162,Imo,Nigeria,27433,693,10.35,1,14,7,6,79.8,47,42,11,4,50,2024,High,No,15.2,High Risk,0.664897545,High,17/02/2024,Stable,Adequate,Standard
+853,Old District 113,Kaduna,Nigeria,42359,314,13.75,1,16,8,5,29.4,47,25,0,2,45,2024,High,Yes,15.9,High Risk,0.686809601,High,14/03/2024,Stable,Adequate,Standard
+854,West Quarter 193,Enugu,Nigeria,32786,186,10.81,1,17,7,3,54.7,35,37,30,1,55,2024,High,Yes,13.7,Medium Risk,0.585220772,Medium,21/06/2024,Stable,Adequate,Standard
+855,East Village 88,Lagos,Nigeria,33763,558,11.06,2,10,7,2,8.3,23,53,36,6,80,2024,Medium,No,9.2,Medium Risk,0.415870085,Low,13/10/2024,Stable,Adequate,Standard
+856,Old Gate 134,Plateau,Nigeria,31782,129,9.35,2,15,7,7,25.6,53,35,10,4,48,2024,High,Yes,16.7,High Risk,0.72715441,Critical,3/4/2024,Stable,Adequate,Standard
+857,Old District 137,Kaduna,Nigeria,33929,171,9.98,1,17,8,4,36.9,40,41,32,3,45,2024,High,No,14.95,High Risk,0.652355939,High,3/1/2024,Stable,Adequate,Standard
+858,East Village 135,FCT,Nigeria,51161,365,17.74,2,8,2,1,11,24,31,45,3,85,2024,Medium,No,7.15,Medium Risk,0.243180518,Low,2/2/2024,Stable,Adequate,Standard
+859,West Gate 125,Rivers,Nigeria,27552,81,7.04,1,16,5,4,22.8,37,29,16,3,65,2022,High,Yes,13.4,Medium Risk,0.561061993,Medium,5/4/2022,Stable,Adequate,Standard
+860,Old Quarter 140,Rivers,Nigeria,51026,217,18.81,1,11,6,3,66.4,29,50,12,1,65,2024,High,Yes,10.45,Medium Risk,0.455399678,Low,3/4/2024,Stable,Underserved,Standard
+861,Old Gate 162,Akwa Ibom,Nigeria,88744,135,26.3,1,13,7,3,70.6,38,25,44,2,52,2024,High,No,12.75,Medium Risk,0.532245943,Medium,18/04/2024,Stable,Underserved,Standard
+862,Central Gate 136,Kaduna,Nigeria,30824,150,11.48,1,16,10,7,27.5,56,23,19,1,45,2024,High,Yes,18.25,High Risk,0.818448357,Critical,7/2/2024,Stable,Adequate,Standard
+863,Central Quarter 45,Kaduna,Nigeria,25965,257,7.28,1,15,7,5,50,43,37,4,3,45,2023,High,Yes,14.7,High Risk,0.638338621,High,1/1/2023,Stable,Adequate,Standard
+864,North Park 28,Akwa Ibom,Nigeria,52406,156,14.66,1,16,7,3,54.4,35,39,12,4,52,2024,High,Yes,13.35,Medium Risk,0.57000338,Medium,14/03/2024,Stable,Adequate,Standard
+865,East Park 87,Bauchi,Nigeria,49730,349,18.13,1,17,5,4,53.3,44,19,0,1,40,2023,High,No,14.8,High Risk,0.594700437,Medium,27/12/2023,At Risk,Underserved,Standard
+866,Old Market 34,Kano,Nigeria,55183,200,21.29,1,13,8,3,68.4,27,51,2,3,50,2024,High,Yes,11.35,Medium Risk,0.526025848,Medium,21/12/2024,Stable,Underserved,Standard
+867,South Park 78,Kano,Nigeria,73301,110,23.46,1,16,8,5,46.5,40,45,21,3,50,2024,High,Yes,14.85,High Risk,0.668388548,High,19/04/2024,Stable,Underserved,Standard
+868,East District 36,Plateau,Nigeria,68130,326,20.01,2,14,7,2,45.2,37,10,9,1,48,2023,High,Yes,12.7,Medium Risk,0.513581756,Medium,28/12/2023,Stable,Adequate,Standard
+869,Old Park 176,Kaduna,Nigeria,30224,548,10.16,1,19,8,5,77.7,48,19,35,2,45,2024,High,Yes,17.1,High Risk,0.735093353,Critical,8/4/2024,Stable,Adequate,Structural Hotspot
+870,East Estate 181,Kano,Nigeria,28658,53,8.26,1,18,8,3,21,44,12,40,1,50,2023,High,Yes,15.65,High Risk,0.646849646,High,3/11/2023,Stable,Adequate,Standard
+871,New Area 158,Plateau,Nigeria,34875,104,8.78,1,16,8,4,75.3,44,31,24,1,48,2023,High,Yes,15.2,High Risk,0.647664864,High,12/11/2023,Stable,Adequate,Structural Hotspot
+872,East Village 30,Kano,Nigeria,95183,394,30.39,1,14,11,6,67.5,53,20,27,2,50,2024,High,Yes,17.1,High Risk,0.77159611,Critical,5/11/2024,Stable,Underserved,Standard
+873,North District 38,Plateau,Nigeria,55112,318,16.08,1,15,8,3,23.2,39,22,35,1,48,2022,High,Yes,13.85,Medium Risk,0.588039578,Medium,9/7/2022,Stable,Underserved,Standard
+874,South District 198,Rivers,Nigeria,45976,203,15.36,1,12,4,3,37.7,34,46,24,3,65,2024,High,Yes,11.05,Medium Risk,0.438320418,Low,19/05/2024,Stable,Underserved,Standard
+875,West Village 17,Oyo,Nigeria,25755,144,7.61,2,14,6,2,41.6,28,47,20,6,60,2023,High,Yes,11.1,Medium Risk,0.467170273,Low,10/11/2023,Stable,Adequate,Standard
+876,South Quarter 163,Akwa Ibom,Nigeria,30222,106,8.23,1,16,7,4,70.3,32,54,24,4,52,2023,High,Yes,13.15,Medium Risk,0.593358644,Medium,18/11/2023,Stable,Adequate,Structural Hotspot
+877,New Quarter 64,Enugu,Nigeria,27946,234,8.03,1,16,6,3,35.9,36,27,16,3,55,2024,High,Yes,13.25,Medium Risk,0.549907687,Medium,21/07/2024,Stable,Adequate,Standard
+878,Old District 66,Lagos,Nigeria,47511,493,17.25,2,8,3,1,18.1,16,52,38,5,80,2023,Medium,No,6.2,Low Risk,0.244855159,Low,9/10/2023,Stable,Adequate,Standard
+879,North Park 117,Kaduna,Nigeria,32578,420,12.88,1,19,7,4,59.8,40,30,27,1,45,2024,High,Yes,15.4,High Risk,0.660063449,High,12/12/2024,Stable,Adequate,Standard
+880,North Gate 149,Bauchi,Nigeria,51189,169,14.05,1,16,9,6,62.3,47,41,23,5,40,2024,High,Yes,16.4,High Risk,0.740786873,Critical,28/02/2024,At Risk,Adequate,Structural Hotspot
+881,Old Area 63,Lagos,Nigeria,38534,505,12.22,2,7,4,0,17.1,13,53,26,2,80,2022,Medium,Yes,5.4,Low Risk,0.213220304,Low,15/04/2022,Stable,Adequate,Standard
+882,New Gate 130,Plateau,Nigeria,30946,249,9.97,1,16,8,4,16.7,45,13,12,3,48,2023,High,Yes,15.35,High Risk,0.650296443,High,18/10/2023,Stable,Adequate,Standard
+883,West Village 84,Borno,Nigeria,93403,226,27.41,1,17,8,5,70.8,51,10,24,2,35,2022,High,Yes,16.85,High Risk,0.712553308,Critical,3/5/2022,At Risk,Underserved,Structural Hotspot
+884,New Area 100,Imo,Nigeria,27716,145,11.05,1,13,6,2,53.6,20,57,16,7,50,2024,High,Yes,9.55,Medium Risk,0.43090025,Low,20/11/2024,Stable,Adequate,Standard
+885,New Market 163,Bauchi,Nigeria,30926,233,9.87,1,13,8,3,76.4,40,16,6,3,40,2024,High,No,13.3,Medium Risk,0.560236374,Medium,12/12/2024,At Risk,Adequate,Standard
+886,South Market 133,Kaduna,Nigeria,20910,104,5.95,1,17,9,5,53.2,38,53,0,2,45,2024,High,No,15.15,High Risk,0.701070054,High,7/5/2024,Stable,Adequate,Standard
+887,New Market 140,Rivers,Nigeria,26194,142,8.38,1,16,6,4,19.1,38,37,32,3,65,2023,High,Yes,13.8,Medium Risk,0.586420845,Medium,1/3/2023,Stable,Adequate,Standard
+888,Old Quarter 123,Kano,Nigeria,61004,441,22,1,13,7,4,54.9,45,10,7,4,50,2024,High,Yes,14.05,High Risk,0.581916996,Medium,12/10/2024,Stable,Underserved,Standard
+889,North Village 169,Oyo,Nigeria,38601,82,11.43,1,18,7,3,52.9,35,37,0,1,60,2024,High,Yes,14.05,High Risk,0.600438163,Medium,2/6/2024,Stable,Adequate,Standard
+890,New Village 116,Imo,Nigeria,51083,106,19.25,1,18,7,3,66.8,35,31,0,5,50,2024,High,Yes,14.05,High Risk,0.600438163,Medium,16/04/2024,Stable,Underserved,Structural Hotspot
+891,North Park 30,Oyo,Nigeria,25403,316,7.72,1,18,7,4,68.1,47,22,27,4,60,2024,High,Yes,16.1,High Risk,0.66326711,High,16/05/2024,Stable,Adequate,Structural Hotspot
+892,West District 125,Kano,Nigeria,58941,121,17.44,1,17,6,2,34,30,25,21,1,50,2024,High,No,12.45,Medium Risk,0.518085604,Medium,10/4/2024,Stable,Underserved,Standard
+893,Old District 171,Enugu,Nigeria,25335,215,11.16,1,17,5,4,45.2,41,18,26,6,55,2024,High,Yes,14.35,High Risk,0.5868057,Medium,28/05/2024,Stable,Adequate,Standard
+894,Old Market 95,Kano,Nigeria,61457,431,22.81,1,18,9,5,59.3,42,32,35,4,50,2024,High,Yes,16.1,High Risk,0.726813761,Critical,12/3/2024,Stable,Underserved,Standard
+895,West Quarter 62,Bauchi,Nigeria,20708,311,5.62,1,19,9,3,69.2,40,10,24,4,40,2022,High,No,15.65,High Risk,0.674267995,High,16/02/2022,At Risk,Adequate,Structural Hotspot
+896,Old Market 105,Imo,Nigeria,31818,227,10.76,1,17,6,3,67.1,33,48,11,3,50,2024,High,No,13.15,Medium Risk,0.557230341,Medium,15/11/2024,Stable,Adequate,Structural Hotspot
+897,New Village 58,Kaduna,Nigeria,28097,201,7.92,1,15,8,4,22.4,50,10,15,1,45,2024,High,Yes,15.75,High Risk,0.648236946,High,28/04/2024,Stable,Adequate,Standard
+898,Old Market 167,Imo,Nigeria,33635,183,12.52,1,19,6,4,35,40,33,35,1,50,2023,High,Yes,15.15,High Risk,0.637336176,High,15/04/2023,Stable,Adequate,Standard
+899,Old Estate 3,Borno,Nigeria,21586,273,5.32,1,18,8,5,65,41,45,6,3,35,2024,High,Yes,15.7,High Risk,0.70145491,High,13/08/2024,At Risk,Adequate,Structural Hotspot
+900,South District 13,Kaduna,Nigeria,51261,109,12.73,1,15,5,4,50.6,36,45,27,1,45,2022,High,Yes,12.9,Medium Risk,0.543213023,Medium,3/6/2022,Stable,Adequate,Standard
+901,Central Gate 24,Imo,Nigeria,36341,353,8.43,1,14,4,3,28.3,34,40,11,1,50,2023,High,No,11.75,Medium Risk,0.468755201,Low,2/2/2023,Stable,Adequate,Standard
+902,New Quarter 88,Oyo,Nigeria,37367,209,9.91,1,12,3,1,38.4,23,37,17,4,60,2022,High,Yes,8.65,Medium Risk,0.324145777,Low,15/07/2022,Stable,Adequate,Standard
+903,New District 46,Rivers,Nigeria,57629,224,21.09,1,12,7,3,35.7,26,57,17,5,65,2024,High,Yes,10.6,Medium Risk,0.485449605,Low,28/11/2024,Stable,Underserved,Standard
+904,New Area 185,Bauchi,Nigeria,29157,220,9.58,1,21,8,4,16.9,35,31,39,4,40,2024,High,No,15.6,High Risk,0.70006761,High,15/02/2024,Stable,Adequate,Standard
+905,Old Estate 126,Kano,Nigeria,29833,311,8.56,1,17,7,5,31,55,10,15,1,50,2024,High,Yes,17.2,High Risk,0.700352351,High,17/09/2024,Stable,Adequate,Standard
+906,New Estate 95,FCT,Nigeria,47905,565,18.52,2,8,4,1,19,23,50,28,9,85,2022,Medium,Yes,7.5,Medium Risk,0.286003485,Low,3/7/2022,Stable,Adequate,Standard
+907,East Area 14,Rivers,Nigeria,23454,248,7.24,2,7,3,2,54.4,25,66,23,4,65,2023,Medium,No,7.45,Medium Risk,0.284571978,Low,7/4/2023,Stable,Adequate,Standard
+908,Old Village 112,Kano,Nigeria,20573,124,5.3,1,22,10,5,59.3,40,47,0,2,50,2024,High,Yes,17.45,High Risk,0.805147441,Critical,17/09/2024,Stable,Adequate,Standard
+909,West Estate 77,FCT,Nigeria,84710,638,30.68,2,8,2,0,12.3,16,50,31,1,85,2024,Medium,No,5.7,Low Risk,0.190877886,Low,16/09/2024,Stable,Adequate,Standard
+910,West Market 189,Lagos,Nigeria,75532,788,23.23,1,13,5,2,13.8,29,38,27,5,80,2022,High,Yes,10.65,Medium Risk,0.431857187,Low,5/7/2022,Stable,Underserved,Standard
+911,Old Park 4,Plateau,Nigeria,30150,291,10.44,1,16,7,6,29.1,40,61,10,2,48,2023,High,Yes,14.85,High Risk,0.676911275,High,18/02/2023,Stable,Adequate,Standard
+912,West Gate 174,Lagos,Nigeria,41743,459,12.18,1,8,3,3,12.9,16,96,47,6,80,2024,Medium,No,6.7,Low Risk,0.307355159,Low,23/05/2024,Stable,Adequate,Standard
+913,Old Market 135,Rivers,Nigeria,33442,161,11.01,2,10,3,2,43.3,28,37,5,5,65,2024,Medium,No,8.95,Medium Risk,0.338118889,Low,9/5/2024,Stable,Adequate,Standard
+914,New Park 50,Kano,Nigeria,65777,146,21.03,1,14,7,4,76.8,33,35,27,1,50,2024,High,Yes,12.6,Medium Risk,0.56555544,Medium,6/7/2024,Stable,Underserved,Standard
+915,North Gate 9,Enugu,Nigeria,26686,390,9.42,1,14,7,4,51.4,34,48,6,3,55,2024,High,No,12.75,Medium Risk,0.568187019,Medium,12/11/2024,Stable,Adequate,Standard
+916,Old District 105,Enugu,Nigeria,30076,299,9.84,2,10,6,3,79,38,24,5,1,55,2024,Medium,No,11.45,Medium Risk,0.463866497,Low,2/11/2024,Stable,Adequate,Standard
+917,East Market 171,Plateau,Nigeria,50792,124,17.03,1,18,9,4,54.2,37,43,3,3,48,2024,High,Yes,15.1,High Risk,0.682405866,High,11/10/2024,Stable,Underserved,Standard
+918,West Estate 30,Enugu,Nigeria,17912,111,5.76,1,15,6,3,74.7,27,53,33,4,55,2023,High,Yes,11.55,Medium Risk,0.511006085,Medium,13/06/2023,Stable,Adequate,Standard
+919,South Area 73,FCT,Nigeria,50403,1245,18.66,2,9,2,2,22.1,21,61,42,5,85,2023,Medium,No,7.3,Medium Risk,0.281753172,Low,20/07/2023,Stable,Adequate,Standard
+920,South Gate 127,Oyo,Nigeria,36571,330,11.88,1,15,6,3,31.3,37,33,6,4,60,2024,High,Yes,13.05,Medium Risk,0.537321874,Medium,7/6/2024,Stable,Adequate,Standard
+921,West Park 140,Kano,Nigeria,76051,241,26.57,1,16,7,2,69,28,32,28,4,50,2024,High,Yes,12.05,Medium Risk,0.520332328,Medium,23/04/2024,Stable,Underserved,Structural Hotspot
+922,West Village 66,Kano,Nigeria,33050,88,7.08,1,16,7,4,57.1,44,15,0,5,50,2024,High,No,14.95,High Risk,0.624937591,Medium,26/09/2024,Stable,Adequate,Standard
+923,Central Gate 56,Plateau,Nigeria,19670,156,5.51,1,15,7,4,58.3,47,15,10,1,48,2024,High,No,15.05,High Risk,0.617614937,Medium,2/9/2024,Stable,Adequate,Standard
+924,North Estate 118,Oyo,Nigeria,33442,224,11.68,1,14,8,4,77.9,26,71,33,3,60,2023,High,Yes,11.8,Medium Risk,0.56986166,Medium,6/5/2023,Stable,Adequate,Standard
+925,West Park 196,FCT,Nigeria,74308,484,21.77,2,6,3,0,21.2,9,85,23,5,85,2023,Medium,No,4.2,Low Risk,0.164749324,Low,14/06/2023,Stable,Adequate,Standard
+926,Old Area 102,Kaduna,Nigeria,34149,416,11.42,1,18,7,5,19.7,47,21,6,6,45,2022,High,No,16.35,High Risk,0.69451711,High,18/11/2022,Stable,Adequate,Standard
+927,North Park 55,Lagos,Nigeria,90229,465,24.77,1,10,3,2,21.5,15,81,31,5,80,2023,Medium,Yes,7,Low Risk,0.303908363,Low,24/12/2023,Stable,Underserved,Standard
+928,Old Area 75,Plateau,Nigeria,36596,144,15.3,1,16,8,4,43.5,34,42,16,6,48,2024,High,Yes,13.7,Medium Risk,0.621349074,Medium,6/4/2024,Stable,Underserved,Standard
+929,South Park 93,Plateau,Nigeria,16236,229,5,1,17,8,3,66.8,37,31,27,2,48,2022,High,Yes,14.25,High Risk,0.613211202,Medium,2/8/2022,Stable,Adequate,Structural Hotspot
+930,New Quarter 90,Oyo,Nigeria,27419,133,8.45,1,14,6,5,19.3,52,10,13,1,60,2024,High,No,15.45,High Risk,0.624078167,Medium,17/06/2024,Stable,Adequate,Standard
+931,Old Park 70,FCT,Nigeria,61983,319,20.13,2,8,4,2,12.7,23,50,25,2,85,2023,Medium,Yes,7.75,Medium Risk,0.317253485,Low,18/02/2023,Stable,Adequate,Standard
+932,West Area 182,Kano,Nigeria,89120,116,27.29,1,20,10,4,65.3,35,53,22,5,50,2023,High,Yes,15.75,High Risk,0.730304764,Critical,10/3/2023,Stable,Underserved,Structural Hotspot
+933,New Area 61,Lagos,Nigeria,95682,562,28.62,1,14,6,2,19.7,27,49,31,5,80,2024,High,Yes,10.95,Medium Risk,0.464538694,Low,3/2/2024,Stable,Underserved,Standard
+934,Central Park 76,Rivers,Nigeria,23765,140,6.33,1,13,5,3,35.2,33,36,0,7,65,2022,High,No,11.5,Medium Risk,0.473633503,Low,21/07/2022,Stable,Adequate,Standard
+935,Old Park 3,Kano,Nigeria,40998,140,11.99,1,16,9,4,71.8,39,30,11,1,50,2024,High,Yes,14.7,High Risk,0.657234242,High,16/07/2024,Stable,Adequate,Structural Hotspot
+936,New Estate 117,Bauchi,Nigeria,100710,84,34.11,2,15,7,3,18.8,43,10,19,2,40,2024,High,Yes,14.2,High Risk,0.575838621,Medium,18/07/2024,Stable,Adequate,Standard
+937,East District 122,Kaduna,Nigeria,67009,333,20.43,1,15,8,3,53.7,42,10,27,4,45,2022,High,No,14.3,High Risk,0.595934315,Medium,12/9/2022,Stable,Underserved,Standard
+938,West District 165,Kano,Nigeria,74982,114,22.85,1,17,6,5,16.7,46,45,33,2,50,2023,High,Yes,15.6,High Risk,0.653940867,High,22/08/2023,Stable,Underserved,Standard
+939,Central Village 109,FCT,Nigeria,46673,404,17.88,2,5,1,1,13.3,23,28,35,1,85,2024,Medium,No,5.7,Low Risk,0.172169492,Low,11/10/2024,Stable,Adequate,Standard
+940,North District 159,Bauchi,Nigeria,38165,152,11.71,1,19,9,4,47.5,40,33,19,2,40,2023,High,Yes,15.9,High Risk,0.705517995,High,8/6/2023,Stable,Adequate,Standard
+941,South Market 64,Plateau,Nigeria,44144,196,14.54,1,16,6,4,33.4,44,13,11,5,48,2023,High,Yes,14.7,High Risk,0.602210318,Medium,7/3/2023,Stable,Adequate,Standard
+942,New Estate 25,Kaduna,Nigeria,37370,135,12.87,1,14,7,3,28.4,41,14,45,4,45,2024,High,No,13.55,Medium Risk,0.555358072,Medium,9/7/2024,Stable,Adequate,Standard
+943,West Village 45,Plateau,Nigeria,30563,325,9.48,1,18,7,3,71.5,34,32,32,3,48,2024,High,Yes,13.9,Medium Risk,0.597806584,Medium,1/10/2024,Stable,Adequate,Structural Hotspot
+944,Old Gate 110,Plateau,Nigeria,50561,115,16.13,1,17,8,6,21.1,47,32,22,3,48,2023,High,No,16.5,High Risk,0.733276992,Critical,17/09/2023,Stable,Underserved,Standard
+945,West Park 176,Enugu,Nigeria,38112,117,14.11,1,14,6,2,19.7,31,25,25,5,55,2024,High,No,11.55,Medium Risk,0.475065009,Low,27/03/2024,Stable,Adequate,Standard
+946,West District 195,Bauchi,Nigeria,68681,205,18.65,1,16,11,6,20.9,54,19,27,3,40,2022,High,Yes,17.95,High Risk,0.804662471,Critical,21/03/2022,Stable,Underserved,Standard
+947,New Area 180,Lagos,Nigeria,76273,688,23.08,2,10,4,2,23.7,19,66,15,2,80,2024,Medium,No,7.85,Medium Risk,0.337161951,Low,11/4/2024,Stable,Adequate,Standard
+948,Old Park 132,Lagos,Nigeria,75472,598,24.93,1,13,6,3,9.5,31,45,39,5,80,2022,High,Yes,11.45,Medium Risk,0.491097618,Low,27/12/2022,Stable,Underserved,Standard
+949,West Gate 87,Plateau,Nigeria,33078,367,9.67,1,16,6,4,78.2,38,35,20,2,48,2024,High,Yes,13.8,Medium Risk,0.586420845,Medium,21/10/2024,Stable,Adequate,Structural Hotspot
+950,West Estate 175,Imo,Nigeria,20897,150,6.05,1,17,8,5,22.8,48,29,26,7,50,2024,High,Yes,16.4,High Risk,0.704658571,High,3/9/2024,Stable,Adequate,Standard
+951,New Market 82,Oyo,Nigeria,45646,149,12.41,2,10,4,2,24,26,57,22,1,60,2024,Medium,Yes,8.9,Medium Risk,0.355583004,Low,13/12/2024,Stable,Adequate,Standard
+952,East Market 68,Kano,Nigeria,33575,256,11.64,1,18,8,5,27,50,20,34,7,50,2023,High,No,17.05,High Risk,0.72513912,Critical,26/10/2023,Stable,Adequate,Standard
+953,New Gate 58,Bauchi,Nigeria,55763,229,18.82,1,17,10,4,74.5,48,14,10,2,40,2022,High,Yes,16.65,High Risk,0.718863116,Critical,2/11/2022,At Risk,Underserved,Structural Hotspot
+954,New Quarter 101,Plateau,Nigeria,87184,319,27.07,1,17,8,4,32.6,37,33,25,1,48,2024,High,Yes,14.5,High Risk,0.644461202,High,10/5/2024,Stable,Underserved,Standard
+955,South Quarter 60,Bauchi,Nigeria,35726,592,11.18,1,17,7,3,66.2,35,28,25,1,40,2023,High,No,13.7,Medium Risk,0.585220772,Medium,28/04/2023,At Risk,Adequate,Structural Hotspot
+956,New District 177,Plateau,Nigeria,83643,218,24.7,1,16,7,5,33.1,45,30,47,3,48,2022,High,Yes,15.35,High Risk,0.65881917,High,3/7/2022,Stable,Underserved,Standard
+957,North Quarter 146,Plateau,Nigeria,15088,115,5,1,17,8,4,18.5,34,47,23,3,48,2023,High,Yes,14.05,High Risk,0.636566466,High,21/01/2023,Stable,Adequate,Standard
+958,East Market 193,Plateau,Nigeria,26068,259,9.66,1,14,6,3,47.9,31,49,22,3,48,2024,High,No,11.8,Medium Risk,0.506315009,Medium,10/3/2024,Stable,Adequate,Standard
+959,South Gate 115,Bauchi,Nigeria,36369,247,14.16,1,21,10,5,70.7,49,19,32,4,40,2023,High,Yes,18.45,High Risk,0.81361426,Critical,13/12/2023,At Risk,Adequate,Structural Hotspot
+960,Central Quarter 149,FCT,Nigeria,48760,328,16.24,2,3,2,1,29.9,19,51,50,1,85,2024,Low,No,4.65,Low Risk,0.153935667,Low,16/07/2024,Stable,Adequate,Standard
+961,Old Area 19,FCT,Nigeria,57911,408,20.16,1,13,4,2,27.8,20,67,44,4,85,2022,High,Yes,9.05,Medium Risk,0.385445704,Low,10/4/2022,Stable,Underserved,Standard
+962,East Area 164,Rivers,Nigeria,81848,363,27.17,2,13,6,2,61.7,26,55,6,2,65,2024,High,Yes,10.45,Medium Risk,0.446689723,Low,27/03/2024,Stable,Adequate,Standard
+963,East District 60,Oyo,Nigeria,79785,132,28.35,1,12,7,4,31,42,18,14,7,60,2023,High,Yes,13.25,Medium Risk,0.558804868,Medium,19/12/2023,Stable,Underserved,Standard
+964,South Market 56,Enugu,Nigeria,57623,120,16.36,1,12,7,4,24.1,39,37,43,4,55,2024,High,Yes,12.8,Medium Risk,0.550910131,Medium,23/04/2024,Stable,Underserved,Standard
+965,New Area 93,Oyo,Nigeria,24315,175,6.53,2,13,5,2,20.3,26,51,53,6,60,2024,Medium,No,10.2,Medium Risk,0.423962451,Low,1/11/2024,Stable,Adequate,Standard
+966,Old District 163,Plateau,Nigeria,51809,231,16.94,1,13,7,4,60.2,34,45,32,1,48,2024,High,Yes,12.4,Medium Risk,0.552969628,Medium,21/08/2024,Stable,Underserved,Standard
+967,Old District 29,Bauchi,Nigeria,19918,184,5.78,1,20,9,6,20.9,54,15,24,2,40,2023,High,No,18.85,High Risk,0.820077491,Critical,14/01/2023,Stable,Adequate,Standard
+968,New District 49,Borno,Nigeria,16632,96,5,1,18,7,4,18.9,44,31,3,1,35,2024,High,Yes,15.65,High Risk,0.655372374,High,21/02/2024,Stable,Adequate,Standard
+969,East Village 193,Imo,Nigeria,49658,174,16.37,2,16,6,5,32.3,40,47,19,5,50,2024,High,Yes,14.35,High Risk,0.622934002,Medium,10/2/2024,Stable,Adequate,Standard
+970,East Park 179,Kaduna,Nigeria,19858,64,5,1,16,6,5,65.6,46,39,10,3,45,2024,High,Yes,15.25,High Risk,0.638723476,High,9/4/2024,Stable,Adequate,Structural Hotspot
+971,Old Gate 105,Rivers,Nigeria,32317,212,5.55,1,13,5,4,48.8,39,45,17,7,65,2023,High,Yes,12.65,Medium Risk,0.520672977,Medium,6/3/2023,Stable,Adequate,Standard
+972,North Gate 186,Borno,Nigeria,38278,129,11.94,1,18,7,6,56.3,50,30,34,1,35,2022,High,Yes,17.05,High Risk,0.733661847,Critical,26/09/2022,At Risk,Adequate,Standard
+973,Central Quarter 176,Borno,Nigeria,44595,114,11.12,1,22,8,5,73.4,51,10,13,2,35,2024,High,Yes,18.6,High Risk,0.788640264,Critical,21/08/2024,At Risk,Adequate,Structural Hotspot
+974,East District 80,Kano,Nigeria,52389,144,15.11,1,18,8,5,55.1,43,25,23,4,50,2023,High,No,16,High Risk,0.706718067,High,5/10/2023,Stable,Underserved,Standard
+975,East Village 96,Kaduna,Nigeria,27294,78,8.76,1,13,7,3,35.5,37,24,47,4,45,2024,High,Yes,12.6,Medium Risk,0.529614364,Medium,11/8/2024,Stable,Adequate,Standard
+976,West Area 111,Oyo,Nigeria,73456,197,22.25,1,15,6,4,40.9,45,10,7,2,60,2023,High,Yes,14.5,High Risk,0.589624506,Medium,18/05/2023,Stable,Underserved,Standard
+977,New Park 34,Kano,Nigeria,26367,436,10.73,1,13,7,5,74.2,42,48,0,1,50,2022,High,Yes,13.85,Medium Risk,0.605272259,Medium,25/09/2022,Stable,Adequate,Standard
+978,Central Estate 15,Kaduna,Nigeria,22037,155,6.06,1,13,7,7,67.4,48,55,2,3,45,2024,High,Yes,15.25,High Risk,0.683561733,High,6/10/2024,Stable,Adequate,Standard
+979,New District 188,Enugu,Nigeria,64427,115,15.44,1,13,7,3,32.1,39,23,7,3,55,2024,High,Yes,12.9,Medium Risk,0.534877522,Medium,26/03/2024,Stable,Underserved,Standard
+980,Central Area 156,Akwa Ibom,Nigeria,23063,136,7.39,1,12,4,2,24,29,39,31,5,52,2024,High,Yes,10.05,Medium Risk,0.393912523,Low,19/04/2024,Stable,Adequate,Standard
+981,Central Market 52,Plateau,Nigeria,64035,124,16.5,1,14,6,4,74.3,39,33,25,2,48,2024,High,Yes,13.25,Medium Risk,0.558617641,Medium,12/7/2024,Stable,Underserved,Standard
+982,East Area 45,Rivers,Nigeria,53410,413,19.04,1,13,6,4,25.5,31,69,22,7,65,2022,High,No,11.7,Medium Risk,0.522347618,Medium,27/07/2022,Stable,Underserved,Standard
+983,East Gate 11,Borno,Nigeria,38184,272,10.52,1,20,9,6,69.6,55,19,23,1,35,2022,High,Yes,19,High Risk,0.82270907,Critical,12/2/2022,At Risk,Adequate,Structural Hotspot
+984,South Gate 103,Imo,Nigeria,58896,349,15.61,1,14,7,3,30.5,40,23,45,2,50,2024,High,Yes,13.4,Medium Risk,0.552726493,Medium,12/12/2024,Stable,Underserved,Standard
+985,South Quarter 17,Bauchi,Nigeria,52387,108,15.59,1,19,7,6,55,43,52,16,2,40,2024,High,No,16.35,High Risk,0.730458186,Critical,7/3/2024,At Risk,Underserved,Standard
+986,West Estate 13,Bauchi,Nigeria,19919,155,7.1,2,13,5,3,64.7,40,16,3,2,40,2024,High,Yes,12.55,Medium Risk,0.492054556,Low,15/04/2024,Stable,Adequate,Standard
+987,South Park 57,Bauchi,Nigeria,29604,149,6,1,17,8,4,24.5,49,12,3,4,40,2022,High,Yes,16.3,High Risk,0.67604015,High,10/1/2022,Stable,Adequate,Standard
+988,Old Village 165,Bauchi,Nigeria,47881,130,13.41,1,20,6,4,72.9,48,10,16,1,40,2023,High,Yes,16.7,High Risk,0.673606199,High,10/9/2023,At Risk,Adequate,Structural Hotspot
+989,West Area 38,FCT,Nigeria,61006,528,21.91,2,12,4,1,7.7,13,62,29,6,85,2024,Medium,No,7.4,Medium Risk,0.32055726,Low,19/07/2024,Stable,Adequate,Standard
+990,Old Park 60,Kaduna,Nigeria,35557,218,8.05,1,16,6,3,63,38,23,24,1,45,2024,High,Yes,13.55,Medium Risk,0.555170845,Medium,25/12/2024,Stable,Adequate,Structural Hotspot
+991,West District 165,Imo,Nigeria,30140,306,9.91,1,18,6,4,34.9,39,38,13,3,50,2024,High,Yes,14.65,High Risk,0.619487206,Medium,13/07/2024,Stable,Adequate,Standard
+992,Old Market 58,Kaduna,Nigeria,63373,311,22.95,1,18,9,5,64.1,54,10,25,3,45,2023,High,Yes,17.9,High Risk,0.758392709,Critical,15/07/2023,Stable,Underserved,Structural Hotspot
+993,East Gate 50,Borno,Nigeria,22729,164,8.49,1,17,9,5,38.7,54,10,13,4,35,2023,High,Yes,17.55,High Risk,0.743175317,Critical,20/07/2023,Stable,Adequate,Standard
+994,Central Market 41,Kaduna,Nigeria,26515,138,7.74,1,15,7,5,49.6,47,27,17,3,45,2024,High,Yes,15.3,High Risk,0.648864937,High,5/9/2024,Stable,Adequate,Standard
+995,West Quarter 87,Lagos,Nigeria,73908,818,20.49,1,14,3,1,18.6,15,64,10,10,80,2023,High,Yes,8.15,Medium Risk,0.333527928,Low,8/3/2023,Stable,Underserved,Standard
+996,South Estate 156,FCT,Nigeria,53472,330,13.69,3,0,0,0,24.4,7,79,23,2,85,2023,Low,No,1.05,Low Risk,0,Low,8/4/2023,Stable,Adequate,Standard
+997,Old Area 96,Enugu,Nigeria,17333,177,6.12,2,13,7,4,61.2,43,11,22,1,55,2023,High,No,13.75,Medium Risk,0.576653838,Medium,24/09/2023,Stable,Adequate,Standard
+998,South Gate 74,Kano,Nigeria,54432,133,15.01,1,20,7,5,48.9,52,10,28,6,50,2024,High,No,17.8,High Risk,0.738109788,Critical,23/12/2024,Stable,Underserved,Standard
+999,South Village 110,Oyo,Nigeria,62590,189,17.3,1,15,6,5,59.4,43,37,29,5,60,2022,High,Yes,14.45,High Risk,0.615611348,Medium,23/04/2022,Stable,Underserved,Standard
+1000,South Park 138,Kaduna,Nigeria,42230,157,8.13,1,14,6,4,42.8,44,25,12,2,45,2023,High,Yes,14,Medium Risk,0.571775536,Medium,8/8/2023,Stable,Adequate,Standard
