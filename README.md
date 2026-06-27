@@ -60,9 +60,9 @@ The Power BI dashboard uses a **clean corporate environmental palette** — soft
 EcoTracK---AI/
 ├── README.md
 ├── data/
-│   └── EcoTrack_AI_Corrected.xlsx        # Corrected dataset with all computed columns
+│   └── EcoTrack_AI_Synthetic_Dataset---1.xlsx        # Corrected dataset with all computed columns
 ├── documentation/
-│   ├── EcoTrack_AI_Documentation.docx    # Full methodology and decisions log
+│   ├── EcoTrack_AI_Documentation_FINAL.docx    # Full methodology and decisions log
 │   └── EcoTrack_AI_Insights_Recommendations.docx  # Analyst insights report
 └── dashboard/
     └── EcoTrack_AI.pbix                  # Power BI dashboard (open in Power BI Desktop)
